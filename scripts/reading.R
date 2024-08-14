@@ -40,7 +40,7 @@ reading_player <- function(){
   for(league in allYearHTML){
     allYearHtml <- read_html(league)
     
-    for(yearID in 0:75){ # 2
+    for(yearID in 0:76){ # 2
       Year <- (2023 - yearID)  
       Year %>% print
       yearID %>% print
