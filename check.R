@@ -103,7 +103,7 @@ playerID <- html %>%
   html_attr("data-append-csv") %>% 
   splitRight("id=")
 
-fileName <- paste0("./data/pitching/", Year, teamName, ".csv")
+fileName <- paste0("./data_check/pitching/", Year, teamName, ".csv")
 fileName %>% print
 pitching_stats %>% 
   select(-Notes) %>% 
@@ -132,7 +132,7 @@ fielding_stats <- c()
 
 #for(pos in list("1B", "2B", "3B", "SS", "OF", "C", "P")){
 pos <- "1B"
-fileName <- paste0("./data/fielding/",Year,teamName,"-",pos,".csv")
+fileName <- paste0("./data_check/fielding/",Year,teamName,"-",pos,".csv")
 fileName %>% print
 xpath <- paste0(PATH, pos, '"]')
 xpath
@@ -158,7 +158,7 @@ field %>% select(-Notes) %>%
   relocate(Year, .after = Team) %>%
   relocate(Position, .after = Year)
 tryCatch({
-  fileName <- paste0("./data/fielding/",Year,teamName,"-",pos,".csv")
+  fileName <- paste0("./data_check/fielding/",Year,teamName,"-",pos,".csv")
   fileName %>% print
   field <- html %>% 
     html_node(xpath = paste0(PATH, pos, '"]')) %>% html_table
