@@ -39,136 +39,120 @@ if(!dir.exists("data_check")){
 }
   
 # for(league in allYearHTML){
-league <- allYearHTML[1]
-allYearHtml <- read_html(league)
-# for(yearID in 2:(today() %>% year()) - 1949){ # 2
-yearID <- 2
-Year <- (today() %>% year()) - yearID + 1
-Year %>% print
-yearID %>% print
-
-linkTeamList <- allYearHtml %>% 
-  html_nodes(xpath = paste0('//*[@id="lg_history"]/tbody/tr[', yearID, ']/td'))
-linkList <- linkTeamList %>% html_nodes("a") %>% html_attr("href")
-teamList <- linkTeamList %>% html_nodes("a") %>% html_text()
-teamList %>% print
-
-teamStatsURL <- paste0("http://www.baseball-reference.com", linkList)
-
-#for(i in 1:length(teamList)){
-i <- 2
-teamList[i] %>% print
-teamName <- teamList[i] %>% gsub(pattern = " ",  replacement = "")
-txt <- read_html(teamStatsURL[i]) %>% 
-  gsub("<!--", "", .) %>% gsub("-->", "", .)
-html <- read_html(txt)
-
-# batting_by_team
-batting_stats <- html %>% 
-  html_node(xpath = '//*[@id="team_batting"]') %>% html_table() 
-playerID <- html %>%
-  html_nodes(xpath = '//*[@id="team_batting"]/tbody/tr/td[1]') %>% 
-  html_attr("data-append-csv") %>% 
-  splitRight("id=")
-fileName <- paste0("./data_check/batting/", Year, teamName, ".csv")
-fileName %>% print
-
-batting_stats %>% 
-  select(-Notes) %>% 
-  filter(Rk != "") %>% 
-  mutate(
-    Team = teamList[i],
-    Year = Year,
-    PlayerID = playerID
-  )
-tryCatch({
-  batting_stats %>% 
-    select(-Notes) %>% 
-    filter(Rk != "") %>% 
-    mutate(
-      Team = teamList[i],
-      Year = Year,
-      PlayerID = playerID
-    ) %>%  
-    write_csv(file = fileName)
-},
-error = function(e){
-  message(paste("Error writing file:", fileName))
-  message("Error message:", e)
-}
-)
-
-# pitching_by_team
-pitching_stats <- html %>% 
-  html_node(xpath = '//*[@id="team_pitching"]') %>% html_table()
-playerID <- html %>%
-  html_nodes(xpath = '//*[@id="team_pitching"]/tbody/tr/td[1]') %>% 
-  html_attr("data-append-csv") %>% 
-  splitRight("id=")
-
-fileName <- paste0("./data_check/pitching/", Year, teamName, ".csv")
-fileName %>% print
-pitching_stats %>% 
-  select(-Notes) %>% 
-  filter(Rk != "") %>% 
-  mutate(
-    Team = teamList[i],
-    Year = Year,
-    PlayerID = playerID
-  ) %>% select(Team)
-tryCatch({
-  pitching_stats %>% 
-    select(-Notes) %>% 
-    filter(Rk != "") %>% 
-    mutate(
-      Team = teamList[i],
-      Year = Year,
-      PlayerID = playerID
-      ) %>%  
-    write_csv(file = fileName)
-},
-error = function(e){
-  message(paste("Error writing file:", fileName))
-  message("Error message:", e)
-}
-)
-
-# all_team_fielding
-PATH <- '//*[@id="team_fielding_'
-#for(pos in list("1B", "2B", "3B", "SS", "OF", "C", "P")){
-  pos <- "1B"
-  fileName <- paste0("./data_check/fielding/",Year,teamName,"-",pos,".csv")
-  fileName %>% print
-  xpath <- paste0(PATH, pos, '"]')
-  xpath
-  field <- html %>% html_node(xpath = xpath) %>% html_table()
-  playerID <- html %>% 
-    html_nodes(xpath = paste0(xpath, '/tbody/tr/th[1]')) %>% 
-    html_attr("data-append-csv") %>% 
-    splitRight("id=")
-  
-  tryCatch({
-    field %>% 
-      select(-Notes) %>% 
-      mutate(
-        Team = teamList[i],
-        Year = Year,
-        PlayerID = playerID,
-        position = pos
-      ) %>%  
-      write_csv(file = fileName)
-  },
-  error = function(e){
-    message(paste("Error writing file:", fileName))
-    message("Error message:", e)
-  }
-  )
-#}
-
-Sys.sleep(6) # Wait for 
-#}
-#}    
-#}
+  league <- allYearHTML[1]
+  allYearHtml <- read_html(league)
+    # for(yearID in 2:(today() %>% year()) - 1949){ # 2
+      yearID <- 2
+      Year <- (today() %>% year()) - yearID + 1
+      Year %>% print
+      yearID %>% print
+      
+      linkTeamList <- allYearHtml %>% 
+        html_nodes(xpath = paste0('//*[@id="lg_history"]/tbody/tr[', yearID, ']/td'))
+      linkList <- linkTeamList %>% html_nodes("a") %>% html_attr("href")
+      teamList <- linkTeamList %>% html_nodes("a") %>% html_text()
+      teamList %>% print
+      
+      teamStatsURL <- paste0("http://www.baseball-reference.com", linkList)
+    
+      #for(i in 1:length(teamList)){
+        i <- 2
+        teamList[i] %>% print
+        teamName <- teamList[i] %>% gsub(pattern = " ",  replacement = "")
+        txt <- read_html(teamStatsURL[i]) %>% 
+          gsub("<!--", "", .) %>% gsub("-->", "", .)
+        html <- read_html(txt)
+        
+        # batting_by_team
+        batting_stats <- html %>% 
+          html_node(xpath = '//*[@id="team_batting"]') %>% html_table() 
+        playerID <- html %>%
+          html_nodes(xpath = '//*[@id="team_batting"]/tbody/tr/td[1]') %>% 
+          html_attr("data-append-csv") %>% 
+          splitRight("id=")
+        fileName <- paste0("./data_check/batting/", Year, teamName, ".csv")
+        fileName %>% print
+        
+        tryCatch({
+            batting_stats %>% 
+              select(-Notes) %>% 
+              filter(Rk != "") %>% 
+              mutate(
+                Team = teamList[i],
+                Year = Year,
+                PlayerID = playerID
+              ) %>%  
+              write_csv(file = fileName)
+          },
+          error = function(e){
+            message(paste("Error writing file:", fileName))
+            message("Error message:", e)
+          }
+        )
+        
+        # pitching_by_team
+        pitching_stats <- html %>% 
+          html_node(xpath = '//*[@id="team_pitching"]') %>% html_table()
+        playerID <- html %>%
+          html_nodes(xpath = '//*[@id="team_pitching"]/tbody/tr/td[1]') %>% 
+          html_attr("data-append-csv") %>% 
+          splitRight("id=")
+        
+        fileName <- paste0("./data_check/pitching/", Year, teamName, ".csv")
+        fileName %>% print
+        tryCatch({
+          pitching_stats %>% 
+            select(-Notes) %>% 
+            filter(Rk != "") %>% 
+            mutate(
+              Team = teamList[i],
+              Year = Year,
+              PlayerID = playerID
+              ) %>%  
+            write_csv(file = fileName)
+          },
+          error = function(e){
+            message(paste("Error writing file:", fileName))
+            message("Error message:", e)
+          }
+        )
+        
+        # all_team_fielding
+        PATH <- '//*[@id="team_fielding_'
+        #for(pos in list("1B", "2B", "3B", "SS", "OF", "C", "P")){
+          pos <- "1B"
+          fileName <- paste0("./data_check/fielding/",Year,teamName,"-",pos,".csv")
+          fileName %>% print
+          xpath <- paste0(PATH, pos, '"]')
+          xpath
+          field <- html %>% html_node(xpath = xpath) %>% html_table()
+          playerID <- html %>% 
+            html_nodes(xpath = paste0(xpath, '/tbody/tr/th[1]')) %>% 
+            html_attr("data-append-csv") %>% 
+            splitRight("id=")
+          
+          tryCatch({
+            field %>% 
+              select(-Notes) %>% 
+              mutate(
+                Team = teamList[i],
+                Year = Year,
+                PlayerID = playerID,
+                position = pos
+              ) %>%  
+              write_csv(file = fileName)
+            },
+            error = function(e){
+              message(paste("Error writing file:", fileName))
+              message("Error message:", e)
+            }
+          )
+        #}
+        
+        Sys.sleep(6) # Wait for 
+      #}
+    #}
+  #}
 #}
 
 reading_player()
