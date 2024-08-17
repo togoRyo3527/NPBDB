@@ -39,17 +39,16 @@ if(!dir.exists("data_check")){
 }
   
 # for(league in allYearHTML){
-allYearHtml <- read_html(allYearHTML[1])
-today() %>% year()
-# for(yearID in 0:76){ # 2
-yearID <- 1
-Year <- (today() %>% year()) - yearID
+league <- allYearHTML[1]
+allYearHtml <- read_html(league)
+# for(yearID in 2:(today() %>% year()) - 1949){ # 2
+yearID <- 2
+Year <- (today() %>% year()) - yearID + 1
 Year %>% print
 yearID %>% print
 
 linkTeamList <- allYearHtml %>% 
-  html_nodes("table") %>% 
-  html_node(xpath = paste0('//*[@id="lg_history"]/tbody/tr[', yearID, ']/td'))
+  html_nodes(xpath = paste0('//*[@id="lg_history"]/tbody/tr[', yearID, ']/td'))
 linkList <- linkTeamList %>% html_nodes("a") %>% html_attr("href")
 teamList <- linkTeamList %>% html_nodes("a") %>% html_text()
 teamList %>% print
@@ -77,16 +76,20 @@ fileName %>% print
 batting_stats %>% 
   select(-Notes) %>% 
   filter(Rk != "") %>% 
-  mutate(Team = teamList[i]) %>% 
-  mutate(Year = Year) %>% 
-  mutate(PlayerID = playerID)
+  mutate(
+    Team = teamList[i],
+    Year = Year,
+    PlayerID = playerID
+  )
 tryCatch({
   batting_stats %>% 
     select(-Notes) %>% 
     filter(Rk != "") %>% 
-    mutate(Team = teamList[i]) %>% 
-    mutate(Year = Year) %>% 
-    mutate(PlayerID = playerID) %>% 
+    mutate(
+      Team = teamList[i],
+      Year = Year,
+      PlayerID = playerID
+    ) %>%  
     write_csv(file = fileName)
 },
 error = function(e){
@@ -108,16 +111,20 @@ fileName %>% print
 pitching_stats %>% 
   select(-Notes) %>% 
   filter(Rk != "") %>% 
-  mutate(Team = teamList[i]) %>% 
-  mutate(Year = Year) %>% 
-  mutate(PlayerID = playerID)
+  mutate(
+    Team = teamList[i],
+    Year = Year,
+    PlayerID = playerID
+  ) %>% select(Team)
 tryCatch({
   pitching_stats %>% 
     select(-Notes) %>% 
     filter(Rk != "") %>% 
-    mutate(Team = teamList[i]) %>% 
-    mutate(Year = Year) %>% 
-    mutate(PlayerID = playerID) %>% 
+    mutate(
+      Team = teamList[i],
+      Year = Year,
+      PlayerID = playerID
+      ) %>%  
     write_csv(file = fileName)
 },
 error = function(e){
@@ -128,66 +135,34 @@ error = function(e){
 
 # all_team_fielding
 PATH <- '//*[@id="team_fielding_'
-fielding_stats <- c()
-
 #for(pos in list("1B", "2B", "3B", "SS", "OF", "C", "P")){
-pos <- "1B"
-fileName <- paste0("./data_check/fielding/",Year,teamName,"-",pos,".csv")
-fileName %>% print
-xpath <- paste0(PATH, pos, '"]')
-xpath
-field <- html %>% html_node(xpath = '//*[@id="team_fielding_1B"]') %>% html_table()
-field <- html %>% html_table()
-  html_node(xpath = paste0(PATH, pos, '"]'))# %>% html_table()
-playerID <- html %>% 
-  html_nodes(xpath = paste0(PATH, pos, '"]/tbody/tr/th[1]')) %>% 
-  lapply(FUN = function(x){gsub("<b>", "", x)}) %>% unlist %>% 
-  lapply(FUN = function(x){gsub("</b>", "", x)}) %>% unlist %>% 
-  lapply(FUN = function(x){strsplit(x, split="\\?")[[1]][2]}) %>% 
-  lapply(FUN = function(x){strsplit(x, split=">")[[1]][1]}) %>% 
-  lapply(FUN = function(x){gsub("id=", "", x)}) %>% 
-  lapply(FUN = function(x){gsub("\"", "", x)}) %>% unlist %>% 
-  lapply(FUN = function(x){splitLeft(x, " data-stat=player")}) %>% unlist
-field %>% select(-Notes) %>% 
-  mutate(
-    Team = teamList[1], Year = Year, 
-    PlayerID = playerID, Position = pos
-  ) %>% 
-  relocate(PlayerID, .after = Name) %>% 
-  relocate(Team, .after = PlayerID) %>% 
-  relocate(Year, .after = Team) %>%
-  relocate(Position, .after = Year)
-tryCatch({
+  pos <- "1B"
   fileName <- paste0("./data_check/fielding/",Year,teamName,"-",pos,".csv")
   fileName %>% print
-  field <- html %>% 
-    html_node(xpath = paste0(PATH, pos, '"]')) %>% html_table
-  playerID <- 
-    html %>% 
-    html_nodes(xpath = paste0(PATH, pos, '"]/tbody/tr/th[1]')) %>% 
-    lapply(FUN = function(x){gsub("<b>", "", x)}) %>% unlist %>% 
-    lapply(FUN = function(x){gsub("</b>", "", x)}) %>% unlist %>% 
-    lapply(FUN = function(x){strsplit(x, split="\\?")[[1]][2]}) %>% 
-    lapply(FUN = function(x){strsplit(x, split=">")[[1]][1]}) %>% 
-    lapply(FUN = function(x){gsub("id=", "", x)}) %>% 
-    lapply(FUN = function(x){gsub("\"", "", x)}) %>% unlist %>% 
-    lapply(FUN = function(x){splitLeft(x, " data-stat=player")}) %>% unlist
-  field %>% select(-Notes) %>% 
-    mutate(
-      Team = teamList[1], Year = Year, 
-      PlayerID = playerID, Position = pos
-    ) %>% 
-    relocate(PlayerID, .after = Name) %>% 
-    relocate(Team, .after = PlayerID) %>% 
-    relocate(Year, .after = Team) %>%
-    relocate(Position, .after = Year) %>% 
-    write_csv(file = fileName)
-},
-error = function(e){
-  message(paste("Error writing file:", fileName))
-  message("Error message:", e)
-}
-)
+  xpath <- paste0(PATH, pos, '"]')
+  xpath
+  field <- html %>% html_node(xpath = xpath) %>% html_table()
+  playerID <- html %>% 
+    html_nodes(xpath = paste0(xpath, '/tbody/tr/th[1]')) %>% 
+    html_attr("data-append-csv") %>% 
+    splitRight("id=")
+  
+  tryCatch({
+    field %>% 
+      select(-Notes) %>% 
+      mutate(
+        Team = teamList[i],
+        Year = Year,
+        PlayerID = playerID,
+        position = pos
+      ) %>%  
+      write_csv(file = fileName)
+  },
+  error = function(e){
+    message(paste("Error writing file:", fileName))
+    message("Error message:", e)
+  }
+  )
 #}
 
 Sys.sleep(6) # Wait for 
@@ -197,6 +172,8 @@ Sys.sleep(6) # Wait for
 #}
 
 reading_player()
+
+
 
 
 # NBP data ####

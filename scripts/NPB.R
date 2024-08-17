@@ -173,8 +173,4 @@ result111 %>%
     
     ) %>% 
   select(ドラフト,draftYear,draft) %>% tail(20)
-  
-
-
-
 
