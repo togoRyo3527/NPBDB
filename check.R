@@ -150,10 +150,10 @@ if(!dir.exists("data_check")){
         #}
         
         Sys.sleep(6) # Wait for 
-      #}
-    #}
-  #}
-#}
+      # }
+    # }
+  # }
+# }
 
 reading_player()
 

@@ -39,18 +39,16 @@ reading_player <- function(){
   
   for(league in allYearHTML){
     allYearHtml <- read_html(league)
-    
-    for(yearID in 0:76){ # 2
-      Year <- (2023 - yearID)  
-      Year %>% print
-      yearID %>% print
+    # 年度を指定する 1950 ~ 2023
+    for(yearID in 46:((today() %>% year()) - 1949)){ # 2
+      Year <- (today() %>% year()) - yearID + 1
+      paste("Yrear:", Year) %>% print
+      paste("yearID", yearID) %>% print
       
       linkTeamList <- allYearHtml %>% 
-        html_nodes(
-          xpath = paste0('//*[@id="lg_history"]/tbody/tr[', yearID, ']/td/a')
-        )
-      linkList <- linkTeamList %>% html_attr("href")
-      teamList <- linkTeamList %>% html_text()
+        html_nodes(xpath = paste0('//*[@id="lg_history"]/tbody/tr[', yearID, ']/td'))
+      linkList <- linkTeamList %>% html_nodes("a") %>% html_attr("href")
+      teamList <- linkTeamList %>% html_nodes("a") %>% html_text()
       teamList %>% print
       
       teamStatsURL <- paste0("http://www.baseball-reference.com", linkList)
@@ -61,28 +59,27 @@ reading_player <- function(){
         txt <- read_html(teamStatsURL[i]) %>% 
           gsub("<!--", "", .) %>% gsub("-->", "", .)
         html <- read_html(txt)
-        
-        # batting
-        batting_stats <- html %>% 
-          html_node(xpath = '//*[@id="team_batting"]') %>% html_table 
-        playerID <- 
-          html %>%
-          html_nodes(xpath = '//*[@id="team_batting"]/tbody/tr/td[1]') %>% 
-          lapply(FUN = function(x){gsub("<b>", "", x)}) %>% unlist %>% 
-          lapply(FUN = function(x){gsub("</b>", "", x)}) %>% unlist %>% 
-          lapply(FUN = function(x){strsplit(x, split="\\?")[[1]][2]}) %>% 
-          lapply(FUN = function(x){strsplit(x, split=">")[[1]][1]}) %>% 
-          lapply(FUN = function(x){gsub("id=", "", x)}) %>% 
-          lapply(FUN = function(x){gsub("\"", "", x)}) %>% unlist %>% 
-          lapply(FUN = function(x){splitLeft(x, " data-stat=player")}) %>% unlist
-        fileName <- paste0("./data/batting/", Year, teamName, ".csv")
-        fileName %>% print
+      
+# 各チームの個人打撃成績 -------------------------------------------------------------
         tryCatch({
-          batting_stats[,-27] %>% 
+          batting_stats <- html %>% 
+            html_node(xpath = '//*[@id="team_batting"]') %>% html_table() 
+          playerID <- html %>%
+            html_nodes(xpath = '//*[@id="team_batting"]/tbody/tr/td[1]') %>% 
+            html_attr("data-append-csv") %>% 
+            splitRight("id=")
+          
+          fileName <- paste0("./data/batting/", Year, teamName, ".csv")
+          fileName %>% print
+          batting_stats %>% 
+            select(-Notes) %>% 
             filter(Rk != "") %>% 
-            mutate(Team = teamList[i]) %>% 
-            mutate(Year = Year) %>% 
-            mutate(PlayerID = playerID) %>% 
+            mutate(
+              Team = teamList[i],
+              Year = Year,
+              PlayerID = playerID
+            ) %>%  
+            select(Year, Team, PlayerID, everything(), -Rk) %>% 
             write_csv(file = fileName)
           },
           error = function(e){
@@ -90,29 +87,27 @@ reading_player <- function(){
             message("Error message:", e)
           }
         )
-        
-        # pitching
-        pitching_stats <- html %>% 
-          html_node(xpath = '//*[@id="team_pitching"]') %>% html_table
-        playerID <- 
-          html %>%
-          html_nodes(xpath = '//*[@id="team_pitching"]/tbody/tr/td[1]') %>% 
-          lapply(FUN = function(x){gsub("<b>", "", x)}) %>% unlist %>% 
-          lapply(FUN = function(x){gsub("</b>", "", x)}) %>% unlist %>% 
-          lapply(FUN = function(x){strsplit(x, split="\\?")[[1]][2]}) %>% 
-          lapply(FUN = function(x){strsplit(x, split=">")[[1]][1]}) %>% 
-          lapply(FUN = function(x){gsub("id=", "", x)}) %>% 
-          lapply(FUN = function(x){gsub("\"", "", x)}) %>% unlist %>% 
-          lapply(FUN = function(x){splitLeft(x, " data-stat=player")}) %>% unlist
-        
-        fileName <- paste0("./data/pitching/", Year, teamName, ".csv")
-        fileName %>% print
+
+# 各チームの個人投球成績 -------------------------------------------------------------
         tryCatch({
-          pitching_stats[,-32] %>% 
+          pitching_stats <- html %>% 
+            html_node(xpath = '//*[@id="team_pitching"]') %>% html_table()
+          playerID <- html %>%
+            html_nodes(xpath = '//*[@id="team_pitching"]/tbody/tr/td[1]') %>% 
+            html_attr("data-append-csv") %>% 
+            splitRight("id=")
+        
+          fileName <- paste0("./data/pitching/", Year, teamName, ".csv")
+          fileName %>% print
+          pitching_stats %>% 
+            select(-Notes) %>% 
             filter(Rk != "") %>% 
-            mutate(Team = teamList[i]) %>% 
-            mutate(Year = Year) %>% 
-            mutate(PlayerID = playerID) %>% 
+            mutate(
+              Team = teamList[i],
+              Year = Year,
+              PlayerID = playerID
+            ) %>%  
+            select(Year, Team, PlayerID, everything(), -Rk) %>% 
             write_csv(file = fileName)
           },
           error = function(e){
@@ -120,50 +115,50 @@ reading_player <- function(){
             message("Error message:", e)
           }
         )
-        
-        # all_team_fielding
+
+# 各チームポジション別個人守備成績 --------------------------------------------------------
         PATH <- '//*[@id="team_fielding_'
-        fielding_stats <- c()
-        
         for(pos in list("1B", "2B", "3B", "SS", "OF", "C", "P")){
+          fileName <- paste0("./data/fielding/",Year,teamName,"_",pos,".csv")
+          fileName %>% print
+          xpath <- paste0(PATH, pos, '"]')
           tryCatch({
-            fileName <- paste0("./data/fielding/",Year,teamName,"-",pos,".csv")
-            fileName %>% print
-            field <- html %>% 
-              html_node(xpath = paste0(PATH, pos, '"]')) %>% html_table
-            playerID <- 
-              html %>% 
-              html_nodes(xpath = paste0(PATH, pos, '"]/tbody/tr/th[1]')) %>% 
-              lapply(FUN = function(x){gsub("<b>", "", x)}) %>% unlist %>% 
-              lapply(FUN = function(x){gsub("</b>", "", x)}) %>% unlist %>% 
-              lapply(FUN = function(x){strsplit(x, split="\\?")[[1]][2]}) %>% 
-              lapply(FUN = function(x){strsplit(x, split=">")[[1]][1]}) %>% 
-              lapply(FUN = function(x){gsub("id=", "", x)}) %>% 
-              lapply(FUN = function(x){gsub("\"", "", x)}) %>% unlist %>% 
-              lapply(FUN = function(x){splitLeft(x, " data-stat=player")}) %>% unlist
-            field %>% select(-Notes) %>% 
+            field <- html %>% html_node(xpath = xpath)
+            
+            # もし守備データが無い場合はループを抜ける
+            if(is.na(field)){
+              messege("守備データがありません")
+              break
+            }
+            
+            field <- field %>% html_table()
+            playerID <- html %>% 
+              html_nodes(xpath = paste0(xpath, '/tbody/tr/th[1]')) %>% 
+              html_attr("data-append-csv") %>% 
+              splitRight("id=")
+            field %>% 
+              select(-Notes) %>% 
               mutate(
-                Team = teamList[1], Year = Year, 
-                PlayerID = playerID, Position = pos
-              ) %>% 
-              relocate(PlayerID, .after = Name) %>% 
-              relocate(Team, .after = PlayerID) %>% 
-              relocate(Year, .after = Team) %>%
-              relocate(Position, .after = Year) %>% 
+                Team = teamList[i],
+                Year = Year,
+                PlayerID = playerID,
+                position = pos
+              ) %>%  
+              select(Year, Team, position, PlayerID, everything()) %>% 
               write_csv(file = fileName)
             },
             error = function(e){
               message(paste("Error writing file:", fileName))
-              message("Error message:", e)
-            }
+          }
           )
         }
-        
-        Sys.sleep(6) # Wait for 
+        # Wait for 
+        Sys.sleep(10) 
       }
-    }    
+    }
   }
 }
+
 
 reading_player()
 

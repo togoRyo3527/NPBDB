@@ -1,0 +1,23 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1986,Hankyu Braves,fujita000hir,Hiromasa Fujita,24,126,460,419,52,106,16,1,18,53,0,0,22,69,0.253,0.293,0.425,0.718,178,15,3,13,3,0
+1986,Hankyu Braves,fukuha000min,Mineo Fukuhara,28,75,29,26,2,4,0,1,0,1,0,0,2,7,0.154,0.214,0.231,0.445,6,0,0,1,0,0
+1986,Hankyu Braves,fukumo000yut,Yutaka Fukumoto*,38,130,520,454,75,120,18,2,8,29,23,12,55,55,0.264,0.346,0.366,0.711,166,2,3,5,3,1
+1986,Hankyu Braves,fukura000jun,Junichi Fukura,26,122,468,404,68,125,23,4,12,44,14,5,36,43,0.309,0.385,0.475,0.86,192,12,15,11,2,1
+1986,Hankyu Braves,iizuka000tom,Tomiji Iizuka,23,44,64,50,7,9,3,0,1,7,0,0,8,9,0.18,0.307,0.3,0.607,15,1,2,2,2,0
+1986,Hankyu Braves,ishimi000kaz,Kazuhiko Ishimine,25,126,510,454,62,136,19,2,33,96,3,1,50,64,0.3,0.369,0.568,0.938,258,11,2,1,3,5
+1986,Hankyu Braves,iwamot000yos,Yoshihiro Iwamoto,26,90,82,76,16,15,3,0,1,6,12,0,3,12,0.197,0.247,0.276,0.523,21,3,2,1,0,0
+1986,Hankyu Braves,kataok000shi,Shinnosuke Kataoka,38,7,2,1,0,0,0,0,0,0,0,0,1,1,0,0.5,0,0.5,0,0,0,0,0,0
+1986,Hankyu Braves,kobaya002shi,Shinya Kobayashi*,33,85,166,142,14,31,4,0,6,21,2,2,22,19,0.218,0.323,0.373,0.696,53,5,0,2,0,1
+1986,Hankyu Braves,kumano000ter,Terumitsu Kumano*,28,116,322,278,30,66,7,0,11,33,7,2,38,53,0.237,0.328,0.381,0.709,106,6,1,2,3,3
+1986,Hankyu Braves,matsun002hir,Hiromi Matsunaga#,25,130,567,492,80,148,31,3,19,75,20,9,70,88,0.301,0.391,0.492,0.882,242,15,3,1,1,7
+1986,Hankyu Braves,minami000toy,Toyozo Minamimure,25,71,128,121,7,26,3,0,0,7,4,0,6,20,0.215,0.252,0.24,0.492,29,4,0,1,0,0
+1986,Hankyu Braves,minoda000koj,Koji Minoda,34,67,281,240,39,75,17,0,9,31,0,1,38,25,0.313,0.411,0.496,0.907,119,8,2,1,0,2
+1986,Hankyu Braves,muraka000shi,Shinichi Murakami*,22,19,26,22,2,4,1,0,0,0,0,1,3,9,0.182,0.308,0.227,0.535,5,0,1,0,0,0
+1986,Hankyu Braves,nagamu000hir,Hiroyuki Nagamura,27,26,37,30,2,5,2,0,0,6,0,0,4,3,0.167,0.257,0.233,0.49,7,2,0,2,1,0
+1986,Hankyu Braves,sato--003yos,Yoshinori Sato,31,22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1986,Hankyu Braves,shibah000min,Minoru Shibahara*,25,80,82,75,6,13,2,1,1,7,2,0,5,16,0.173,0.225,0.267,0.492,20,0,0,2,0,0
+1986,Hankyu Braves,wakuka000tsu,Tsutomu Wakukawa,27,3,4,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1986,Hankyu Braves,wells-001gre,Greg Wells,32,127,553,494,94,173,20,2,42,103,1,1,54,38,0.35,0.418,0.654,1.072,323,14,4,0,1,10
+1986,Hankyu Braves,yamamo003mas,Masafumi Yamamori,25,102,126,113,13,32,8,0,10,20,0,5,5,19,0.283,0.317,0.62,0.936,70,4,1,6,1,0
+1986,Hankyu Braves,yonemu000osa,Osamu Yonemura,27,45,82,73,7,24,3,0,3,11,0,1,9,16,0.329,0.402,0.493,0.896,36,2,0,0,0,0
+1986,Hankyu Braves,yumiok000kei,Keijiro Yumioka,28,127,520,452,55,115,17,2,6,43,12,3,38,24,0.254,0.315,0.341,0.656,154,8,3,25,2,0

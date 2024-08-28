@@ -1,0 +1,27 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1950,Hankyu Braves,abe---000hac,Hachiro Abe*,25,57,119,119,9,25,4,1,3,17,1,0,0,13,0.21,0.21,0.336,0.546,40,3,0,0,NA,NA
+1950,Hankyu Braves,akashi000koi,Koichi Akashi,23,62,175,158,21,35,6,4,0,7,8,3,9,13,0.222,0.268,0.31,0.578,49,3,1,7,NA,NA
+1950,Hankyu Braves,arai--000kaz,Kazuhito Arai,18,1,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,NA,NA
+1950,Hankyu Braves,fujii-000mic,Michio Fujii,27,112,376,342,43,80,9,4,4,35,15,5,30,15,0.234,0.298,0.319,0.616,109,8,1,3,NA,NA
+1950,Hankyu Braves,furuka000sei,Seizo Furukawa,28,115,478,423,92,118,19,3,13,49,56,14,48,36,0.279,0.357,0.43,0.787,182,3,3,4,NA,NA
+1950,Hankyu Braves,hamasa000shi,Shinji Hamasaki*,48,11,12,12,1,3,0,1,0,1,0,0,0,1,0.25,0.25,0.417,0.667,5,0,0,0,NA,NA
+1950,Hankyu Braves,harada000koi,Koichi Harada,22,30,49,46,6,7,3,0,2,2,0,0,3,10,0.152,0.204,0.348,0.552,16,1,0,0,NA,NA
+1950,Hankyu Braves,higash000nat,Natsuki Higashidani*,19,84,263,244,25,59,8,9,3,30,6,6,16,36,0.242,0.297,0.385,0.682,94,6,3,0,NA,NA
+1950,Hankyu Braves,hitoko000taj,Taju Hitokoto,29,30,46,41,5,7,0,0,1,6,2,0,4,5,0.171,0.244,0.244,0.488,10,1,0,1,NA,NA
+1950,Hankyu Braves,itoh--000har,Haruo Ito,32,18,30,30,1,4,0,0,0,0,0,0,0,10,0.133,0.133,0.133,0.267,4,0,0,0,NA,NA
+1950,Hankyu Braves,kawai-000koz,Kozo Kawai*,23,120,520,492,73,139,18,11,2,40,33,10,21,23,0.283,0.317,0.376,0.693,185,4,4,3,NA,NA
+1950,Hankyu Braves,kawash000nor,Noriaki Kawashima,22,6,7,7,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,NA,NA
+1950,Hankyu Braves,nakata000jun,Junji Nakatani,32,115,485,431,72,129,28,1,21,98,28,6,51,32,0.299,0.376,0.515,0.891,222,7,2,1,NA,NA
+1950,Hankyu Braves,nishim000mas,Masao Nishimura*,37,5,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1950,Hankyu Braves,noguch000jir,Jiro Noguchi,30,107,342,332,28,86,16,1,3,41,8,3,9,11,0.259,0.279,0.34,0.619,113,11,0,1,NA,NA
+1950,Hankyu Braves,osaki-000aki,Akio Osaki,19,4,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,NA,NA
+1950,Hankyu Braves,shibat000eij,Eiji Shibata,19,14,28,28,1,5,0,0,0,1,0,0,0,10,0.179,0.179,0.179,0.357,5,3,0,0,NA,NA
+1950,Hankyu Braves,shindo000sad,Sadafumi Shindo*,25,66,144,124,24,31,10,1,2,14,6,1,19,23,0.25,0.35,0.395,0.745,49,2,0,1,NA,NA
+1950,Hankyu Braves,tamako000tad,Tadayoshi Tamakoshi,30,23,90,78,11,25,5,1,2,12,5,1,8,4,0.321,0.391,0.487,0.878,38,2,1,3,NA,NA
+1950,Hankyu Braves,tenpo-000yos,Yoshio Tenbo,26,57,139,128,11,27,3,2,1,13,3,1,9,16,0.211,0.273,0.289,0.563,37,2,2,0,NA,NA
+1950,Hankyu Braves,torii-000hei,Heiji Torii*,28,9,6,6,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,NA,NA
+1950,Hankyu Braves,uchio-000isa,Isamu Uchio?,23,69,288,263,28,55,10,0,3,21,5,1,23,29,0.209,0.275,0.281,0.557,74,5,1,1,NA,NA
+1950,Hankyu Braves,ueda--002tak,Takehiko Ueda,23,94,308,294,24,72,10,2,2,31,7,0,12,15,0.245,0.277,0.313,0.59,92,8,1,1,NA,NA
+1950,Hankyu Braves,wanaka000mic,Michio Wanaka,23,32,45,44,2,8,1,0,0,2,2,0,1,6,0.182,0.2,0.205,0.405,9,3,0,0,NA,NA
+1950,Hankyu Braves,yabe--000shi,Shigeru Yabe,22,53,126,114,10,26,5,2,1,12,3,1,12,24,0.228,0.302,0.333,0.635,38,0,0,0,NA,NA
+1950,Hankyu Braves,yamash000tak,Takeshi Yamashita,18,111,360,322,31,58,8,3,6,27,5,1,33,87,0.18,0.263,0.28,0.542,90,8,3,2,NA,NA

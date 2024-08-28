@@ -1,0 +1,23 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1984,Hankyu Braves,ariga-000yos,Yoshihiro Ariga,26,52,62,50,6,6,0,0,0,3,0,1,8,15,0.12,0.254,0.12,0.374,6,1,1,3,0,0
+1984,Hankyu Braves,fujita000hir,Hiromasa Fujita,22,98,326,289,45,83,12,0,22,69,3,1,25,45,0.287,0.343,0.557,0.9,161,6,1,8,3,1
+1984,Hankyu Braves,fukuha000min,Mineo Fukuhara,26,120,263,220,31,59,7,0,6,22,2,3,24,48,0.268,0.339,0.382,0.721,84,5,1,15,3,0
+1984,Hankyu Braves,fukumo000yut,Yutaka Fukumoto*,36,130,585,488,93,126,22,2,9,41,36,17,85,41,0.258,0.369,0.367,0.736,179,3,2,8,2,1
+1984,Hankyu Braves,iizuka000tom,Tomiji Iizuka,21,3,10,9,1,2,0,0,1,1,0,0,1,1,0.222,0.3,0.556,0.856,5,0,0,0,0,0
+1984,Hankyu Braves,ishimi000kaz,Kazuhiko Ishimine,23,44,120,108,13,25,6,0,6,14,0,0,7,19,0.232,0.308,0.454,0.762,49,9,5,0,0,0
+1984,Hankyu Braves,iwamot000yos,Yoshihiro Iwamoto,24,48,23,21,13,3,0,0,1,3,6,1,0,2,0.143,0.174,0.286,0.46,6,0,1,0,1,0
+1984,Hankyu Braves,kobaya002shi,Shinya Kobayashi*,31,116,383,343,41,95,13,0,13,47,9,2,33,31,0.277,0.338,0.429,0.766,147,5,0,4,3,3
+1984,Hankyu Braves,matsun002hir,Hiromi Matsunaga#,23,125,525,458,84,142,24,6,19,70,21,5,55,57,0.31,0.388,0.513,0.901,235,10,5,4,3,3
+1984,Hankyu Braves,minami000toy,Toyozo Minamimure,23,30,17,16,5,4,1,0,0,5,3,0,0,2,0.25,0.25,0.313,0.563,5,0,0,1,0,0
+1984,Hankyu Braves,minoda000koj,Koji Minoda,32,119,519,436,74,122,13,3,26,88,5,2,70,56,0.28,0.377,0.502,0.88,219,10,2,5,6,1
+1984,Hankyu Braves,mizuta000jit,Jitsuo Mizutani,36,63,185,160,14,29,3,0,3,20,0,1,19,42,0.181,0.27,0.256,0.527,41,6,2,0,4,0
+1984,Hankyu Braves,muraka000shi,Shinichi Murakami*,20,22,43,39,6,10,0,0,4,8,1,0,3,8,0.256,0.31,0.564,0.874,22,1,0,1,0,0
+1984,Hankyu Braves,nagamu000hir,Hiroyuki Nagamura,25,31,41,35,1,9,1,0,0,1,0,0,5,6,0.257,0.35,0.286,0.636,10,0,0,1,0,0
+1984,Hankyu Braves,nakaza000shi,Shinji Nakazawa,38,65,169,148,12,28,3,1,1,16,0,0,14,28,0.189,0.262,0.243,0.505,36,8,1,5,1,0
+1984,Hankyu Braves,wakuka000tsu,Tsutomu Wakukawa,25,42,4,4,6,1,0,0,0,1,6,3,0,2,0.25,0.25,0.25,0.5,1,0,0,0,0,0
+1984,Hankyu Braves,wells-001gre,Greg Wells,30,128,549,482,82,171,23,2,37,130,2,3,55,33,0.355,0.421,0.641,1.062,309,19,5,0,7,12
+1984,Hankyu Braves,wills-001ell,Bump Wills#,31,78,247,207,24,48,8,1,4,24,2,1,31,40,0.232,0.343,0.338,0.681,70,5,5,2,2,1
+1984,Hankyu Braves,yamamo003mas,Masafumi Yamamori,23,115,214,195,22,40,9,1,6,28,2,2,11,22,0.205,0.261,0.354,0.615,69,6,4,3,1,0
+1984,Hankyu Braves,yonemu000osa,Osamu Yonemura,25,68,17,14,3,1,0,0,0,0,1,0,3,2,0.071,0.235,0.071,0.307,1,0,0,0,0,0
+1984,Hankyu Braves,yoshiz000tos,Toshiyuki Yoshizawa,29,110,105,85,23,18,3,0,2,7,4,1,10,22,0.212,0.317,0.318,0.634,27,0,4,4,2,0
+1984,Hankyu Braves,yumiok000kei,Keijiro Yumioka,26,125,570,470,72,143,18,5,6,45,15,10,43,26,0.304,0.361,0.402,0.763,189,12,2,49,6,0

@@ -1,0 +1,26 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1950,Chunichi Dragons,harada000tok,Tokuzo Harada*,30,137,622,565,94,173,34,12,13,79,30,9,50,35,0.306,0.365,0.478,0.843,270,6,2,5,NA,NA
+1950,Chunichi Dragons,hattor000tsu,Tsuguhiro Hattori,30,63,126,120,21,33,4,0,0,18,9,0,6,10,0.275,0.31,0.308,0.618,37,4,0,0,NA,NA
+1950,Chunichi Dragons,honda-000its,Itsuro Honda*,19,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1950,Chunichi Dragons,hoshid000jir,Jiro Hoshida,30,19,33,30,4,4,1,0,0,1,0,0,1,2,0.133,0.161,0.167,0.328,5,0,0,2,NA,NA
+1950,Chunichi Dragons,kato--000aki,Akiro Kato,19,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1950,Chunichi Dragons,kato--000sus,Susumu Kato,26,76,189,160,26,33,6,3,5,21,2,5,25,23,0.206,0.321,0.375,0.696,60,5,2,2,NA,NA
+1950,Chunichi Dragons,kojima000tei,Teiji Kojima*,23,6,5,5,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA
+1950,Chunichi Dragons,kondo-000sad,Sadao Kondo,24,26,62,58,11,21,4,1,0,8,2,0,4,3,0.362,0.403,0.466,0.869,27,0,0,0,NA,NA
+1950,Chunichi Dragons,kunied000tos,Toshimichi Kunieda,30,133,554,489,84,133,26,8,3,58,39,16,57,31,0.272,0.348,0.376,0.724,184,7,0,8,NA,NA
+1950,Chunichi Dragons,kuno--000kat,Katsumi Kuno*,25,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1950,Chunichi Dragons,maruya000fum,Fumio Maruyama*,25,5,2,1,1,0,0,0,0,0,0,0,1,0,0,0.5,0,0.5,0,0,0,0,NA,NA
+1950,Chunichi Dragons,matsum000kaz,Kazuo Matsumoto,26,135,538,481,65,124,23,6,1,52,29,12,47,43,0.258,0.326,0.337,0.663,162,14,2,8,NA,NA
+1950,Chunichi Dragons,mitomi000tsu,Tsuneo Mitomi*,29,24,32,31,4,6,1,1,0,2,0,0,0,8,0.194,0.194,0.29,0.484,9,0,0,1,NA,NA
+1950,Chunichi Dragons,miyash000nob,Nobuaki Miyashita,25,31,74,70,12,15,3,1,0,6,0,0,2,7,0.214,0.236,0.286,0.522,20,2,0,2,NA,NA
+1950,Chunichi Dragons,nishiz000mic,Michio Nishizawa,28,137,618,562,104,175,22,3,46,135,4,3,56,45,0.311,0.374,0.607,0.981,341,22,0,0,NA,NA
+1950,Chunichi Dragons,noguch000aki,Akira Noguchi,32,137,571,538,65,146,28,2,18,73,3,3,33,40,0.271,0.314,0.431,0.745,232,6,0,0,NA,NA
+1950,Chunichi Dragons,shimiz000hid,Hideo Shimizu*,31,24,51,51,5,11,1,0,0,3,0,0,0,4,0.216,0.216,0.235,0.451,12,0,0,0,NA,NA
+1950,Chunichi Dragons,sugish000shi,Shigeru Sugishita,24,55,133,119,14,32,5,3,3,15,0,0,10,14,0.269,0.326,0.437,0.763,52,3,0,4,NA,NA
+1950,Chunichi Dragons,sugiur000kiy,Kiyoshi Sugiura,35,128,533,463,83,137,28,4,26,96,13,6,69,55,0.296,0.387,0.542,0.929,251,14,0,1,NA,NA
+1950,Chunichi Dragons,sugiya000sat,Satoru Sugiyama,24,128,494,457,67,110,17,3,21,63,19,4,36,67,0.241,0.298,0.429,0.727,196,7,1,0,NA,NA
+1950,Chunichi Dragons,sugiya000tet,Tetsuo Sugiyama,23,4,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA
+1950,Chunichi Dragons,suzuki008tak,Takashi Suzuki*,19,4,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1950,Chunichi Dragons,takemo000sug,Suguru Takemoto,24,3,3,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,NA,NA
+1950,Chunichi Dragons,tsuboc000mic,Michinori Tsubochi,36,123,520,469,73,135,25,6,7,57,28,8,38,24,0.288,0.352,0.412,0.763,193,8,8,5,NA,NA
+1950,Chunichi Dragons,tsuchi000tor,Toru Tsuchiya,26,53,116,104,11,23,1,1,1,6,1,0,9,8,0.221,0.29,0.279,0.568,29,3,1,2,NA,NA

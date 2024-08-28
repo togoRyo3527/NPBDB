@@ -1,0 +1,26 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1952,Shochiku Robins,hayash001shi,Shigeru Hayashi,28,4,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA
+1952,Shochiku Robins,hirano001ken,Kenji Hirano,24,101,413,379,32,85,17,3,4,29,6,4,24,46,0.224,0.279,0.317,0.596,120,4,5,5,NA,NA
+1952,Shochiku Robins,ishika000kiy,Kiyoitsu Ishikawa,25,7,7,7,0,2,0,0,0,0,0,0,0,0,0.286,0.286,0.286,0.571,2,0,0,0,NA,NA
+1952,Shochiku Robins,izutsu000ken,Kenichi Izutsu,32,25,24,23,3,2,0,0,0,0,0,0,0,3,0.087,0.087,0.087,0.174,2,0,0,1,NA,NA
+1952,Shochiku Robins,kanaya000jir,Jiro Kanayama,29,117,510,483,48,115,18,5,3,22,63,20,23,43,0.238,0.276,0.315,0.59,152,5,2,2,NA,NA
+1952,Shochiku Robins,kanzak000yas,Yasutaka Kanzaki,19,18,7,7,2,1,0,0,0,0,0,0,0,0,0.143,0.143,0.143,0.286,1,0,0,0,NA,NA
+1952,Shochiku Robins,kataya002hir,Hiroshi Katayama*,28,44,78,69,4,12,3,0,0,2,0,1,5,21,0.174,0.24,0.217,0.457,15,2,1,3,NA,NA
+1952,Shochiku Robins,kobaya001aki,Akiyoshi Kobayashi,28,119,490,453,31,105,9,0,5,33,7,4,30,49,0.232,0.281,0.285,0.566,129,16,1,6,NA,NA
+1952,Shochiku Robins,kobaya000tsu,Tsuneo Kobayashi*,26,50,121,117,8,22,0,0,0,4,0,0,4,19,0.188,0.215,0.188,0.403,22,1,0,0,NA,NA
+1952,Shochiku Robins,kodama000sac,Yukio Kodama,19,12,8,8,0,1,1,0,0,0,0,0,0,2,0.125,0.125,0.25,0.375,2,0,0,0,NA,NA
+1952,Shochiku Robins,koduru000mak,Makoto Kozuru,29,119,502,450,57,128,24,0,17,49,19,7,51,44,0.284,0.359,0.451,0.81,203,14,1,0,NA,NA
+1952,Shochiku Robins,matsuo000ich,Ichiro Matsuoka,18,13,16,14,0,2,1,0,0,0,0,0,2,1,0.143,0.25,0.214,0.464,3,1,0,0,NA,NA
+1952,Shochiku Robins,metoki000har,Haruo Medoki,27,115,415,390,21,87,18,2,7,36,8,2,19,48,0.223,0.268,0.333,0.601,130,12,5,1,NA,NA
+1952,Shochiku Robins,mimura000isa,Isao Mimura,28,106,413,378,26,82,21,1,4,33,2,0,30,69,0.217,0.282,0.31,0.591,117,7,4,1,NA,NA
+1952,Shochiku Robins,miyaza000jir,Jiro Miyazaki,32,111,459,433,32,105,11,1,4,31,9,4,16,32,0.243,0.271,0.3,0.571,130,8,1,9,NA,NA
+1952,Shochiku Robins,nishik000min,Minoru Nishikura,23,28,60,55,3,10,1,0,0,0,4,0,5,7,0.182,0.25,0.2,0.45,11,0,0,0,NA,NA
+1952,Shochiku Robins,nogusa000yos,Yoshiteru Nogusa,27,62,156,148,4,31,6,1,0,11,1,0,8,28,0.21,0.25,0.264,0.514,39,6,0,0,NA,NA
+1952,Shochiku Robins,ogiwar000tak,Takashi Ogihara,21,16,29,26,2,3,0,1,0,2,0,0,2,4,0.115,0.179,0.192,0.371,5,0,0,1,NA,NA
+1952,Shochiku Robins,shimam000kaz,Kazuo Shimamoto,21,41,94,90,7,15,3,2,1,3,0,0,4,21,0.167,0.202,0.278,0.48,25,2,0,0,NA,NA
+1952,Shochiku Robins,sugimo000mas,Masaru Sugimoto,20,44,65,60,4,6,1,1,1,4,0,0,3,13,0.1,0.156,0.2,0.356,12,2,1,1,NA,NA
+1952,Shochiku Robins,suzuki000koj,Koji Suzuki,19,17,17,17,0,2,0,0,0,0,0,0,0,3,0.118,0.118,0.118,0.235,2,0,0,0,NA,NA
+1952,Shochiku Robins,tadoko000shi,Juzo Tadokoro,28,36,72,66,6,12,1,1,1,5,0,0,5,11,0.182,0.239,0.273,0.512,18,0,0,1,NA,NA
+1952,Shochiku Robins,tezawa000sho,Shoji Tezawa,20,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1952,Shochiku Robins,tsunas000shi,Shinya Tsunashima,32,100,368,341,27,65,8,2,3,29,7,3,24,41,0.191,0.246,0.252,0.498,86,9,1,2,NA,NA
+1952,Shochiku Robins,yoshid000kaz,Kazuo Yoshida,36,17,72,68,9,19,6,0,3,10,1,0,4,3,0.279,0.319,0.5,0.819,34,0,0,0,NA,NA

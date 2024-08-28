@@ -1,0 +1,24 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1977,Hankyu Buffaloes,fujii-000eij,Eiji Fujii*,37,61,114,106,5,34,2,0,2,16,0,0,6,8,0.321,0.351,0.396,0.747,42,1,0,0,2,0
+1977,Hankyu Buffaloes,fukumo000yut,Yutaka Fukumoto*,29,130,597,541,89,165,21,9,16,54,61,13,49,74,0.305,0.366,0.466,0.832,252,6,4,1,2,3
+1977,Hankyu Buffaloes,hiraba000jir,Jiro Hirabayashi#,28,26,2,2,3,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0
+1977,Hankyu Buffaloes,inoue-001osa,Osamu Inoue,30,71,121,106,18,28,7,1,2,7,10,2,8,16,0.264,0.336,0.406,0.742,43,1,4,2,1,1
+1977,Hankyu Buffaloes,kato--002hid,Hideji Kato*,29,120,489,423,64,135,27,4,19,73,4,3,53,64,0.319,0.401,0.537,0.937,227,4,8,0,5,9
+1977,Hankyu Buffaloes,kawamu000ken,Kenichiro Kawamura,29,79,173,163,17,46,5,0,7,25,0,3,7,32,0.282,0.312,0.442,0.754,72,7,1,0,2,0
+1977,Hankyu Buffaloes,marcan001rob,Robert Marcano,26,104,417,394,52,106,21,0,21,67,5,3,15,57,0.269,0.305,0.482,0.787,190,8,6,0,2,2
+1977,Hankyu Buffaloes,minoda000koj,Koji Minoda,25,86,84,74,21,20,5,1,1,7,7,5,6,14,0.27,0.333,0.405,0.739,30,0,1,3,0,0
+1977,Hankyu Buffaloes,nagaik000ats,Atsushi Nagaike,33,58,164,142,21,39,2,0,10,27,0,0,18,19,0.275,0.348,0.5,0.848,71,3,0,0,4,0
+1977,Hankyu Buffaloes,nakaza000shi,Shinji Nakazawa,31,84,209,191,11,30,4,0,2,14,1,1,12,32,0.157,0.21,0.209,0.419,40,2,1,4,1,0
+1977,Hankyu Buffaloes,ohashi000yut,Yutaka Ohashi,31,119,339,289,29,62,4,0,4,22,3,7,26,60,0.215,0.279,0.27,0.548,78,5,0,23,1,0
+1977,Hankyu Buffaloes,okamot000kaz,Kazumitsu Okamoto*,25,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1977,Hankyu Buffaloes,okuma-000tad,Tadayoshi Okuma,33,123,457,399,45,100,17,1,12,35,1,0,28,42,0.251,0.31,0.389,0.699,155,10,7,22,1,1
+1977,Hankyu Buffaloes,oshima000iku,Ikumasa Oshima,27,19,20,19,0,2,0,0,0,0,1,0,0,4,0.105,0.15,0.105,0.255,2,0,1,0,0,0
+1977,Hankyu Buffaloes,osumi-000mas,Masato Osumi*,29,79,25,24,5,5,2,0,0,1,0,0,1,5,0.208,0.24,0.292,0.532,7,0,0,0,0,0
+1977,Hankyu Buffaloes,sasamo000shi,Shinji Sasamoto,25,45,35,32,10,3,0,1,1,3,4,2,2,5,0.094,0.171,0.25,0.421,8,0,1,0,0,0
+1977,Hankyu Buffaloes,shimat000kin,Kinji Shimatani,32,130,521,477,62,155,25,1,22,74,3,4,35,45,0.325,0.374,0.52,0.894,248,14,5,0,4,0
+1977,Hankyu Buffaloes,takai-000yas,Yasuhiro Takai,32,111,405,364,34,101,13,0,11,56,0,0,30,50,0.278,0.338,0.404,0.741,147,16,5,2,4,1
+1977,Hankyu Buffaloes,togin-000hid,Hidetaka Togin*,31,5,9,9,0,1,0,0,0,1,0,0,0,2,0.111,0.111,0.111,0.222,1,0,0,0,0,0
+1977,Hankyu Buffaloes,uno---000ter,Teruyuki Uno,25,59,104,91,6,19,1,2,0,3,1,2,10,16,0.209,0.294,0.264,0.558,24,3,1,2,0,0
+1977,Hankyu Buffaloes,watana000tsu,Tsutomu Watanabe,28,47,37,31,11,6,0,1,1,4,1,0,6,3,0.194,0.324,0.355,0.679,11,0,0,0,0,0
+1977,Hankyu Buffaloes,willia002ber,Bernie Williams,28,125,477,439,60,110,21,6,16,50,8,4,29,62,0.251,0.299,0.435,0.734,191,9,3,2,4,1
+1977,Hankyu Buffaloes,yoshiz000tos,Toshiyuki Yoshizawa,22,43,43,40,6,5,1,0,0,1,2,0,2,7,0.125,0.167,0.15,0.317,6,1,0,1,0,0

@@ -1,0 +1,25 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1952,Hiroshima Carp,bizen-000yos,Yoshio Bizen,18,44,74,72,3,10,1,0,0,3,0,0,2,15,0.139,0.162,0.153,0.315,11,3,0,0,NA,NA
+1952,Hiroshima Carp,fujiwa000tet,Tetsunosuke Fujiwara,27,83,186,161,8,38,8,1,0,14,0,4,22,13,0.236,0.332,0.298,0.63,48,2,1,2,NA,NA
+1952,Hiroshima Carp,hasebe000min,Minoru Hasebe,20,6,5,2,0,0,0,0,0,0,0,0,1,1,0,0.6,0,0.6,0,0,2,0,NA,NA
+1952,Hiroshima Carp,hasega000ryo,Ryohei Hasegawa,22,55,116,111,7,20,0,1,0,3,0,0,0,3,0.18,0.18,0.198,0.378,22,1,0,5,NA,NA
+1952,Hiroshima Carp,hirook000tom,Tomio Hiroka,24,41,31,30,4,1,0,0,0,0,0,0,0,7,0.033,0.033,0.033,0.067,1,0,0,1,NA,NA
+1952,Hiroshima Carp,isoda-000ken,Kenichi Isoda,28,103,288,244,18,50,6,1,0,15,1,5,26,13,0.205,0.287,0.238,0.525,58,9,2,16,NA,NA
+1952,Hiroshima Carp,iwamot000aki,Akira Iwamoto,31,87,348,313,33,84,21,3,3,33,4,5,26,43,0.268,0.334,0.383,0.718,120,7,5,4,NA,NA
+1952,Hiroshima Carp,kasama000min,Minoru Kasamatsu,36,15,19,15,0,2,0,0,0,1,0,0,2,3,0.133,0.235,0.133,0.369,2,0,0,2,NA,NA
+1952,Hiroshima Carp,kawamo000tok,Tokuzo Kawamoto*,17,11,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA
+1952,Hiroshima Carp,konda-000shu,Shuzo Konda,20,47,101,91,14,17,2,2,0,7,3,0,7,16,0.187,0.26,0.253,0.513,23,1,2,1,NA,NA
+1952,Hiroshima Carp,matsuy000nob,Noboru Matsuyama,19,20,22,20,3,3,2,0,0,1,0,0,1,1,0.15,0.191,0.25,0.441,5,1,0,1,NA,NA
+1952,Hiroshima Carp,monzen000mas,Masato Monzen,35,108,366,328,31,82,15,2,6,35,4,5,37,36,0.25,0.328,0.363,0.691,119,9,1,0,NA,NA
+1952,Hiroshima Carp,nagamo000eik,Eikichi Nagamochi,34,117,437,396,27,109,11,3,2,36,2,3,27,17,0.275,0.325,0.333,0.658,132,15,2,12,NA,NA
+1952,Hiroshima Carp,noda--000sei,Seiji Noda*,29,51,89,82,2,20,4,0,0,3,0,0,4,6,0.244,0.279,0.293,0.572,24,3,0,3,NA,NA
+1952,Hiroshima Carp,nozaki000hir,Hirokazu Nozaki,28,11,7,6,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,NA,NA
+1952,Hiroshima Carp,osawa-000nob,Nobuo Osawa,35,120,507,441,38,123,18,2,2,43,4,4,63,22,0.279,0.373,0.342,0.715,151,13,3,0,NA,NA
+1952,Hiroshima Carp,sakaki000mor,Moritaka Sakakibara,19,15,10,10,0,4,0,0,0,2,0,0,0,0,0.4,0.4,0.4,0.8,4,2,0,0,NA,NA
+1952,Hiroshima Carp,shirai000kat,Katsumi Shiraishi,34,117,534,472,56,104,16,4,3,30,11,7,54,57,0.22,0.303,0.29,0.593,137,7,2,6,NA,NA
+1952,Hiroshima Carp,sugiur000ryu,Ryutaro Sugiura,28,42,80,73,3,7,1,0,0,2,0,0,2,7,0.096,0.12,0.11,0.23,8,1,0,5,NA,NA
+1952,Hiroshima Carp,takech000osa,Osamu Takechi,26,107,410,388,40,99,13,2,6,41,5,1,22,15,0.255,0.295,0.345,0.641,134,13,0,0,NA,NA
+1952,Hiroshima Carp,tsukam000hir,Hiroyoshi Tsukamoto,33,87,227,199,21,42,4,1,1,17,3,3,20,16,0.211,0.286,0.256,0.543,51,11,1,7,NA,NA
+1952,Hiroshima Carp,ueno--000yos,Yoshiaki Ueno,31,79,123,103,14,24,2,1,1,8,3,5,18,12,0.233,0.347,0.301,0.648,31,1,0,2,NA,NA
+1952,Hiroshima Carp,watana001nob,Nobuyoshi Watanabe,22,43,66,46,3,2,0,0,0,2,0,1,13,24,0.044,0.267,0.044,0.31,2,0,1,6,NA,NA
+1952,Hiroshima Carp,yamaka001tak,Takenori Yamakawa,29,97,391,358,40,84,15,1,5,37,4,1,25,42,0.235,0.288,0.324,0.612,116,15,2,6,NA,NA
