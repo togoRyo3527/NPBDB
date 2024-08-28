@@ -1,0 +1,12 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1963,Nankai Hawks,hayash000tos,Toshihiro Hayashi*,19,0,2,0,3.31,13,3,5,0,0,NA,16.1,21,6,6,1,6,0,11,1,0,0,74,1.653,11.6,0.6,3.3,6.1,1.83
+1963,Nankai Hawks,kanehi000tak,Takashige Kanehiko,26,0,0,NA,0,1,0,1,0,0,NA,1,1,0,0,0,0,0,0,0,0,0,3,1,9,0,0,0,NA
+1963,Nankai Hawks,minaga000mut,Mutsuo Minagawa,27,12,9,0.571,2.54,53,12,18,2,1,NA,188,165,62,53,16,33,3,96,3,0,0,736,1.053,7.9,0.8,1.6,4.6,2.91
+1963,Nankai Hawks,miura-000kiy,Kiyohiro Miura,24,13,12,0.52,2.54,57,24,18,7,3,NA,219.2,182,77,62,17,64,5,96,14,0,1,886,1.12,7.5,0.7,2.6,3.9,1.5
+1963,Nankai Hawks,morina000chi,Chikara Morinaka,23,17,8,0.68,2.61,47,29,11,13,3,NA,217.1,191,76,63,12,51,5,116,9,2,2,866,1.113,7.9,0.5,2.1,4.8,2.27
+1963,Nankai Hawks,muraka001mas,Masanori Murakami*,19,0,0,NA,4.5,3,0,2,0,0,NA,2,2,1,1,1,2,0,2,0,0,0,10,2,9,4.5,9,9,1
+1963,Nankai Hawks,niiyam000aki,Akitada Niiyama,23,4,1,0.8,2.85,41,2,14,0,0,NA,98,87,37,31,7,13,2,49,0,0,0,374,1.02,8,0.6,1.2,4.5,3.77
+1963,Nankai Hawks,stanka001joe,Joe Stanka,31,14,7,0.667,2.56,34,29,5,7,4,NA,186.1,154,63,53,13,60,1,89,7,0,4,756,1.148,7.4,0.6,2.9,4.3,1.48
+1963,Nankai Hawks,sugiur000tad,Tadashi Sugiura,27,14,16,0.467,2.64,51,24,19,9,1,NA,252.2,217,86,74,30,46,5,156,1,0,1,990,1.041,7.7,1.1,1.6,5.6,3.39
+1963,Nankai Hawks,takaha000eii,Eiichiro Takahashi,27,11,6,0.647,3.17,43,27,8,5,0,NA,161.2,143,65,57,11,47,1,84,5,0,2,663,1.175,8,0.6,2.6,4.7,1.79
+1963,Nankai Hawks,tomish000gor,Goro Tomishima*,25,0,0,NA,4.09,32,0,6,0,0,NA,22,25,12,10,3,9,0,14,0,0,0,96,1.545,10.2,1.2,3.7,5.7,1.56

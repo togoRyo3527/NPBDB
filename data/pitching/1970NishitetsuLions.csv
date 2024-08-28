@@ -1,0 +1,21 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1970,Nishitetsu Lions,akiba-000kei,Keizo Akiba,23,0,3,0,4.35,22,4,11,0,0,NA,39.1,45,22,19,6,14,0,20,1,0,0,175,1.5,10.3,1.4,3.2,4.6,1.43
+1970,Nishitetsu Lions,fukuna000eis,Eisuke Fukunaga,20,0,0,NA,4.5,2,0,2,0,0,NA,2,4,1,1,0,3,0,1,0,0,1,12,3.5,18,0,13.5,4.5,0.33
+1970,Nishitetsu Lions,furuya000tet,Tetsumi Furuya,25,0,1,0,4.7,8,0,3,0,0,NA,15.1,18,8,8,3,7,0,7,0,0,0,69,1.63,10.6,1.8,4.1,4.1,1
+1970,Nishitetsu Lions,goto--000kiy,Kiyoshi Goto,24,1,5,0.167,3.6,38,5,15,0,0,NA,95,82,38,38,11,44,1,37,2,0,1,393,1.326,7.8,1,4.2,3.5,0.84
+1970,Nishitetsu Lions,higash000osa,Osamu Higashio,20,11,18,0.379,5.14,40,31,5,3,0,NA,173.1,183,107,99,22,90,2,94,7,0,4,786,1.575,9.5,1.1,4.7,4.9,1.04
+1970,Nishitetsu Lions,hisano000tsu,Goji Hisano,27,0,0,NA,5.63,11,0,6,0,0,NA,16,20,12,10,2,5,0,2,0,0,0,70,1.563,11.3,1.1,2.8,1.1,0.4
+1970,Nishitetsu Lions,ikenag000mas,Masaaki Ikenaga,23,4,3,0.571,2.58,9,5,4,3,1,NA,52.1,38,17,15,4,13,4,29,2,0,0,204,0.975,6.5,0.7,2.2,5,2.23
+1970,Nishitetsu Lions,itoh--000isa,Isamu Ito*,21,0,0,NA,9.22,10,1,3,0,0,NA,13.2,20,14,14,2,9,1,3,0,1,0,69,2.122,13.2,1.3,5.9,2,0.33
+1970,Nishitetsu Lions,izumis000aki,Akira Izumisawa,24,1,2,0.333,2.74,18,5,5,0,0,NA,46,37,14,14,4,21,0,27,3,0,0,191,1.261,7.2,0.8,4.1,5.3,1.29
+1970,Nishitetsu Lions,kawaha001aki,Akira Kawahara,21,13,19,0.406,4.17,51,28,12,12,3,NA,237.1,210,123,110,24,92,5,174,20,0,2,1020,1.272,8,0.9,3.5,6.6,1.89
+1970,Nishitetsu Lions,masuda001aki,Akio Masuda*,32,0,1,0,3.14,3,3,0,0,0,NA,14.1,10,6,5,4,3,0,5,0,0,0,55,0.907,6.3,2.5,1.9,3.1,1.67
+1970,Nishitetsu Lions,miwa--000sat,Satoru Miwa,24,7,14,0.333,2.91,45,30,7,5,2,NA,225.2,207,80,73,22,87,4,87,9,0,4,938,1.303,8.3,0.9,3.5,3.5,1
+1970,Nishitetsu Lions,nakai-000ets,Etsuo Nakai,27,3,0,1,3.26,42,1,17,0,0,NA,85.2,79,35,31,8,33,0,64,3,0,1,362,1.307,8.3,0.8,3.5,6.7,1.94
+1970,Nishitetsu Lions,norika000his,Toshiyoshi Norikae*,19,0,5,0,5.92,32,10,5,1,0,NA,48.2,54,37,32,12,28,1,36,5,0,0,231,1.685,10,2.2,5.2,6.7,1.29
+1970,Nishitetsu Lions,okamur000yos,Yoshinori Okamura,21,0,0,NA,135,2,0,0,0,0,NA,0.1,4,5,5,0,1,0,0,0,0,0,6,15,108,0,27,0,0
+1970,Nishitetsu Lions,sato--000kun,Kunimitsu Sato*,24,0,0,NA,18,2,0,1,0,0,NA,2,3,4,4,2,1,0,1,0,0,0,10,2,13.5,9,4.5,4.5,1
+1970,Nishitetsu Lions,uchida000ter,Terufumi Uchida,21,0,0,NA,9,3,0,1,0,0,NA,4,7,5,4,1,2,0,2,0,0,0,20,2.25,15.8,2.3,4.5,4.5,1
+1970,Nishitetsu Lions,yamamo001hid,Hideki Yamamoto,18,0,0,NA,7.5,3,0,2,0,0,NA,6,9,5,5,1,3,0,1,1,0,0,30,2,13.5,1.5,4.5,1.5,0.33
+1970,Nishitetsu Lions,yanagi000yut,Yutaka Yanagida,18,3,6,0.333,4.41,20,6,5,1,0,NA,65.1,58,36,32,10,17,0,37,5,1,0,274,1.148,8,1.4,2.3,5.1,2.18
+1970,Nishitetsu Lions,yoda--000yor,Yoshinobu Yoda,26,0,1,0,9,3,1,1,0,0,NA,7,7,7,7,1,4,1,6,0,0,1,34,1.571,9,1.3,5.1,7.7,1.5

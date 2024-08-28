@@ -1,0 +1,14 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1972,Nishitetsu Lions,higash000osa,Osamu Higashio,22,18,25,0.419,3.66,55,41,9,13,2,NA,309.2,313,152,126,37,110,6,171,12,0,4,1313,1.366,9.1,1.1,3.2,5,1.55
+1972,Nishitetsu Lions,izumis000aki,Akira Izumisawa,26,0,0,NA,6,2,0,1,0,0,NA,3,3,2,2,2,0,0,3,0,0,0,12,1,9,6,0,9,NA
+1972,Nishitetsu Lions,kato--000haj,Hajime Kato,22,17,16,0.515,3.95,48,31,10,8,2,NA,246,220,117,108,33,137,2,114,9,0,3,1068,1.451,8,1.2,5,4.2,0.83
+1972,Nishitetsu Lions,kawaha001aki,Akira Kawahara,23,5,12,0.294,4.31,43,19,6,3,1,NA,140,135,77,67,18,72,3,62,19,0,4,635,1.479,8.7,1.2,4.6,4,0.86
+1972,Nishitetsu Lions,miwa--000sat,Satoru Miwa,26,2,5,0.286,4.54,28,3,10,0,0,NA,67.1,68,45,34,4,37,3,44,5,0,1,302,1.559,9.1,0.5,4.9,5.9,1.19
+1972,Nishitetsu Lions,mochid000hik,Hikoo Mochizuki*,29,0,2,0,8.79,15,1,6,0,0,NA,14.1,21,15,14,2,10,0,5,1,0,0,73,2.163,13.2,1.3,6.3,3.1,0.5
+1972,Nishitetsu Lions,nawada000hir,Hiromi Nawata,25,0,1,0,6.55,10,0,7,0,0,NA,11,10,8,8,2,8,0,9,0,0,0,47,1.636,8.2,1.6,6.5,7.4,1.13
+1972,Nishitetsu Lions,sakagu000tad,Tadaaki Sakaguchi,20,1,4,0.2,4.63,28,13,4,1,1,NA,70,80,41,36,10,36,1,29,0,0,1,313,1.657,10.3,1.3,4.6,3.7,0.81
+1972,Nishitetsu Lions,sato--000kun,Kunimitsu Sato*,26,0,0,NA,7.56,11,0,1,0,0,NA,8.1,10,7,7,1,3,0,3,1,0,0,37,1.56,10.8,1.1,3.2,3.2,1
+1972,Nishitetsu Lions,takaha004aki,Akira Takahashi,30,1,8,0.111,6.68,20,11,5,1,0,NA,67.1,97,58,50,13,24,1,13,2,0,0,310,1.797,13,1.7,3.2,1.7,0.54
+1972,Nishitetsu Lions,tanaka003aki,Akira Tanaka,27,3,5,0.375,2.39,57,7,33,0,0,NA,143,128,42,38,12,34,8,58,6,0,0,568,1.133,8.1,0.8,2.1,3.7,1.71
+1972,Nishitetsu Lions,toyota000ken,Kenji Toyoda,24,0,1,0,4.95,21,1,9,0,0,NA,36.1,43,22,20,3,18,2,8,2,0,1,164,1.679,10.7,0.7,4.5,2,0.44
+1972,Nishitetsu Lions,yanagi000yut,Yutaka Yanagida,20,0,1,0,4.84,12,3,3,0,0,NA,22.1,27,12,12,3,8,0,5,0,0,0,98,1.567,10.9,1.2,3.2,2,0.63

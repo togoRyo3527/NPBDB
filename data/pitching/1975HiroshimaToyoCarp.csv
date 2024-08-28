@@ -1,0 +1,13 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1975,Hiroshima Toyo Carp,ikegay000koj,Kojiro Ikegaya,23,18,11,0.621,3.32,45,36,3,10,2,1,244,242,103,90,22,62,6,131,5,0,1,1018,1.246,8.9,0.8,2.3,4.8,2.11
+1975,Hiroshima Toyo Carp,kanesh000mot,Motoyasu Kaneshiro,22,1,0,1,2.67,16,2,10,0,0,4,27,19,8,8,2,13,1,24,2,0,0,116,1.185,6.3,0.7,4.3,8,1.85
+1975,Hiroshima Toyo Carp,kawaba002kaz,Kazuto Kawabata,27,0,0,NA,1.35,3,0,1,0,0,0,6.2,5,1,1,1,3,0,8,0,0,0,27,1.2,6.8,1.4,4.1,10.8,2.67
+1975,Hiroshima Toyo Carp,kodama001yos,Yoshihiro Kodama,29,0,1,0,7.45,11,0,3,0,0,0,9.2,13,9,8,3,7,2,8,0,0,1,49,2.069,12.1,2.8,6.5,7.4,1.14
+1975,Hiroshima Toyo Carp,miwa--000sat,Satoru Miwa,29,0,1,0,1.95,22,0,8,0,0,0,32.1,22,7,7,2,10,0,13,2,0,0,125,0.99,6.1,0.6,2.8,3.6,1.3
+1975,Hiroshima Toyo Carp,miyamo000yuk,Yukinobu Miyamoto,30,10,2,0.833,1.71,44,0,34,0,0,10,89.2,58,20,17,5,40,1,74,9,0,1,365,1.093,5.8,0.5,4,7.4,1.85
+1975,Hiroshima Toyo Carp,nagamo000hir,Hiroaki Nagamoto,22,2,2,0.5,3.92,28,8,9,0,0,0,64.1,65,31,28,9,21,3,26,1,1,2,265,1.337,9.1,1.3,2.9,3.6,1.24
+1975,Hiroshima Toyo Carp,omata-000sus,Susumu Omata*,23,0,1,0,10,11,1,3,0,0,0,9,12,10,10,1,7,0,5,0,0,0,43,2.111,12,1,7,5,0.71
+1975,Hiroshima Toyo Carp,saeki-000kaz,Kazushi Saeki,23,15,10,0.6,2.91,40,36,2,12,3,0,250.2,210,88,81,26,58,4,127,8,0,4,1017,1.069,7.5,0.9,2.1,4.6,2.19
+1975,Hiroshima Toyo Carp,sotoko000yos,Yoshiro Sotokoba,30,20,13,0.606,2.95,41,40,1,17,3,0,287,240,105,94,29,89,7,193,9,0,3,1174,1.146,7.5,0.9,2.8,6.1,2.17
+1975,Hiroshima Toyo Carp,wako--000tom,Tomoo Wako,38,3,3,0.5,3.08,20,7,4,0,0,1,52.2,48,21,18,6,23,1,21,2,0,1,222,1.348,8.2,1,3.9,3.6,0.91
+1975,Hiroshima Toyo Carp,watana003hir,Hiroki Watanabe*,27,3,3,0.5,1.85,55,0,13,0,0,1,77.2,68,18,16,3,24,2,40,2,0,2,323,1.185,7.9,0.3,2.8,4.6,1.67

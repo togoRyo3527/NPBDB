@@ -1,0 +1,13 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1969,Osaka Kintetsu Buffaloes,bacque001gen,Gene Bacque,31,0,7,0,3.25,12,10,2,2,0,NA,55.1,54,27,20,5,16,2,26,5,0,4,239,1.265,8.8,0.8,2.6,4.2,1.63
+1969,Osaka Kintetsu Buffaloes,bando-000sat,Satomi Bando,27,5,6,0.455,3.26,34,12,7,1,1,NA,116,92,53,42,15,35,0,77,6,0,1,479,1.095,7.1,1.2,2.7,6,2.2
+1969,Osaka Kintetsu Buffaloes,kawauc000yas,Yasuo Kawauchi,23,0,0,NA,5.68,14,1,7,0,0,NA,19,19,14,12,1,9,0,14,0,0,0,86,1.474,9,0.5,4.3,6.6,1.56
+1969,Osaka Kintetsu Buffaloes,mizuta001hir,Hiroshi Mizutani,23,0,1,0,4.11,24,2,8,0,0,NA,35,40,18,16,2,5,0,12,1,0,0,149,1.286,10.3,0.5,1.3,3.1,2.4
+1969,Osaka Kintetsu Buffaloes,okada-000mit,Mitsuo Okada,20,9,9,0.5,3.18,29,20,4,6,2,NA,141.1,136,59,50,12,41,3,61,5,0,1,585,1.252,8.7,0.8,2.6,3.9,1.49
+1969,Osaka Kintetsu Buffaloes,onosak000kiy,Kiyoshi Onozaka*,26,2,1,0.667,3.44,16,0,5,0,0,NA,18.1,12,8,7,1,7,1,2,0,0,0,73,1.036,5.9,0.5,3.4,1,0.29
+1969,Osaka Kintetsu Buffaloes,sasaki000koi,Koichiro Sasaki,25,15,7,0.682,2.35,47,22,11,7,1,NA,199,165,62,52,10,39,6,93,13,0,3,795,1.025,7.5,0.5,1.8,4.2,2.38
+1969,Osaka Kintetsu Buffaloes,sei---000tos,Toshihiko Sei,23,18,7,0.72,2.23,47,23,16,11,2,NA,214.1,183,60,53,17,56,10,151,5,0,2,861,1.115,7.7,0.7,2.4,6.3,2.7
+1969,Osaka Kintetsu Buffaloes,shibai000hir,Hiroaki Shibaike,23,0,0,NA,4.76,3,0,2,0,0,NA,5.2,8,5,3,0,2,0,6,1,0,0,26,1.765,12.7,0,3.2,9.5,3
+1969,Osaka Kintetsu Buffaloes,suzuki000kei,Keishi Suzuki*,21,24,13,0.649,2.5,46,39,6,28,7,NA,330.2,265,98,92,34,73,8,286,10,0,1,1327,1.022,7.2,0.9,2,7.8,3.92
+1969,Osaka Kintetsu Buffaloes,tanabe000osa,Osamu Tanabe,25,0,0,NA,4.35,12,1,5,0,0,NA,20.2,24,10,10,1,8,0,7,0,0,0,91,1.548,10.5,0.4,3.5,3,0.88
+1969,Osaka Kintetsu Buffaloes,yamamo000shi,Shigemasa Yamamoto,25,0,0,NA,8.31,4,0,2,0,0,NA,4.1,5,4,4,2,0,0,1,0,0,0,18,1.154,10.4,4.2,0,2.1,NA

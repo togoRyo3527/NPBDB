@@ -1,0 +1,14 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1961,Hanshin Tigers,doi---000yut,Yutaka Doi*,23,0,0,NA,2.45,9,0,4,0,0,NA,14.2,15,7,4,0,4,0,6,0,0,0,64,1.295,9.2,0,2.5,3.7,1.5
+1961,Hanshin Tigers,fukuur000ken,Kenji Fukuura,18,0,0,NA,3.86,5,0,3,0,0,NA,9.1,10,4,4,1,5,0,6,0,0,1,43,1.607,9.6,1,4.8,5.8,1.2
+1961,Hanshin Tigers,honma-000mas,Masaru Honma,22,8,13,0.381,3.49,41,21,11,5,0,NA,167.2,149,73,65,20,44,3,97,7,2,2,686,1.151,8,1.1,2.4,5.2,2.2
+1961,Hanshin Tigers,ina---000tsu,Tsutomu Ina*,26,4,9,0.308,3.63,30,14,5,1,1,NA,86.2,98,48,35,5,38,2,39,4,1,4,386,1.569,10.2,0.5,3.9,4.1,1.03
+1961,Hanshin Tigers,ishika000yos,Yoshiteru Ishikawa,24,0,2,0,3.38,32,7,8,1,0,NA,66.2,72,31,25,6,17,0,33,1,0,3,283,1.335,9.7,0.8,2.3,4.5,1.94
+1961,Hanshin Tigers,koyama000mas,Masaaki Koyama,26,11,22,0.333,2.41,46,37,6,18,4,NA,291.1,222,91,78,20,65,8,204,4,0,5,1144,0.985,6.9,0.6,2,6.3,3.14
+1961,Hanshin Tigers,maki--000kat,Katsuhiko Maki,18,2,2,0.5,2.02,23,9,6,1,0,NA,62.1,43,17,14,4,22,0,43,0,0,1,247,1.043,6.2,0.6,3.2,6.2,1.95
+1961,Hanshin Tigers,morimi000sho,Shokichi Morimitsu,20,0,0,NA,0,1,0,0,0,0,NA,1,1,0,0,0,0,0,0,0,0,0,4,1,9,0,0,0,NA
+1961,Hanshin Tigers,muraya000min,Minoru Murayama,24,24,13,0.649,2.27,48,31,13,18,3,NA,293,238,81,74,16,62,9,221,7,1,4,1148,1.024,7.3,0.5,1.9,6.8,3.56
+1961,Hanshin Tigers,ota---000koi,Koichi Ota*,20,0,0,NA,2.45,9,2,1,0,0,NA,14.2,12,5,4,0,6,0,8,1,0,0,60,1.227,7.4,0,3.7,4.9,1.33
+1961,Hanshin Tigers,takaha001tak,Takaaki Takahashi,21,0,0,NA,1.64,8,0,6,0,0,NA,11,7,3,2,0,3,0,4,0,0,1,42,0.909,5.7,0,2.5,3.3,1.33
+1961,Hanshin Tigers,umemot000mas,Masayuki Umemoto,24,0,0,NA,6.75,2,0,1,0,0,NA,2.2,4,2,2,2,0,0,2,0,0,0,11,1.5,13.5,6.8,0,6.8,NA
+1961,Hanshin Tigers,watana000sho,Shozo Watanabe,28,11,6,0.647,1.88,49,9,19,3,2,NA,157.2,159,49,33,6,22,1,49,3,0,1,626,1.148,9.1,0.3,1.3,2.8,2.23
