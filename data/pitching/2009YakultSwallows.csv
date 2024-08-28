@@ -1,0 +1,32 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+2009,Yakult Swallows,akagaw001kat,Katsuki Akagawa*,18,0,0,NA,Inf,1,0,NA,0,0,0,0,3,3,3,1,1,0,0,0,0,2,4,NA,NA,NA,NA,NA,0
+2009,Yakult Swallows,barret001wil,Ricky Barrett*,28,0,1,0,7.15,7,1,NA,0,0,0,11.1,16,10,9,1,10,1,5,2,0,0,61,2.294,12.7,0.8,7.9,4,0.5
+2009,Yakult Swallows,hagiwa001jun,Jun Hagiwara,35,1,1,0.5,4.81,34,0,NA,0,0,0,39.1,50,21,21,3,14,1,36,4,1,1,175,1.627,11.4,0.7,3.2,8.2,2.57
+2009,Yakult Swallows,hanada001mas,Masato Hanada,31,0,0,NA,7.71,3,0,NA,0,0,0,2.1,3,2,2,1,0,0,3,0,0,0,10,1.286,11.6,3.9,0,11.6,NA
+2009,Yakult Swallows,hashim001yos,Yoshitaka Hashimoto,29,0,0,NA,1.35,13,0,NA,0,0,0,20,12,6,3,3,6,1,12,0,0,0,76,0.9,5.4,1.4,2.7,5.4,2
+2009,Yakult Swallows,ichiba001yas,Yasuhiro Ichiba,26,1,5,0.167,7.88,9,7,NA,0,0,0,37.2,48,36,33,10,16,0,27,4,0,2,174,1.699,11.5,2.4,3.8,6.5,1.69
+2009,Yakult Swallows,igaras001ryo,Ryota Igarashi,30,3,2,0.6,3.19,56,0,NA,0,0,3,53.2,42,19,19,3,20,1,44,3,0,1,221,1.155,7,0.5,3.4,7.4,2.2
+2009,Yakult Swallows,ishika001mas,Masanori Ishikawa*,29,13,7,0.65,3.54,29,29,NA,3,0,0,198.1,203,81,78,25,28,3,84,6,0,4,810,1.165,9.2,1.1,1.3,3.8,3
+2009,Yakult Swallows,kamada001yuy,Yuya Kamada,30,0,1,0,5.25,9,0,NA,0,0,0,12,8,7,7,2,4,1,10,0,0,0,47,1,6,1.5,3,7.5,2.5
+2009,Yakult Swallows,kato--001mik,Mikinori Kato*,24,0,0,NA,Inf,1,0,NA,0,0,0,0,5,5,5,1,0,0,0,0,0,1,5,NA,NA,NA,NA,NA,NA
+2009,Yakult Swallows,kawash001ryo,Ryo Kawashima,27,5,6,0.455,4.81,14,14,NA,0,0,0,73,72,44,39,11,25,1,48,3,0,3,315,1.329,8.9,1.4,3.1,5.9,1.92
+2009,Yakult Swallows,kida--001mas,Masao Kida,40,3,4,0.429,5.55,30,4,NA,0,0,0,48.2,58,32,30,6,17,1,31,5,0,0,223,1.541,10.7,1.1,3.1,5.7,1.82
+2009,Yakult Swallows,lee---002hye,Hei Chun Lee*,30,1,1,0.5,3.65,42,1,NA,0,0,1,37,42,15,15,3,14,2,27,2,0,1,164,1.514,10.2,0.7,3.4,6.6,1.93
+2009,Yakult Swallows,lim---001cha,Chang-Yong Lim,33,5,4,0.556,2.05,57,0,NA,0,0,28,57,40,15,13,4,19,4,52,2,0,2,229,1.035,6.3,0.6,3,8.2,2.74
+2009,Yakult Swallows,maruya001tak,Takashi Maruyama*,23,0,0,NA,7.04,9,0,NA,0,0,0,7.2,6,6,6,1,8,0,6,0,0,0,36,1.826,7,1.2,9.4,7,0.75
+2009,Yakult Swallows,masubu001tat,Tatsuyoshi Masubuchi,21,0,1,0,12.6,1,1,NA,0,0,0,5,8,7,7,1,6,0,4,0,0,2,27,2.8,14.4,1.8,10.8,7.2,0.67
+2009,Yakult Swallows,matsui001kos,Kosuke Matsui,30,0,0,NA,3.08,17,0,NA,0,0,0,26.1,25,9,9,1,10,1,12,1,0,1,110,1.329,8.5,0.3,3.4,4.1,1.2
+2009,Yakult Swallows,matsuo001ken,Kenichi Matsuoka,27,6,4,0.6,4.72,52,0,NA,0,0,0,55.1,66,30,29,5,14,1,53,1,0,2,243,1.446,10.7,0.8,2.3,8.6,3.79
+2009,Yakult Swallows,murana001kyo,Kyohei Muranaka*,21,1,6,0.143,7.12,9,9,NA,0,0,0,43,49,34,34,5,25,0,35,3,0,4,202,1.721,10.3,1,5.2,7.3,1.4
+2009,Yakult Swallows,nishiz001sat,Satoshi Nishizaki,26,0,0,NA,0,1,0,NA,0,0,0,1,1,0,0,0,0,0,1,0,0,0,4,1,9,0,0,9,NA
+2009,Yakult Swallows,okamot001hid,Hidehiro Okamoto*,26,0,0,NA,0,1,0,NA,0,0,0,1,1,0,0,0,0,0,1,0,0,0,3,1,9,0,0,9,NA
+2009,Yakult Swallows,oshimo001tak,Takehiko Oshimoto,26,2,6,0.25,2.67,51,2,NA,0,0,1,64,50,19,19,8,19,0,45,1,0,3,252,1.078,7,1.1,2.7,6.3,2.37
+2009,Yakult Swallows,satoh-001mas,Masaru Sato*,27,0,0,NA,4.5,3,0,NA,0,0,0,4,3,2,2,0,0,0,5,1,0,2,14,0.75,6.8,0,0,11.3,NA
+2009,Yakult Swallows,sato--002yos,Yoshinori Satoh,19,5,10,0.333,3.5,22,21,NA,0,0,0,121,109,61,47,9,57,0,91,5,0,5,520,1.372,8.1,0.7,4.2,6.8,1.6
+2009,Yakult Swallows,takagi002hir,Hiromitsu Takagi,25,4,0,1,1.64,12,5,NA,1,1,0,44,34,8,8,3,11,1,19,2,0,0,174,1.023,7,0.6,2.3,3.9,1.73
+2009,Yakult Swallows,takai-001yuh,Yuhei Takai*,25,0,0,NA,0,1,0,NA,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,1,9,0,0,0,NA
+2009,Yakult Swallows,takaic001shu,Shun Takaichi,24,0,1,0,9.64,3,3,NA,0,0,0,9.1,14,10,10,2,4,0,5,0,0,0,45,1.929,13.5,1.9,3.9,4.8,1.25
+2009,Yakult Swallows,tanaka001yuk,Yuki Tanaka,30,5,6,0.455,3.4,19,19,NA,1,0,0,100.2,104,41,38,8,36,2,77,7,0,3,435,1.391,9.3,0.7,3.2,6.9,2.14
+2009,Yakult Swallows,tateya001sho,Shohei Tateyama,28,16,6,0.727,3.39,27,27,NA,5,2,0,188.1,195,77,71,20,45,2,126,11,0,2,798,1.274,9.3,1,2.2,6,2.8
+2009,Yakult Swallows,yamamo001hit,Hitoshi Yamamoto,19,0,0,NA,4.5,1,1,NA,0,0,0,6,5,3,3,1,2,0,3,0,0,0,25,1.167,7.5,1.5,3,4.5,1.5
+2009,Yakult Swallows,yoshik001mas,Masahiro Yoshikawa,31,0,0,NA,3.52,8,0,NA,0,0,0,7.2,6,3,3,2,0,0,8,2,0,0,30,0.783,7,2.3,0,9.4,NA

@@ -1,0 +1,14 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1954,Taiyo-Shochiku Robins,arimur000ien,Ienari Arimura*,39,0,2,0,6.75,3,3,0,0,0,NA,12,19,14,9,1,6,NA,2,0,1,0,61,2.083,14.3,0.8,4.5,1.5,0.33
+1954,Taiyo-Shochiku Robins,eda---000tak,Takashi Eda,31,5,17,0.227,3.4,31,20,6,6,1,NA,164,179,79,62,7,55,NA,32,1,0,2,711,1.427,9.8,0.4,3,1.8,0.58
+1954,Taiyo-Shochiku Robins,gondo-000mas,Masatoshi Gondo*,20,11,20,0.355,2.84,38,26,11,23,1,NA,263.1,226,103,83,7,143,NA,222,6,1,9,1125,1.401,7.7,0.2,4.9,7.6,1.55
+1954,Taiyo-Shochiku Robins,hattor000shi,Shigetsugu Hattori,19,0,4,0,7.91,20,4,11,0,0,NA,58,69,60,51,7,39,NA,26,5,1,1,281,1.862,10.7,1.1,6.1,4,0.67
+1954,Taiyo-Shochiku Robins,hayash000nao,Naoaki Hayashi,30,1,10,0.091,3.53,19,13,6,4,0,NA,91.2,104,49,36,3,18,NA,31,0,0,0,386,1.331,10.2,0.3,1.8,3,1.72
+1954,Taiyo-Shochiku Robins,kanda-000mas,Masao Kanda,20,0,4,0,5.88,12,3,9,1,0,NA,41.1,47,30,27,7,11,NA,13,2,0,2,180,1.403,10.2,1.5,2.4,2.8,1.18
+1954,Taiyo-Shochiku Robins,kitaga000his,Hisaji Kitagawa,22,0,1,0,27,2,1,1,0,0,NA,2,5,6,6,0,2,NA,0,0,0,0,12,3.5,22.5,0,9,0,0
+1954,Taiyo-Shochiku Robins,kobaya000tsu,Tsuneo Kobayashi*,28,2,6,0.25,4.06,21,12,7,2,0,NA,93,99,45,42,7,39,NA,37,6,0,0,411,1.484,9.6,0.7,3.8,3.6,0.95
+1954,Taiyo-Shochiku Robins,ogiwar000tak,Takashi Ogihara,23,0,1,0,6.35,4,0,4,0,0,NA,11.1,15,10,8,0,5,0,1,0,0,0,53,1.765,11.9,0,4,0.8,0.2
+1954,Taiyo-Shochiku Robins,oishi-001mas,Masahiko Oishi,18,5,16,0.238,3.79,33,24,9,10,0,NA,190,201,98,80,12,57,NA,82,7,1,1,813,1.358,9.5,0.6,2.7,3.9,1.44
+1954,Taiyo-Shochiku Robins,sugika000kik,Kikuo Sugikawa,23,5,8,0.385,5.34,32,12,11,2,0,NA,123,132,84,73,12,65,NA,44,4,0,4,545,1.602,9.7,0.9,4.8,3.2,0.68
+1954,Taiyo-Shochiku Robins,suzuki000koj,Koji Suzuki,21,0,0,NA,2.25,1,0,1,0,0,NA,4,4,1,1,0,5,NA,2,0,0,1,20,2.25,9,0,11.3,4.5,0.4
+1954,Taiyo-Shochiku Robins,takano000hir,Hiroyoshi Takano,30,3,7,0.3,4.84,16,12,2,4,0,NA,80,91,46,43,9,13,NA,24,1,0,0,336,1.3,10.2,1,1.5,2.7,1.85

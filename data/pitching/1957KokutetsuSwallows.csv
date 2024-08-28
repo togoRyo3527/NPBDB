@@ -1,0 +1,14 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1957,Kokutetsu Swallows,inoue-000yos,Yoshiaki Inoue,24,1,3,0.25,4.58,18,1,5,0,0,NA,35.1,34,19,18,3,12,1,15,4,0,0,155,1.302,8.7,0.8,3.1,3.8,1.25
+1957,Kokutetsu Swallows,kaneda002mas,Masaichi Kaneda*,23,28,16,0.636,1.63,61,35,25,25,5,NA,353,256,88,64,17,93,9,306,2,0,1,1378,0.989,6.5,0.4,2.4,7.8,3.29
+1957,Kokutetsu Swallows,kitaha000tos,Toshio Kitabatake,24,1,3,0.25,4.58,27,3,7,0,0,NA,57,73,29,29,3,13,0,25,0,0,1,243,1.509,11.5,0.5,2.1,3.9,1.92
+1957,Kokutetsu Swallows,koya--000tos,Toshio Koya,18,0,0,NA,3.6,3,0,2,0,0,NA,5,3,2,2,1,3,0,5,0,0,0,20,1.2,5.4,1.8,5.4,9,1.67
+1957,Kokutetsu Swallows,kuroiw000hir,Hiroshi Kuroiwa,23,0,2,0,3.16,17,3,9,0,0,NA,25.2,22,11,9,2,2,0,13,0,0,0,101,0.935,7.7,0.7,0.7,4.6,6.5
+1957,Kokutetsu Swallows,mitsub000sei,Seiji Mitsubayashi,21,0,4,0,3.48,21,3,6,0,0,NA,51.2,43,23,20,4,9,0,29,3,0,0,210,1.006,7.5,0.7,1.6,5.1,3.22
+1957,Kokutetsu Swallows,miyaji000yos,Yoshitomo Miyaji,25,5,6,0.455,3.87,31,16,6,1,1,NA,111.2,129,61,48,8,28,2,41,2,0,2,474,1.406,10.4,0.6,2.3,3.3,1.46
+1957,Kokutetsu Swallows,murata000gen,Genichi Murata,19,0,0,NA,18,1,0,1,0,0,NA,1,2,2,2,1,0,0,0,0,0,0,5,2,18,9,0,0,NA
+1957,Kokutetsu Swallows,negoro000hir,Hiromitsu Negoro,20,0,0,NA,4.5,3,0,3,0,0,NA,10,10,6,5,2,1,0,1,0,0,0,39,1.1,9,1.8,0.9,0.9,1
+1957,Kokutetsu Swallows,owaki-000ter,Teruo Owaki,27,5,12,0.294,3.25,38,26,3,3,1,NA,158,147,66,57,18,48,6,57,3,0,2,664,1.234,8.4,1,2.7,3.2,1.19
+1957,Kokutetsu Swallows,saito-001yos,Yoshio Saito*,18,0,0,NA,27,1,0,1,0,0,NA,1,3,3,3,0,0,0,0,1,0,0,8,3,27,0,0,0,NA
+1957,Kokutetsu Swallows,tadoko000zen,Zenjiro Tadokoro,22,15,21,0.417,2.42,56,34,13,15,4,NA,301.1,221,93,81,15,77,11,162,4,0,2,1172,0.989,6.6,0.4,2.3,4.8,2.1
+1957,Kokutetsu Swallows,tashir000ter,Terukatsu Tashiro,23,3,1,0.75,2.82,18,9,5,0,0,NA,54.1,45,22,17,7,15,0,34,1,1,0,221,1.104,7.5,1.2,2.5,5.6,2.27

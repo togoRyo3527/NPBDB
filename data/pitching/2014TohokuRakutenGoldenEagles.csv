@@ -1,0 +1,31 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+2014,Tohoku Rakuten Golden Eagles,aihara000kaz,Kazutomo Aihara*,24,0,0,NA,2.79,17,0,6,0,0,0,19.1,23,6,6,0,11,1,5,1,0,3,91,1.759,10.7,0,5.1,2.3,0.45
+2014,Tohoku Rakuten Golden Eagles,aoyama001koj,Kouji Aoyama,30,1,4,0.2,4.44,22,6,1,0,0,0,52.2,52,30,26,6,20,0,49,2,0,3,230,1.367,8.9,1,3.4,8.4,2.45
+2014,Tohoku Rakuten Golden Eagles,blackl001tra,Travis Blackley*,31,1,2,0.333,5.54,3,3,0,0,0,0,13,21,9,8,2,5,1,7,0,0,1,63,2,14.5,1.4,3.5,4.8,1.4
+2014,Tohoku Rakuten Golden Eagles,cruz--001rhi,Rhiner Cruz,27,2,2,0.5,3.99,29,0,5,0,0,0,29.1,34,13,13,2,17,0,24,1,0,2,136,1.739,10.4,0.6,5.2,7.4,1.41
+2014,Tohoku Rakuten Golden Eagles,falken001bri,Brian Falkenborg,36,3,5,0.375,2.87,39,0,36,0,0,20,37.2,31,12,12,2,8,0,45,2,0,2,151,1.035,7.4,0.5,1.9,10.8,5.63
+2014,Tohoku Rakuten Golden Eagles,fukuya000hir,Hiroyuki Fukuyama,25,4,2,0.667,1.87,65,0,14,0,0,1,67.1,63,14,14,2,12,1,32,1,0,0,265,1.114,8.4,0.3,1.6,4.3,2.67
+2014,Tohoku Rakuten Golden Eagles,furuka000yur,Yuri Furukawa,18,0,0,NA,4.5,2,0,1,0,0,0,2,3,1,1,0,3,0,1,0,0,0,12,3,13.5,0,13.5,4.5,0.33
+2014,Tohoku Rakuten Golden Eagles,hamaya000kod,Kodai Hamaya*,21,1,0,1,3.6,1,1,0,0,0,0,5,9,2,2,0,3,0,0,0,0,1,24,2.4,16.2,0,5.4,0,0
+2014,Tohoku Rakuten Golden Eagles,hasebe001koh,Kohei Hasebe*,29,0,0,NA,3.79,26,0,9,0,0,0,35.2,35,18,15,4,14,0,31,1,0,1,156,1.374,8.8,1,3.5,7.8,2.21
+2014,Tohoku Rakuten Golden Eagles,kaneto001nor,Norihito Kaneto*,30,0,1,0,6.97,17,0,2,0,0,0,10.1,12,8,8,1,8,1,2,1,0,0,50,1.935,10.5,0.9,7,1.7,0.25
+2014,Tohoku Rakuten Golden Eagles,karash001wat,Wataru Karashima*,23,8,13,0.381,3.79,25,25,0,1,1,0,154.1,160,70,65,11,46,2,99,4,0,3,662,1.335,9.3,0.6,2.7,5.8,2.15
+2014,Tohoku Rakuten Golden Eagles,kataya001hir,Hiroshi Katayama*,27,0,1,0,9,4,0,1,0,0,0,1,2,1,1,0,4,1,0,1,0,0,10,6,18,0,36,0,0
+2014,Tohoku Rakuten Golden Eagles,kawai-001tak,Takashi Kawai*,37,1,6,0.143,4.69,8,8,0,0,0,0,40.1,46,23,21,4,16,1,27,2,0,0,179,1.537,10.3,0.9,3.6,6,1.69
+2014,Tohoku Rakuten Golden Eagles,kikuch001yas,Yasunori Kikuchi,24,4,1,0.8,4.03,12,8,4,0,0,0,51.1,40,23,23,5,18,0,36,3,0,8,211,1.13,7,0.9,3.2,6.3,2
+2014,Tohoku Rakuten Golden Eagles,konno-000ryu,Ryuta Konno,19,0,0,NA,8.44,5,0,4,0,0,0,5.1,9,5,5,2,0,0,1,0,0,0,25,1.688,15.2,3.4,0,1.7,NA
+2014,Tohoku Rakuten Golden Eagles,koyama001shi,Shinichiro Koyama,36,1,0,1,6.75,10,0,1,0,0,0,9.1,13,8,7,1,4,0,6,1,0,2,48,1.821,12.5,1,3.9,5.8,1.5
+2014,Tohoku Rakuten Golden Eagles,matsui000yuk,Yuki Matsui*,18,4,8,0.333,3.8,27,17,3,1,0,0,116,91,52,49,2,67,0,126,8,2,6,504,1.362,7.1,0.2,5.2,9.8,1.88
+2014,Tohoku Rakuten Golden Eagles,mima--000man,Manabu Mima,27,2,9,0.182,4.83,14,14,0,0,0,0,72.2,84,41,39,4,25,1,51,7,0,0,327,1.5,10.4,0.5,3.1,6.3,2.04
+2014,Tohoku Rakuten Golden Eagles,miyaga000sho,Sho Miyagawa,23,3,1,0.75,4.29,17,4,3,0,0,0,42,44,23,20,5,17,0,32,3,0,2,183,1.452,9.4,1.1,3.6,6.9,1.88
+2014,Tohoku Rakuten Golden Eagles,mori--000yud,Yudai Mori*,19,2,3,0.4,5.52,8,5,1,0,0,0,29.1,34,19,18,2,19,0,22,1,1,1,135,1.807,10.4,0.6,5.8,6.8,1.16
+2014,Tohoku Rakuten Golden Eagles,muto--000yos,Yoshitaka Muto,26,0,0,NA,6.75,14,0,5,0,0,0,18.2,17,14,14,3,10,0,13,1,0,1,85,1.446,8.2,1.4,4.8,6.3,1.3
+2014,Tohoku Rakuten Golden Eagles,nagai-001sat,Satoshi Nagai,29,0,0,NA,6,5,0,2,0,0,0,6,9,4,4,1,2,0,7,0,0,3,29,1.833,13.5,1.5,3,10.5,3.5
+2014,Tohoku Rakuten Golden Eagles,nishim000yus,Yusuke Nishimiya*,23,3,0,1,3.17,46,0,16,0,0,0,48.1,41,22,17,3,29,1,51,1,0,2,211,1.448,7.6,0.6,5.4,9.5,1.76
+2014,Tohoku Rakuten Golden Eagles,norimo000tak,Takahiro Norimoto,23,14,10,0.583,3.02,30,28,1,9,7,0,202.2,187,73,68,14,39,3,204,6,0,1,821,1.115,8.3,0.6,1.7,9.1,5.23
+2014,Tohoku Rakuten Golden Eagles,saito-001tak,Takashi Saito,44,1,1,0.5,2.59,31,0,11,0,0,3,31.1,27,9,9,2,15,2,21,2,0,2,134,1.34,7.8,0.6,4.3,6,1.4
+2014,Tohoku Rakuten Golden Eagles,shiomi000tak,Takahiro Shiomi*,25,8,7,0.533,4.71,21,20,1,0,0,0,114.2,135,68,60,15,27,0,78,3,0,3,501,1.413,10.6,1.2,2.1,6.1,2.89
+2014,Tohoku Rakuten Golden Eagles,tomura001ken,Kenji Tomura,26,0,0,NA,10.13,5,0,2,0,0,0,5.1,9,6,6,2,0,0,4,1,0,0,25,1.688,15.2,3.4,0,6.8,NA
+2014,Tohoku Rakuten Golden Eagles,uezono001kei,Keiji Uezono,30,0,1,0,5.87,9,2,0,0,0,0,23,28,15,15,0,7,0,14,2,0,1,104,1.522,11,0,2.7,5.5,2
+2014,Tohoku Rakuten Golden Eagles,vanmil001lud,Loek van Mil,29,0,1,0,4.15,7,0,4,0,0,0,8.2,7,4,4,0,7,0,7,1,0,0,39,1.615,7.3,0,7.3,7.3,1
+2014,Tohoku Rakuten Golden Eagles,yokoya000tak,Takaaki Yokoyama,23,1,2,0.333,5.4,4,3,0,0,0,0,18.1,17,11,11,6,2,0,10,2,0,1,75,1.036,8.3,2.9,1,4.9,5

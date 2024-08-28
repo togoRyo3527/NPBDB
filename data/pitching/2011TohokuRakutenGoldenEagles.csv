@@ -1,0 +1,25 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+2011,Tohoku Rakuten Golden Eagles,aoyama001koj,Kouji Aoyama,27,3,4,0.429,2.79,51,2,15,0,0,2,71,58,23,22,4,23,2,64,3,0,3,290,1.141,7.4,0.5,2.9,8.1,2.78
+2011,Tohoku Rakuten Golden Eagles,arame-001kan,Kanehisa Arime*,32,1,0,1,1.35,18,0,5,0,0,1,13.1,11,2,2,0,6,0,9,0,0,0,53,1.275,7.4,0,4.1,6.1,1.5
+2011,Tohoku Rakuten Golden Eagles,fujiwa001hir,Hiromichi Fujiwara*,26,0,1,0,6.75,1,1,0,0,0,0,2.2,4,2,2,0,4,0,1,0,0,0,15,3,13.5,0,13.5,3.4,0.25
+2011,Tohoku Rakuten Golden Eagles,hasebe001koh,Kohei Hasebe*,26,1,0,1,2.55,7,7,0,0,0,0,35.1,26,11,10,0,13,0,20,0,0,1,140,1.104,6.6,0,3.3,5.1,1.54
+2011,Tohoku Rakuten Golden Eagles,isaka-001ryo,Ryohei Isaka,26,3,5,0.375,4.32,15,12,1,0,0,0,66.2,80,35,32,5,16,0,25,6,1,0,297,1.44,10.8,0.7,2.2,3.4,1.56
+2011,Tohoku Rakuten Golden Eagles,iwakum001his,Hisashi Iwakuma,30,6,7,0.462,2.42,17,17,0,2,1,0,119,106,34,32,6,19,0,90,5,0,1,471,1.05,8,0.5,1.4,6.8,4.74
+2011,Tohoku Rakuten Golden Eagles,jimene001kel,Kelvin Jiménez,30,1,7,0.125,3.69,13,11,0,0,0,0,63.1,74,40,26,4,29,0,27,8,0,1,293,1.626,10.5,0.6,4.1,3.8,0.93
+2011,Tohoku Rakuten Golden Eagles,kataya001hir,Hiroshi Katayama*,24,2,3,0.4,3.43,59,1,10,0,0,0,57.2,55,24,22,3,15,0,55,2,0,2,241,1.214,8.6,0.5,2.3,8.6,3.67
+2011,Tohoku Rakuten Golden Eagles,kawagi001tsu,Tsuyoshi Kawagishi,31,1,1,0.5,4.5,12,0,1,0,0,0,16,21,8,8,3,6,0,6,0,0,0,72,1.688,11.8,1.7,3.4,3.4,1
+2011,Tohoku Rakuten Golden Eagles,kawai-001tak,Takashi Kawai*,34,1,4,0.2,3.38,11,11,0,0,0,0,50.2,57,22,19,4,14,0,29,4,0,0,227,1.401,10.1,0.7,2.5,5.2,2.07
+2011,Tohoku Rakuten Golden Eagles,kikuch001yas,Yasunori Kikuchi,21,0,1,0,13.5,2,1,0,0,0,0,3.1,5,6,5,1,8,0,3,1,0,0,25,3.9,13.5,2.7,21.6,8.1,0.38
+2011,Tohoku Rakuten Golden Eagles,koyama001shi,Shinichiro Koyama,33,8,4,0.667,2.88,50,1,15,0,0,0,68.2,53,27,22,5,22,1,51,3,0,2,280,1.092,6.9,0.7,2.9,6.7,2.32
+2011,Tohoku Rakuten Golden Eagles,matsuz001shi,Shingo Matsuzaki*,27,0,0,NA,0,3,0,1,0,0,0,5.1,4,0,0,0,1,0,3,0,0,0,20,0.938,6.8,0,1.7,5.1,3
+2011,Tohoku Rakuten Golden Eagles,mima--000man,Manabu Mima,24,2,1,0.667,3.08,23,0,9,0,0,0,26.1,19,9,9,1,4,0,13,1,0,2,102,0.873,6.5,0.3,1.4,4.4,3.25
+2011,Tohoku Rakuten Golden Eagles,nagai-001sat,Satoshi Nagai,26,4,5,0.444,2.81,16,16,0,2,2,0,102.2,92,39,32,10,26,0,77,3,0,4,420,1.149,8.1,0.9,2.3,6.8,2.96
+2011,Tohoku Rakuten Golden Eagles,rasner001dar,Darrell Rasner,30,3,4,0.429,2.04,34,5,27,0,0,17,53,52,16,12,1,16,0,46,0,0,1,225,1.283,8.8,0.2,2.7,7.8,2.88
+2011,Tohoku Rakuten Golden Eagles,sanche001rom,Rómulo Sánchez,27,0,2,0,4.96,15,0,11,0,0,0,16.1,21,9,9,1,7,1,19,2,0,3,77,1.714,11.6,0.6,3.9,10.5,2.71
+2011,Tohoku Rakuten Golden Eagles,satake001ken,Kenta Satake*,32,0,0,NA,4.96,17,0,2,0,0,0,16.1,19,10,9,2,2,0,15,2,0,0,71,1.286,10.5,1.1,1.1,8.3,7.5
+2011,Tohoku Rakuten Golden Eagles,shiomi000tak,Takahiro Shiomi*,22,9,9,0.5,2.85,24,24,0,4,0,0,154.2,144,53,49,14,34,0,113,2,0,4,638,1.151,8.4,0.8,2,6.6,3.32
+2011,Tohoku Rakuten Golden Eagles,speier001rya,Ryan Speier,31,1,4,0.2,4.6,30,0,18,0,0,8,29.1,29,16,15,3,7,1,27,3,0,0,123,1.227,8.9,0.9,2.1,8.3,3.86
+2011,Tohoku Rakuten Golden Eagles,tanaka003mas,Masahiro Tanaka,22,19,5,0.792,1.27,27,27,0,14,6,0,226.1,171,35,32,8,27,0,241,5,0,7,866,0.875,6.8,0.3,1.1,9.6,8.93
+2011,Tohoku Rakuten Golden Eagles,tomura001ken,Kenji Tomura,23,0,3,0,3.92,8,8,0,1,0,0,41.1,48,25,18,2,17,0,26,1,0,4,191,1.573,10.5,0.4,3.7,5.7,1.53
+2011,Tohoku Rakuten Golden Eagles,tsuchi001tom,Tomohiro Tsuchiya,25,0,0,NA,5.25,6,0,4,0,0,0,12,10,7,7,1,7,0,7,1,0,1,52,1.417,7.5,0.8,5.3,5.3,1
+2011,Tohoku Rakuten Golden Eagles,yamamu001hir,Hiroki Yamamura,35,1,1,0.5,4.5,21,0,2,0,0,0,22,20,11,11,1,7,0,15,2,0,0,92,1.227,8.2,0.4,2.9,6.1,2.14

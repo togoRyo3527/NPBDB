@@ -1,0 +1,15 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1952,Mainichi Dragons,aramak000ats,Atsushi Aramaki*,26,7,6,0.538,1.88,26,11,10,4,1,NA,110.1,94,35,23,7,22,NA,55,0,0,2,439,1.051,7.7,0.6,1.8,4.5,2.5
+1952,Mainichi Dragons,betto-000kao,Kaoru Betto,31,0,0,NA,0,1,0,1,0,0,NA,1,0,0,0,0,1,NA,1,0,0,0,4,1,0,0,9,9,1
+1952,Mainichi Dragons,ebara-000yos,Yoshimi Ebara*,27,8,5,0.615,2.64,26,16,5,4,1,NA,112.2,112,42,33,7,37,NA,71,1,2,2,472,1.322,8.9,0.6,3,5.7,1.92
+1952,Mainichi Dragons,inagak000sad,Sadao Inagaki,29,0,1,0,5.74,6,1,4,0,0,NA,15.2,18,14,10,4,8,NA,3,0,0,0,73,1.66,10.3,2.3,4.6,1.7,0.38
+1952,Mainichi Dragons,miyaza002kaz,Kazuo Miyazaki,19,5,2,0.714,2.31,25,6,13,1,1,NA,93.2,80,32,24,4,22,NA,28,2,1,0,372,1.089,7.7,0.4,2.1,2.7,1.27
+1952,Mainichi Dragons,morita000mas,Masato Morita?,29,2,1,0.667,3.76,10,5,0,0,0,NA,38.1,29,23,16,0,33,NA,9,1,0,1,174,1.617,6.8,0,7.7,2.1,0.27
+1952,Mainichi Dragons,nomura002tak,Takeshi Nomura,33,16,9,0.64,2.76,39,27,9,8,1,NA,195.1,193,73,60,11,43,NA,53,2,0,1,792,1.208,8.9,0.5,2,2.4,1.23
+1952,Mainichi Dragons,sato--000hei,Heishichi Sato,34,0,0,NA,14.73,2,0,0,0,0,NA,3.2,9,6,6,1,5,NA,0,0,0,0,23,3.818,22.1,2.5,12.3,0,0
+1952,Mainichi Dragons,shimiz003hir,Hirokazu Shimizu,19,1,0,1,2.25,1,1,0,0,0,NA,4,3,1,1,1,1,NA,1,1,0,0,16,1,6.8,2.3,2.3,2.3,1
+1952,Mainichi Dragons,sueyos000tos,Toshinobu Sueyoshi,25,6,6,0.5,3.44,25,11,11,1,0,NA,89,81,42,34,4,52,NA,32,1,1,4,370,1.494,8.2,0.4,5.3,3.2,0.62
+1952,Mainichi Dragons,taki--000yos,Yoshihiko Taki,23,0,0,NA,27,1,0,0,0,0,NA,0.1,3,1,1,1,0,NA,0,0,0,0,4,9,81,27,0,0,NA
+1952,Mainichi Dragons,ueno--000shi,Shigeo Ueno,29,14,6,0.7,3.2,33,17,11,4,2,NA,149,149,71,53,13,35,NA,41,1,0,0,626,1.235,9,0.8,2.1,2.5,1.17
+1952,Mainichi Dragons,wada--000isa,Isamu Wada,18,4,3,0.571,2.03,22,6,12,1,1,NA,79.2,60,23,18,1,27,NA,46,0,0,0,313,1.092,6.8,0.1,3.1,5.2,1.7
+1952,Mainichi Dragons,yamane001tos,Toshihide Yamane,24,12,6,0.667,3.14,42,19,17,4,0,NA,192,156,78,67,11,53,NA,81,2,1,7,761,1.089,7.3,0.5,2.5,3.8,1.53

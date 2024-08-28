@@ -1,0 +1,15 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1956,Kokutetsu Swallows,fukaza000tak,Takehiko Fukazawa,22,0,0,NA,8.44,6,0,1,0,0,NA,10.2,18,11,10,2,4,1,7,0,0,0,51,2.063,15.2,1.7,3.4,5.9,1.75
+1956,Kokutetsu Swallows,inoue-000yos,Yoshiaki Inoue,23,0,0,NA,2.25,7,1,4,0,0,NA,16,12,6,4,0,0,0,7,0,0,0,58,0.75,6.8,0,0,3.9,NA
+1956,Kokutetsu Swallows,kaneda002mas,Masaichi Kaneda*,22,25,20,0.556,1.74,68,29,37,24,5,NA,367.1,222,86,71,20,81,3,316,2,0,5,1393,0.825,5.4,0.5,2,7.7,3.9
+1956,Kokutetsu Swallows,kitaha000tos,Toshio Kitabatake,23,6,4,0.6,3.05,30,4,10,0,0,NA,88.2,80,31,30,6,15,2,40,0,1,0,352,1.071,8.1,0.6,1.5,4.1,2.67
+1956,Kokutetsu Swallows,kuroiw000hir,Hiroshi Kuroiwa,22,1,1,0.5,7.16,14,2,7,0,0,NA,27.2,33,23,22,9,8,0,9,0,0,0,119,1.482,10.7,2.9,2.6,2.9,1.13
+1956,Kokutetsu Swallows,mashim000sad,Sadao Mashimo,22,0,0,NA,13.5,1,0,0,0,0,NA,2,4,5,3,2,2,0,0,0,0,0,14,3,18,9,9,0,0
+1956,Kokutetsu Swallows,matsud000kiy,Kiyoshi Matsuda*,25,2,2,0.5,3.86,10,3,4,0,0,NA,23.1,19,12,10,1,9,2,15,3,0,0,106,1.2,7.3,0.4,3.5,5.8,1.67
+1956,Kokutetsu Swallows,mitsub000sei,Seiji Mitsubayashi,20,2,2,0.5,4.16,24,5,3,0,0,NA,62.2,56,31,29,7,33,1,27,3,2,1,274,1.42,8,1,4.7,3.9,0.82
+1956,Kokutetsu Swallows,miyaji000yos,Yoshitomo Miyaji,24,12,12,0.5,2.54,42,31,4,5,3,NA,216.1,181,70,61,10,52,5,119,7,0,2,868,1.077,7.5,0.4,2.2,5,2.29
+1956,Kokutetsu Swallows,onuma-000kiy,Kiyoshi Onuma,20,0,0,NA,0,2,1,0,0,0,NA,4,3,0,0,0,0,0,0,0,0,0,15,0.75,6.8,0,0,0,NA
+1956,Kokutetsu Swallows,owaki-000ter,Teruo Owaki,26,4,13,0.235,3.16,33,23,5,1,1,NA,134,115,56,47,7,36,4,61,2,0,2,545,1.127,7.7,0.5,2.4,4.1,1.69
+1956,Kokutetsu Swallows,tadoko000zen,Zenjiro Tadokoro,21,7,7,0.5,2.12,45,22,13,3,2,NA,165.2,132,46,39,14,44,6,95,4,0,2,651,1.062,7.2,0.8,2.4,5.2,2.16
+1956,Kokutetsu Swallows,takaha005aki,Akira Takahashi*,24,0,1,0,3.27,6,2,3,0,0,NA,11,11,8,4,2,5,0,9,0,0,0,50,1.455,9,1.6,4.1,7.4,1.8
+1956,Kokutetsu Swallows,tashir000ter,Terukatsu Tashiro,22,2,3,0.4,2.91,19,7,6,0,0,NA,55.2,56,20,18,2,16,2,31,3,0,0,233,1.293,9.1,0.3,2.6,5,1.94

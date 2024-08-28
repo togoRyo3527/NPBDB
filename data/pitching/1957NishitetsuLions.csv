@@ -1,0 +1,16 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1957,Nishitetsu Lions,ariyos000hir,Hiromasa Ariyoshi?,21,0,1,0,0,1,0,1,0,0,NA,3,3,2,0,0,3,0,2,0,0,0,14,2,9,0,9,6,0.67
+1957,Nishitetsu Lions,hata--000tak,Takayuki Hata*,19,2,4,0.333,4.07,30,16,4,2,0,NA,79.2,75,44,36,5,43,0,59,4,0,3,356,1.481,8.5,0.6,4.9,6.7,1.37
+1957,Nishitetsu Lions,inao--000kaz,Kazuhisa Inao,20,35,6,0.854,1.37,68,33,27,20,5,NA,373.2,243,72,57,14,76,8,288,7,2,1,1419,0.854,5.9,0.3,1.8,6.9,3.79
+1957,Nishitetsu Lions,kawamu000his,Hisafumi Kawamura,23,17,8,0.68,2.24,55,29,13,5,3,NA,225,200,71,56,7,73,3,127,4,0,3,918,1.213,8,0.3,2.9,5.1,1.74
+1957,Nishitetsu Lions,kawasa000tok,Tokuji Kawasaki,36,0,1,0,1.47,7,0,5,0,0,NA,18.1,15,4,3,1,8,0,7,0,0,0,75,1.255,7.4,0.5,3.9,3.4,0.88
+1957,Nishitetsu Lions,kitaha000sat,Kei Kitahara*,21,0,1,0,5.14,2,1,0,0,0,NA,7,6,4,4,2,6,0,6,0,0,0,33,1.714,7.7,2.6,7.7,7.7,1
+1957,Nishitetsu Lions,muraya000yas,Yasunobu Murayama,19,0,0,NA,18,2,0,0,0,0,NA,2,7,4,4,1,1,0,2,0,0,0,13,4,31.5,4.5,4.5,9,2
+1957,Nishitetsu Lions,nagasa000mam,Mamoru Nagasaka,22,0,0,NA,11.57,2,0,0,0,0,NA,2.1,5,3,3,0,1,0,0,0,0,0,13,2.571,19.3,0,3.9,0,0
+1957,Nishitetsu Lions,nishih000kyo,Kyoji Nishihara,19,2,1,0.667,2.47,22,5,2,1,0,NA,43.2,34,15,12,1,18,0,31,2,0,1,179,1.191,7,0.2,3.7,6.4,1.72
+1957,Nishitetsu Lions,nishim000sad,Sadao Nishimura,22,5,5,0.5,2.69,29,9,13,2,0,NA,87,80,33,26,2,26,1,52,0,0,4,355,1.218,8.3,0.2,2.7,5.4,2
+1957,Nishitetsu Lions,otsu--000mam,Mamoru Otsu,26,0,0,NA,45,2,0,1,0,0,NA,1,7,6,5,0,1,0,0,0,0,0,11,8,63,0,9,0,0
+1957,Nishitetsu Lions,sagawa000mor,Morikazu Sagawa*,21,0,0,NA,4.76,5,0,2,0,0,NA,5.2,5,3,3,1,4,0,4,0,0,0,26,1.588,7.9,1.6,6.4,6.4,1
+1957,Nishitetsu Lions,shimab000yuk,Yukio Shimabara,24,13,5,0.722,1.61,31,17,7,6,3,NA,140,110,41,25,5,37,4,81,3,0,1,561,1.05,7.1,0.3,2.4,5.2,2.19
+1957,Nishitetsu Lions,ugari-000mic,Michio Ukari,20,0,1,0,2.45,18,3,8,0,0,NA,40.1,39,14,11,1,16,1,26,1,0,1,179,1.364,8.7,0.2,3.6,5.8,1.63
+1957,Nishitetsu Lions,wako--000tad,Tadao Wako,20,9,11,0.45,2.2,44,19,12,1,0,NA,163.1,118,54,40,0,80,3,135,3,0,4,665,1.212,6.5,0,4.4,7.4,1.69

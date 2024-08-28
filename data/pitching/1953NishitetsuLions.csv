@@ -1,0 +1,13 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1953,Nishitetsu Lions,kawamu000his,Hisafumi Kawamura,19,3,4,0.429,2.51,24,8,9,2,1,NA,82.1,65,35,23,3,41,NA,58,3,1,2,346,1.287,7.1,0.3,4.5,6.3,1.41
+1953,Nishitetsu Lions,kawasa000tok,Tokuji Kawasaki,32,24,15,0.615,1.99,47,23,21,18,5,NA,294.1,238,86,65,9,78,NA,110,3,0,0,1167,1.074,7.3,0.3,2.4,3.4,1.41
+1953,Nishitetsu Lions,long--001alv,Al Long?,21,2,0,1,1.74,3,3,0,3,1,NA,31,20,8,6,1,8,NA,13,2,0,1,120,0.903,5.8,0.3,2.3,3.8,1.63
+1953,Nishitetsu Lions,nishim000sad,Sadao Nishimura,18,2,9,0.182,3.99,34,13,11,2,0,NA,119.2,96,60,53,2,83,NA,129,1,0,5,525,1.496,7.2,0.2,6.2,9.7,1.55
+1953,Nishitetsu Lions,noguch000mas,Masaaki Noguchi,29,2,3,0.4,4.28,17,4,7,0,0,NA,61,74,38,29,10,15,NA,11,1,0,0,269,1.459,10.9,1.5,2.2,1.6,0.73
+1953,Nishitetsu Lions,oneil-002mar,Marion O'Neil?,22,10,7,0.588,3.34,35,23,3,6,2,NA,145.2,147,74,54,4,55,NA,49,4,1,2,624,1.387,9.1,0.2,3.4,3,0.89
+1953,Nishitetsu Lions,ota---000mas,Masao Ota,19,0,1,0,3.15,19,5,6,0,0,NA,45.2,39,20,16,2,23,NA,20,2,0,1,192,1.358,7.7,0.4,4.5,3.9,0.87
+1953,Nishitetsu Lions,otsu--000mam,Mamoru Otsu,22,6,11,0.353,3.67,34,15,11,4,1,NA,147,150,75,60,9,46,NA,56,1,0,1,626,1.333,9.2,0.6,2.8,3.4,1.22
+1953,Nishitetsu Lions,paine-001phi,Phil Paine,23,4,3,0.571,1.77,9,8,1,5,1,NA,61,37,17,12,2,34,NA,38,8,0,1,257,1.164,5.5,0.3,5,5.6,1.12
+1953,Nishitetsu Lions,shimab000yuk,Yukio Shimabara,20,4,6,0.4,3.22,27,9,8,1,0,NA,81,56,32,29,4,38,NA,38,2,1,1,329,1.16,6.2,0.4,4.2,4.2,1
+1953,Nishitetsu Lions,tajima000sad,Sadamu Tajima,18,0,0,NA,0,2,0,1,0,0,NA,1.1,0,0,0,0,0,NA,1,0,0,0,4,0,0,0,0,6.8,NA
+1953,Nishitetsu Lions,takesu000shi,Shisho Takesue,30,0,2,0,7.71,12,9,1,0,0,NA,30.1,29,32,26,6,29,NA,10,4,0,2,152,1.912,8.6,1.8,8.6,3,0.34
