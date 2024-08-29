@@ -30,11 +30,11 @@ splitRight <- function(str,separ){
 
 reading_player <- function(){
   
-  if(!dir.exists("data")){
-    dir.create("data")
-    dir.create("./data/batting")
-    dir.create("./data/pitching")
-    dir.create("./data/fielding")
+  if(!dir.exists("rawdata")){
+    dir.create("rawdata")
+    dir.create("./rawdata/batting")
+    dir.create("./rawdata/pitching")
+    dir.create("./rawdata/fielding")
   }
   
   for(league in allYearHTML){
@@ -69,7 +69,7 @@ reading_player <- function(){
             html_attr("data-append-csv") %>% 
             splitRight("id=")
           
-          fileName <- paste0("./data/batting/", Year, teamName, ".csv")
+          fileName <- paste0("./rawdata/batting/", Year, teamName, ".csv")
           fileName %>% print
           batting_stats %>% 
             select(-Notes) %>% 
@@ -97,7 +97,7 @@ reading_player <- function(){
             html_attr("data-append-csv") %>% 
             splitRight("id=")
         
-          fileName <- paste0("./data/pitching/", Year, teamName, ".csv")
+          fileName <- paste0("./rawdata/pitching/", Year, teamName, ".csv")
           fileName %>% print
           pitching_stats %>% 
             select(-Notes) %>% 
@@ -119,7 +119,7 @@ reading_player <- function(){
 # 各チームポジション別個人守備成績 --------------------------------------------------------
         PATH <- '//*[@id="team_fielding_'
         for(pos in list("1B", "2B", "3B", "SS", "OF", "C", "P")){
-          fileName <- paste0("./data/fielding/",Year,teamName,"_",pos,".csv")
+          fileName <- paste0("./rawdata/fielding/",Year,teamName,"_",pos,".csv")
           fileName %>% print
           xpath <- paste0(PATH, pos, '"]')
           tryCatch({
