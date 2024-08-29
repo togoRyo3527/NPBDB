@@ -1,8 +1,0 @@
-Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
-1950,Yomiuri Giants,bessho000tak,Takehiko Bessho,27,22,11,0.667,2.55,43,32,11,27,8,NA,314,273,114,89,24,93,NA,157,4,1,1,1287,1.166,7.8,0.7,2.7,4.5,1.69
-1950,Yomiuri Giants,fujimo000hid,Hideo Fujimoto,32,26,14,0.65,2.45,49,34,15,33,6,NA,360.1,307,117,98,25,70,NA,156,2,0,1,1442,1.046,7.7,0.6,1.7,3.9,2.23
-1950,Yomiuri Giants,matsud000kiy,Kiyoshi Matsuda*,19,1,1,0.5,1.32,3,3,0,1,0,NA,13.2,15,10,2,0,9,NA,5,0,0,0,65,1.756,9.9,0,5.9,3.3,0.56
-1950,Yomiuri Giants,nakao-000hir,Hiroshi Nakao*,30,12,11,0.522,3.89,38,27,7,8,2,NA,194.1,193,105,84,26,76,NA,112,1,0,3,838,1.384,8.9,1.2,3.5,5.2,1.47
-1950,Yomiuri Giants,otomo-000tak,Takumi Otomo,25,4,4,0.5,3.71,15,11,2,5,0,NA,85,71,41,35,3,39,NA,44,0,0,1,356,1.294,7.5,0.3,4.1,4.7,1.13
-1950,Yomiuri Giants,tada--000fuk,Fukuzo Tada,28,14,9,0.609,2.91,40,27,12,13,2,NA,244,215,103,79,12,89,NA,138,5,0,2,1009,1.246,7.9,0.4,3.3,5.1,1.55
-1950,Yomiuri Giants,yoshie000eis,Eishiro Yoshie,27,3,4,0.429,3.45,14,6,4,2,0,NA,60,68,32,23,4,11,NA,20,0,0,0,255,1.317,10.2,0.6,1.7,3,1.82

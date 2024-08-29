@@ -1,8 +1,0 @@
-Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
-1950,Kintetsu Pearls,goi---000koz,Kozo Goi,25,8,15,0.348,3.86,37,25,11,12,1,NA,224,224,135,96,17,99,NA,86,5,1,4,985,1.442,9,0.7,4,3.5,0.87
-1950,Kintetsu Pearls,hattor001tsu,Tsutomu Hattori,26,0,0,NA,4.5,4,0,2,0,0,NA,6,8,5,3,0,2,NA,3,0,0,0,28,1.667,12,0,3,4.5,1.5
-1950,Kintetsu Pearls,kagawa000hid,Hidemitsu Kagawa,20,0,2,0,3.9,6,2,3,2,0,NA,27.2,33,17,12,0,7,NA,9,0,0,0,126,1.446,10.7,0,2.3,2.9,1.29
-1950,Kintetsu Pearls,kuro--000shi,Shigeaki Kuroo,23,12,21,0.364,3.35,41,35,5,24,1,NA,263.2,248,130,98,25,62,NA,69,1,1,3,1084,1.176,8.5,0.9,2.1,2.4,1.11
-1950,Kintetsu Pearls,sawafu000mit,Mitsuro Sawafuji,30,18,19,0.486,3.7,50,37,12,20,3,NA,301.2,292,153,124,20,83,NA,164,9,2,2,1254,1.243,8.7,0.6,2.5,4.9,1.98
-1950,Kintetsu Pearls,sekine000jun,Junzo Sekine*,23,4,12,0.25,5.47,26,14,9,8,0,NA,148,185,110,90,16,53,NA,69,7,1,1,689,1.608,11.3,1,3.2,4.2,1.3
-1950,Kintetsu Pearls,takech000fum,Fumio Takechi,23,2,3,0.4,3.17,16,7,8,4,1,NA,93.2,86,41,33,7,25,NA,18,5,0,1,388,1.185,8.3,0.7,2.4,1.7,0.72
