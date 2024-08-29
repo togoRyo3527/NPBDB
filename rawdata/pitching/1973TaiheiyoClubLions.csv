@@ -1,0 +1,15 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1973,Taiheiyo Club Lions,higash000osa,Osamu Higashio,23,15,14,0.517,3.29,48,37,8,14,5,NA,257.1,250,107,94,22,91,8,104,13,0,6,1088,1.325,8.7,0.8,3.2,3.6,1.14
+1973,Taiheiyo Club Lions,ishii-000shi,Shigeo Ishii,34,12,13,0.48,3.35,40,27,10,6,2,NA,196.1,187,77,73,20,59,3,63,6,2,1,824,1.253,8.6,0.9,2.7,2.9,1.07
+1973,Taiheiyo Club Lions,kanesh000osa,Osamu Kaneshiro,18,0,0,NA,3,2,0,2,0,0,NA,3,4,1,1,0,1,0,2,0,0,0,12,1.667,12,0,3,6,2
+1973,Taiheiyo Club Lions,kato--000haj,Hajime Kato,23,8,11,0.421,4.17,43,18,16,5,0,NA,159.2,145,83,74,21,77,2,90,2,2,1,680,1.39,8.2,1.2,4.3,5.1,1.17
+1973,Taiheiyo Club Lions,kawaha001aki,Akira Kawahara,24,0,1,0,4.66,6,3,1,0,0,NA,9.2,11,7,5,0,7,0,5,3,0,1,48,1.862,10.2,0,6.5,4.7,0.71
+1973,Taiheiyo Club Lions,kawato000ryu,Ryunosuke Kawato*,25,0,0,NA,8.44,9,1,2,0,0,NA,10.2,15,10,10,1,3,0,3,0,0,0,51,1.688,12.7,0.8,2.5,2.5,1
+1973,Taiheiyo Club Lions,miura-000kiy,Kiyohiro Miura,34,8,5,0.615,3.44,27,15,7,4,1,NA,115,123,53,44,16,36,1,38,4,0,0,496,1.383,9.6,1.3,2.8,3,1.06
+1973,Taiheiyo Club Lions,miwa--000sat,Satoru Miwa,27,0,4,0,4.54,25,7,8,0,0,NA,69.1,66,36,35,14,23,0,33,1,1,2,291,1.284,8.6,1.8,3,4.3,1.43
+1973,Taiheiyo Club Lions,nakaji003hir,Keisuke Nakajima*,18,1,0,1,5.63,3,1,1,0,0,NA,8,10,5,5,0,4,0,3,0,0,0,35,1.75,11.3,0,4.5,3.4,0.75
+1973,Taiheiyo Club Lions,norika000his,Toshiyoshi Norikae*,22,0,1,0,4.66,12,0,1,0,0,NA,9.2,6,5,5,0,10,2,8,2,1,1,45,1.655,5.6,0,9.3,7.4,0.8
+1973,Taiheiyo Club Lions,oikawa000nob,NObushi Oikawa,29,0,0,NA,5.4,4,0,4,0,0,NA,5,5,3,3,1,1,0,3,0,0,0,19,1.2,9,1.8,1.8,5.4,3
+1973,Taiheiyo Club Lions,shibai000hir,Hiroaki Shibaike,27,0,1,0,5.83,23,0,5,0,0,NA,46.1,55,32,30,7,8,0,13,1,1,1,195,1.36,10.7,1.4,1.6,2.5,1.63
+1973,Taiheiyo Club Lions,tanaka003aki,Akira Tanaka,28,11,10,0.524,2.57,52,5,26,2,0,NA,143.1,127,50,41,17,39,5,60,9,0,0,591,1.158,8,1.1,2.4,3.8,1.54
+1973,Taiheiyo Club Lions,yanagi000yut,Yutaka Yanagida,21,4,4,0.5,2.93,26,16,5,3,1,NA,116.2,103,40,38,17,24,2,70,5,0,0,470,1.089,7.9,1.3,1.9,5.4,2.92

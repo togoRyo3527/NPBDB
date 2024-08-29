@@ -1,0 +1,11 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1951,Hiroshima Carp,hagimo000tam,Tamotsu Hagimoto,22,1,7,0.125,6.6,16,11,3,1,0,NA,58.2,71,59,43,7,54,NA,19,0,1,3,301,2.131,10.9,1.1,8.3,2.9,0.35
+1951,Hiroshima Carp,hasega000ryo,Ryohei Hasegawa,21,17,14,0.548,3.49,41,22,18,17,1,NA,263.1,266,128,102,15,108,NA,115,7,1,4,1150,1.42,9.1,0.5,3.7,3.9,1.06
+1951,Hiroshima Carp,ichida000nat,Natsuo Ichida,33,1,2,0.333,8.59,8,4,4,0,0,NA,22,27,25,21,2,14,NA,4,2,0,1,107,1.864,11,0.8,5.7,1.6,0.29
+1951,Hiroshima Carp,ishigu000tad,Tadashi Ishiguro,20,0,0,NA,11.25,1,0,1,0,0,NA,4,7,5,5,0,3,NA,1,0,0,0,21,2.5,15.8,0,6.8,2.3,0.33
+1951,Hiroshima Carp,ishika000kiy,Kiyoitsu Ishikawa,24,0,7,0,5.89,24,5,13,1,0,NA,107,135,85,70,10,39,NA,21,1,0,0,480,1.626,11.4,0.8,3.3,1.8,0.54
+1951,Hiroshima Carp,kasama000min,Minoru Kasamatsu,35,5,15,0.25,4.5,36,25,7,9,0,NA,180,218,106,90,6,41,NA,39,2,0,1,796,1.439,10.9,0.3,2.1,2,0.95
+1951,Hiroshima Carp,naito-000koz,Kozo Naito*,35,1,4,0.2,6.3,5,5,0,1,0,NA,20,27,17,14,1,11,NA,3,1,1,1,99,1.9,12.2,0.5,5,1.4,0.27
+1951,Hiroshima Carp,sugiur000ryu,Ryutaro Sugiura,27,6,14,0.3,3.86,34,26,6,14,0,NA,191.1,198,104,82,12,63,NA,31,0,0,0,818,1.364,9.3,0.6,3,1.5,0.49
+1951,Hiroshima Carp,watana001nob,Nobuyoshi Watanabe,21,0,0,NA,0,2,0,2,0,0,NA,7,6,0,0,0,0,NA,3,0,0,0,27,0.857,7.7,0,0,3.9,NA
+1951,Hiroshima Carp,yoshiw000mas,Masahiro Yoshiwaka,20,1,1,0.5,9.41,8,1,2,0,0,NA,22,41,26,23,3,13,NA,4,0,0,0,116,2.455,16.8,1.2,5.3,1.6,0.31

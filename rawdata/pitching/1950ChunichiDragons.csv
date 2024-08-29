@@ -1,0 +1,14 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1950,Chunichi Dragons,hattor000tsu,Tsuguhiro Hattori,30,21,7,0.75,2.95,41,24,14,17,4,NA,238.1,242,90,78,11,54,NA,101,1,0,3,999,1.242,9.1,0.4,2,3.8,1.87
+1950,Chunichi Dragons,honda-000its,Itsuro Honda*,19,0,0,NA,0,4,1,3,0,0,NA,8.2,5,2,0,0,3,NA,4,0,0,0,31,0.923,5.2,0,3.1,4.2,1.33
+1950,Chunichi Dragons,hoshid000jir,Jiro Hoshida,30,6,4,0.6,3.22,19,12,3,3,1,NA,95,100,47,34,6,39,NA,40,1,0,0,413,1.463,9.5,0.6,3.7,3.8,1.03
+1950,Chunichi Dragons,kato--000aki,Akiro Kato,19,0,0,NA,18.9,2,0,0,0,0,NA,3.1,9,7,7,3,6,NA,0,0,0,0,23,4.5,24.3,8.1,16.2,0,0
+1950,Chunichi Dragons,kojima000tei,Teiji Kojima*,23,0,0,NA,11.25,5,0,4,0,0,NA,12,25,16,15,1,7,NA,5,0,0,0,66,2.667,18.8,0.8,5.3,3.8,0.71
+1950,Chunichi Dragons,kondo-000sad,Sadao Kondo,24,10,4,0.714,3.62,23,19,3,10,0,NA,149.1,156,71,60,8,54,NA,35,2,0,0,651,1.406,9.4,0.5,3.3,2.1,0.65
+1950,Chunichi Dragons,kuno--000kat,Katsumi Kuno*,25,0,0,NA,13.5,3,1,0,0,0,NA,8,15,14,12,1,6,NA,3,0,1,1,42,2.625,16.9,1.1,6.8,3.4,0.5
+1950,Chunichi Dragons,maruya000fum,Fumio Maruyama*,25,0,1,0,15.43,4,1,3,0,0,NA,7,16,14,12,1,3,NA,3,0,0,0,39,2.714,20.6,1.3,3.9,3.9,1
+1950,Chunichi Dragons,mitomi000tsu,Tsuneo Mitomi*,29,2,0,1,4.07,24,4,11,1,0,NA,84,91,47,38,6,27,NA,39,1,0,0,363,1.405,9.8,0.6,2.9,4.2,1.44
+1950,Chunichi Dragons,miyash000nob,Nobuaki Miyashita,25,14,8,0.636,3.99,31,25,3,13,4,NA,178.1,176,87,79,19,66,NA,84,4,0,0,762,1.357,8.9,1,3.3,4.2,1.27
+1950,Chunichi Dragons,shimiz000hid,Hideo Shimizu*,31,9,5,0.643,4.2,22,20,0,6,1,NA,120,138,64,56,5,48,NA,34,1,0,3,528,1.55,10.4,0.4,3.6,2.6,0.71
+1950,Chunichi Dragons,sugish000shi,Shigeru Sugishita,24,27,15,0.643,3.21,55,30,21,22,2,NA,325.2,269,135,116,24,134,NA,209,7,0,5,1361,1.237,7.4,0.7,3.7,5.8,1.56
+1950,Chunichi Dragons,takemo000sug,Suguru Takemoto,24,0,0,NA,27,1,0,0,0,0,NA,1,3,3,3,0,3,NA,1,0,0,0,9,6,27,0,27,9,0.33

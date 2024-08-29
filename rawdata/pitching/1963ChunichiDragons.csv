@@ -1,0 +1,13 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1963,Chunichi Dragons,bando-000eij,Eiji Bando,23,3,1,0.75,3.05,30,6,8,2,1,NA,73.2,77,32,25,2,26,3,39,2,1,3,314,1.398,9.4,0.2,3.2,4.8,1.5
+1963,Chunichi Dragons,esaki-000ter,Teruo Esaki,28,0,0,NA,0,1,0,1,0,0,NA,1,1,0,0,0,0,0,0,0,0,0,4,1,9,0,0,0,NA
+1963,Chunichi Dragons,gondo-000hir,Hiroshi Gondo,24,10,12,0.455,3.83,45,31,10,9,0,NA,220.2,205,105,94,29,79,2,88,4,1,1,922,1.287,8.4,1.2,3.2,3.6,1.11
+1963,Chunichi Dragons,kadook000nob,Nobuyuki Kadooka,19,0,4,0,5.72,12,4,3,0,0,NA,28.1,26,19,18,4,10,1,21,2,0,1,124,1.271,8.3,1.3,3.2,6.7,2.1
+1963,Chunichi Dragons,kakimo000min,Minoru Kakimoto,27,21,13,0.618,1.7,48,28,16,12,3,NA,260,208,58,49,14,42,8,83,4,0,0,989,0.962,7.2,0.5,1.5,2.9,1.98
+1963,Chunichi Dragons,kato--004tak,Takeshi Kato,19,1,0,1,1,4,0,2,0,0,NA,9,7,3,1,0,1,0,4,0,0,0,35,0.889,7,0,1,4,4
+1963,Chunichi Dragons,kawamu000yas,Yasuhiko Kawamura,22,19,14,0.576,2.68,56,21,23,8,1,NA,245,191,89,73,21,89,7,119,4,0,2,996,1.143,7,0.8,3.3,4.4,1.34
+1963,Chunichi Dragons,kondo-001mit,Mitsuro Kondo*,25,0,0,NA,4.82,7,0,2,0,0,NA,9.1,10,6,5,1,9,1,5,0,0,1,47,2.036,9.6,1,8.7,4.8,0.56
+1963,Chunichi Dragons,mizuta000his,Hisanobu Mizutani,22,0,0,NA,9,10,0,7,0,0,NA,12,16,13,12,1,7,2,3,1,0,0,59,1.917,12,0.8,5.3,2.3,0.43
+1963,Chunichi Dragons,nakaya001tos,Toshitake Nakayama*,27,9,5,0.643,2.48,41,22,10,6,3,NA,152.2,125,50,42,6,31,3,50,3,0,0,608,1.022,7.4,0.4,1.8,2.9,1.61
+1963,Chunichi Dragons,nishio000shi,Shigetaka Nishio*,29,2,2,0.5,3,25,2,11,0,0,NA,51,44,19,17,3,18,2,19,2,0,1,203,1.216,7.8,0.5,3.2,3.4,1.06
+1963,Chunichi Dragons,yamana000tat,Tatsumi Yamanaka,19,15,6,0.714,2.83,45,26,3,7,3,NA,197.1,164,67,62,17,44,2,88,2,0,2,782,1.054,7.5,0.8,2,4,2

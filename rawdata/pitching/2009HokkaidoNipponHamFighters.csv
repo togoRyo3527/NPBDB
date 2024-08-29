@@ -1,0 +1,24 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+2009,Hokkaido Nippon Ham Fighters,darvis001yu-,Yu Darvish,22,15,5,0.75,1.73,23,23,NA,8,2,0,182,118,36,35,9,45,0,167,6,0,5,701,0.896,5.8,0.4,2.2,8.3,3.71
+2009,Hokkaido Nippon Ham Fighters,ejiri-001shi,Shintaro Ejiri,32,2,1,0.667,3.2,45,0,NA,0,0,0,45,40,16,16,5,25,7,39,2,0,3,198,1.444,8,1,5,7.8,1.56
+2009,Hokkaido Nippon Ham Fighters,fujii-001shu,Shugo Fujii*,32,7,5,0.583,3.53,22,22,NA,0,0,0,114.2,120,45,45,11,48,0,63,6,0,3,498,1.465,9.4,0.9,3.8,4.9,1.31
+2009,Hokkaido Nippon Ham Fighters,hayash002mas,Masanori Hayashi*,25,3,2,0.6,3.33,46,0,NA,0,0,0,46,35,17,17,3,25,3,42,3,0,4,197,1.304,6.8,0.6,4.9,8.2,1.68
+2009,Hokkaido Nippon Ham Fighters,itoh--001tak,Takeshi Ito,32,0,0,NA,0,1,0,NA,0,0,0,0.1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,27,NA
+2009,Hokkaido Nippon Ham Fighters,itokaz001kei,Keisaku Itokazu,24,4,5,0.444,4.56,13,12,NA,2,0,0,71,53,40,36,8,27,0,43,8,0,0,295,1.127,6.7,1,3.4,5.5,1.59
+2009,Hokkaido Nippon Ham Fighters,kanamo001tak,Takayuki Kanamori,23,0,0,NA,0.84,18,0,NA,0,0,0,21.1,17,2,2,0,8,0,9,1,0,0,86,1.172,7.2,0,3.4,3.8,1.13
+2009,Hokkaido Nippon Ham Fighters,kikuch001kaz,Kazumasa Kikuchi,27,5,2,0.714,3.67,58,0,NA,0,0,0,61.1,59,25,25,5,11,2,62,2,0,2,252,1.141,8.7,0.7,1.6,9.1,5.64
+2009,Hokkaido Nippon Ham Fighters,miyamo001ken,Ken Miyamoto*,24,0,0,NA,3.07,12,0,NA,0,0,0,14.2,14,6,5,1,7,0,3,1,0,0,62,1.432,8.6,0.6,4.3,1.8,0.43
+2009,Hokkaido Nippon Ham Fighters,miyani001nao,Naoki Miyanishi*,24,7,2,0.778,2.89,58,0,NA,0,0,0,46.2,39,15,15,6,15,3,55,1,0,0,189,1.157,7.5,1.2,2.9,10.6,3.67
+2009,Hokkaido Nippon Ham Fighters,sakaki001ryo,Ryo Sakakibara,23,0,1,0,6.08,10,4,NA,0,0,0,26.2,37,19,18,5,8,0,23,1,0,0,123,1.688,12.5,1.7,2.7,7.8,2.88
+2009,Hokkaido Nippon Ham Fighters,sakamo001yat,Yataro Sakamoto,27,0,2,0,5.97,19,1,NA,0,0,0,28.2,37,19,19,3,13,2,11,3,1,0,133,1.744,11.6,0.9,4.1,3.5,0.85
+2009,Hokkaido Nippon Ham Fighters,sunaga001hid,Hideki Sunaga*,23,0,1,0,8.5,9,2,NA,0,0,0,18,20,17,17,6,8,0,7,3,0,0,83,1.556,10,3,4,3.5,0.88
+2009,Hokkaido Nippon Ham Fighters,sweene001bri,Brian Sweeney,35,5,8,0.385,5.32,21,21,NA,1,0,0,118.1,144,73,70,10,52,0,58,2,1,4,535,1.656,11,0.8,4,4.4,1.12
+2009,Hokkaido Nippon Ham Fighters,tadano001kaz,Kazuhito Tadano,29,5,5,0.5,5.76,13,12,NA,1,1,0,70.1,71,45,45,10,27,0,46,3,2,3,302,1.393,9.1,1.3,3.5,5.9,1.7
+2009,Hokkaido Nippon Ham Fighters,takeda001his,Hisashi Takeda,30,3,0,1,1.2,55,0,NA,0,0,34,60,54,10,8,1,14,0,38,0,0,0,243,1.133,8.1,0.2,2.1,5.7,2.71
+2009,Hokkaido Nippon Ham Fighters,takeda001mas,Masaru Takeda*,30,10,9,0.526,3.55,24,23,NA,2,0,0,144.1,150,58,57,17,20,3,99,4,1,0,592,1.178,9.4,1.1,1.2,6.2,4.95
+2009,Hokkaido Nippon Ham Fighters,tanimo001kei,Keisuke Tanimoto,24,2,0,1,5.53,24,0,NA,0,0,0,27.2,25,18,17,4,20,0,20,1,1,1,127,1.627,8.1,1.3,6.5,6.5,1
+2009,Hokkaido Nippon Ham Fighters,tateya001yos,Yoshinori Tateyama,33,5,7,0.417,3.78,46,0,NA,0,0,0,47.2,53,24,20,3,15,2,43,1,0,1,209,1.427,10,0.6,2.8,8.1,2.87
+2009,Hokkaido Nippon Ham Fighters,uemura001yus,Yusuke Uemura,20,0,0,NA,15,1,1,NA,0,0,0,3,7,5,5,1,4,0,2,0,0,2,20,3.667,21,3,12,6,0.5
+2009,Hokkaido Nippon Ham Fighters,yagi--001tom,Tomoya Yagi*,25,9,3,0.75,2.88,20,20,NA,3,1,0,122,115,41,39,16,40,1,76,5,0,3,501,1.27,8.5,1.2,3,5.6,1.9
+2009,Hokkaido Nippon Ham Fighters,yamamo001kaz,Kazunori Yamamoto*,26,0,0,NA,7.71,3,0,NA,0,0,0,2.1,2,2,2,1,1,0,3,0,0,1,10,1.286,7.7,3.9,3.9,11.6,3
+2009,Hokkaido Nippon Ham Fighters,yoshik001mit,Mitsuo Yoshikawa*,21,0,2,0,6.61,3,3,NA,0,0,0,16.1,19,17,12,2,10,0,18,0,0,0,77,1.776,10.5,1.1,5.5,9.9,1.8

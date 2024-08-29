@@ -1,0 +1,14 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1956,Osaka Tigers,fujimu000tak,Takao Fujimura,35,3,7,0.3,1.93,26,14,9,1,0,NA,84,56,19,18,5,22,2,33,2,0,0,329,0.929,6,0.5,2.4,3.5,1.5
+1956,Osaka Tigers,komada000kei,Keiji Komada,30,1,0,1,0.45,5,2,2,1,1,NA,20,18,3,1,1,4,1,5,0,0,0,78,1.1,8.1,0.5,1.8,2.3,1.25
+1956,Osaka Tigers,koyama000mas,Masaaki Koyama,21,17,13,0.567,1.67,59,14,39,8,4,NA,232.1,134,55,43,8,40,7,220,4,1,3,858,0.749,5.2,0.3,1.5,8.5,5.5
+1956,Osaka Tigers,izaki-000kin,Kinya Maeoka*,18,0,1,0,2.37,5,2,2,0,0,NA,19,13,6,5,1,12,0,5,0,0,0,77,1.316,6.2,0.5,5.7,2.4,0.42
+1956,Osaka Tigers,miyaza000its,Itsuhito Miyazaki,20,0,0,NA,4.5,9,2,3,0,0,NA,18,20,11,9,3,3,0,15,1,0,1,77,1.278,10,1.5,1.5,7.5,5
+1956,Osaka Tigers,nishi-000iso,Isoroku Nishi,20,1,1,0.5,5.19,5,1,2,0,0,NA,8.2,8,5,5,2,4,0,2,0,0,1,38,1.385,8.3,2.1,4.2,2.1,0.5
+1956,Osaka Tigers,nishig000haj,Hajime Nishigaki,20,0,0,NA,0,1,1,0,0,0,NA,4.1,2,0,0,0,3,0,2,0,0,0,16,1.154,4.2,0,6.2,4.2,0.67
+1956,Osaka Tigers,nishim002kaz,Kazunori Nishimura,20,7,3,0.7,1.38,23,8,6,1,1,NA,104.1,64,21,16,6,26,1,89,0,0,1,394,0.863,5.5,0.5,2.2,7.7,3.42
+1956,Osaka Tigers,nishio000shi,Shigetaka Nishio*,22,3,3,0.5,2.81,29,19,3,1,1,NA,89.2,73,33,28,4,30,1,47,3,0,3,366,1.149,7.3,0.4,3,4.7,1.57
+1956,Osaka Tigers,osaki-000mit,Mitsuo Osaki,24,25,14,0.641,1.66,63,37,18,12,3,NA,342.1,243,70,63,16,41,3,159,5,0,0,1284,0.83,6.4,0.4,1.1,4.2,3.88
+1956,Osaka Tigers,sato--004tak,Takanori Sato,19,0,0,NA,54,1,0,0,0,0,NA,0.2,4,6,4,0,2,0,0,0,0,0,8,9,54,0,27,0,0
+1956,Osaka Tigers,umemot000mas,Masayuki Umemoto,19,0,0,NA,0,2,0,2,0,0,NA,4,2,0,0,0,0,0,4,0,0,0,13,0.5,4.5,0,0,9,NA
+1956,Osaka Tigers,watana000sho,Shozo Watanabe,23,22,8,0.733,1.45,52,30,13,7,4,NA,260.1,207,54,42,4,30,6,84,2,0,0,1001,0.91,7.2,0.1,1,2.9,2.8

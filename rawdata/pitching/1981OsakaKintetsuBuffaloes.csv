@@ -1,0 +1,16 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1981,Osaka Kintetsu Buffaloes,fujiwa000yas,Yasuyuki Fujiwara,23,1,2,0.333,6.23,6,3,2,0,0,0,17.1,14,12,12,5,10,0,7,0,0,0,74,1.385,7.3,2.6,5.2,3.6,0.7
+1981,Osaka Kintetsu Buffaloes,fukui-000yas,Yasuo Fukui,28,1,1,0.5,3.2,18,0,11,0,0,1,56.1,51,21,20,8,4,0,26,1,0,0,216,0.976,8.1,1.3,0.6,4.2,6.5
+1981,Osaka Kintetsu Buffaloes,imoto-000tak,Takashi Imoto,30,5,9,0.357,4.21,20,18,2,4,2,0,115.1,124,64,54,19,40,2,55,4,0,1,505,1.422,9.7,1.5,3.1,4.3,1.38
+1981,Osaka Kintetsu Buffaloes,ishimo000yos,Yoshiaki Ishimoto*,18,1,1,0.5,5.65,11,2,3,0,0,0,28.2,30,26,18,7,23,0,17,0,0,2,137,1.849,9.4,2.2,7.2,5.3,0.74
+1981,Osaka Kintetsu Buffaloes,kubo--002yas,Yasuo Kubo,23,9,11,0.45,4.08,42,17,19,5,1,8,165.1,166,78,75,23,71,1,78,4,0,1,713,1.433,9,1.3,3.9,4.2,1.1
+1981,Osaka Kintetsu Buffaloes,murata000tat,Tatsumi Murata*,28,7,7,0.5,3.35,37,17,10,5,3,0,150.2,156,62,56,12,46,4,80,11,0,1,651,1.341,9.3,0.7,2.7,4.8,1.74
+1981,Osaka Kintetsu Buffaloes,ota---000koj,Koji Ota,29,0,1,0,9,1,1,0,0,0,0,2,3,4,2,1,2,0,2,0,0,0,12,2.5,13.5,4.5,9,9,1
+1981,Osaka Kintetsu Buffaloes,suzuki000kei,Keishi Suzuki*,33,5,11,0.313,5.12,22,21,0,8,0,0,123,142,78,70,17,27,1,42,2,0,0,529,1.374,10.4,1.2,2,3.1,1.56
+1981,Osaka Kintetsu Buffaloes,tachib000ken,Kenji Tachibana,27,7,7,0.5,3.46,32,14,10,2,1,1,130,129,55,50,18,29,1,50,9,0,2,538,1.215,8.9,1.2,2,3.5,1.72
+1981,Osaka Kintetsu Buffaloes,tani--002hir,Hiroaki Tani,25,2,7,0.222,5.36,13,7,4,2,1,0,50.1,52,33,30,7,22,0,38,2,0,0,220,1.47,9.3,1.3,3.9,6.8,1.73
+1981,Osaka Kintetsu Buffaloes,taniza000koj,Koji Tanizaki,24,0,0,NA,6.1,6,0,5,0,0,0,10.1,13,7,7,3,3,0,13,1,0,0,47,1.548,11.3,2.6,2.6,11.3,4.33
+1981,Osaka Kintetsu Buffaloes,yamagu002tet,Tetsuji Yamaguchi,22,4,2,0.667,3.43,29,6,14,3,1,3,99.2,116,47,38,8,22,2,40,6,0,0,430,1.385,10.5,0.7,2,3.6,1.82
+1981,Osaka Kintetsu Buffaloes,yamamu000tat,Tatsuya Yamamura,19,2,0,1,1,2,2,0,2,0,0,18,13,2,2,1,3,0,7,0,0,0,68,0.889,6.5,0.5,1.5,3.5,2.33
+1981,Osaka Kintetsu Buffaloes,yanagi000yut,Yutaka Yanagida,29,10,13,0.435,4.54,30,22,8,10,3,4,164.2,160,87,83,27,58,3,88,4,0,0,705,1.324,8.7,1.5,3.2,4.8,1.52
+1981,Osaka Kintetsu Buffaloes,yoda--000eij,Eiji Yoda,18,0,0,NA,0,1,0,1,0,0,0,2,2,0,0,0,1,0,0,0,0,0,8,1.5,9,0,4.5,0,0

@@ -1,0 +1,46 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+2010,Yomiuri Giants,abe---001shi,Shinnosuke Abe*,31,140,569,498,85,140,27,2,44,92,0,0,58,91,0.281,0.368,0.608,0.976,303,8,11,1,1,3
+2010,Yomiuri Giants,asai--001hid,Hideki Asai,26,10,17,14,0,0,0,0,0,0,0,0,1,5,0,0.067,0,0.067,0,0,0,2,0,0
+2010,Yomiuri Giants,chono-001his,Hisayoshi Chono,25,128,459,430,66,124,24,3,19,52,12,4,25,72,0.288,0.33,0.491,0.821,211,10,2,2,0,4
+2010,Yomiuri Giants,fujii-001shu,Shugo Fujii*,33,23,42,38,3,9,3,0,0,1,0,0,1,12,0.237,0.275,0.316,0.591,12,0,1,2,0,0
+2010,Yomiuri Giants,fukuda001sat,Satoshi Fukuda,26,18,10,10,1,2,0,0,0,0,0,0,0,1,0.2,0.2,0.2,0.4,2,0,0,0,0,0
+2010,Yomiuri Giants,furuki001shi,Shigeyuki Furuki*,34,67,96,82,10,20,1,0,2,7,2,1,10,17,0.244,0.347,0.329,0.677,27,3,3,1,0,1
+2010,Yomiuri Giants,gonzal001dic,Dicky Gonzalez,31,25,43,37,1,3,0,0,0,0,0,0,1,11,0.081,0.128,0.081,0.209,3,0,1,4,0,0
+2010,Yomiuri Giants,gonzal002edg,Edgar Gonzalez,32,100,327,289,26,76,18,1,12,44,2,2,34,67,0.263,0.342,0.457,0.798,132,7,1,2,1,3
+2010,Yomiuri Giants,greisi001set,Seth Greisinger,34,6,8,8,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,hashim001ita,Itaru Hashimoto*,20,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,hoshin001mas,Masumi Hoshino*,26,34,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+2010,Yomiuri Giants,ichika001tom,Tomoya Ichikawa,25,3,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,kajima001ryu,Ryuichi Kajimae,25,4,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2010,Yomiuri Giants,kamei-001yos,Yoshiyuki Kamei*,27,71,220,205,22,38,13,0,5,17,4,2,9,38,0.185,0.228,0.322,0.55,66,4,3,1,2,0
+2010,Yomiuri Giants,katoh-001ken,Ken Kato,29,4,3,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,kroon-001mar,Marc Kroon#,37,52,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,kubo--001yuu,Yuya Kubo,30,79,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,kudoh-001tak,Takahito Kudo*,29,40,30,26,3,6,0,0,0,2,0,0,0,11,0.231,0.333,0.231,0.564,6,0,4,0,0,0
+2010,Yomiuri Giants,lee---002seu,Seung Yuop Lee*,33,56,108,92,13,15,1,0,5,11,1,0,12,26,0.163,0.28,0.337,0.617,31,0,3,1,0,0
+2010,Yomiuri Giants,lin---001yi-,Yi Hao Lin,19,2,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,matsum001tet,Tetsuya Matsumoto*,25,94,350,317,49,91,13,2,0,22,17,4,17,56,0.287,0.331,0.341,0.672,108,4,4,12,0,0
+2010,Yomiuri Giants,nakai-001dai,Daisuke Nakai,20,6,7,6,1,0,0,0,0,0,0,0,0,3,0,0.143,0,0.143,0,0,1,0,0,0
+2010,Yomiuri Giants,nakamu001mic,Micheal Nakamura,33,37,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,nishim001ken,Kentaro Nishimura,25,14,26,21,0,1,0,0,0,0,0,0,0,12,0.048,0.048,0.048,0.095,1,0,0,5,0,0
+2010,Yomiuri Giants,nomagu001tak,Takahiko Nomaguchi,27,12,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,obispo001wir,Wirfin Obispo,25,14,14,13,1,2,0,0,1,1,0,0,0,5,0.154,0.154,0.385,0.538,5,0,0,1,0,0
+2010,Yomiuri Giants,ochi--001dai,Daisuke Ochi,27,59,3,3,1,1,1,0,0,2,0,0,0,1,0.333,0.333,0.667,1,2,0,0,0,0,0
+2010,Yomiuri Giants,odajim001mas,Masakuni Odajima,31,14,15,14,0,3,0,0,0,1,0,0,1,5,0.214,0.267,0.214,0.481,3,0,0,0,0,0
+2010,Yomiuri Giants,ogasaw001mic,Michihiro Ogasawara*,36,137,591,510,83,157,24,1,34,90,1,0,73,101,0.308,0.394,0.559,0.953,285,9,3,0,5,2
+2010,Yomiuri Giants,ota---001tai,Taishi Ohta,20,2,6,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,ohmich001nor,Noriyoshi Omichi,40,5,5,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,ramire002ale,Alex Ramírez,35,144,606,566,93,172,28,0,49,129,1,2,21,98,0.304,0.338,0.613,0.951,347,14,12,0,7,1
+2010,Yomiuri Giants,sakamo001hay,Hayato Sakamoto,21,144,676,609,107,171,35,4,31,85,14,4,47,83,0.281,0.332,0.504,0.836,307,6,3,10,7,2
+2010,Yomiuri Giants,sanema001kaz,Kazunari Sanematsu,29,2,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,suzuki001tak,Takahiro Suzuki#,32,61,26,25,15,7,0,0,0,4,10,5,1,9,0.28,0.308,0.28,0.588,7,1,0,0,0,0
+2010,Yomiuri Giants,takagi001yas,Yasunari Takagi*,28,21,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2010,Yomiuri Giants,takaha001yos,Yoshinobu Takahashi*,35,116,332,280,30,75,9,0,13,56,2,0,44,75,0.268,0.365,0.439,0.804,123,6,2,0,6,1
+2010,Yomiuri Giants,tani--001yos,Yoshitomo Tani,37,84,195,176,16,42,6,0,2,10,2,3,13,32,0.239,0.293,0.307,0.6,54,4,1,4,1,1
+2010,Yomiuri Giants,terauc001tak,Takayuki Terauchi,27,31,9,8,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0
+2010,Yomiuri Giants,tohno-001shu,Shun Tono,23,27,45,40,2,5,1,0,0,1,0,0,1,22,0.125,0.146,0.15,0.296,6,0,0,4,0,0
+2010,Yomiuri Giants,tsuruo001kaz,Kazunari Tsuruoka,33,32,43,35,4,8,1,0,0,0,0,0,3,8,0.229,0.325,0.257,0.582,9,2,2,3,0,1
+2010,Yomiuri Giants,utsumi001tet,Tetsuya Utsumi*,28,27,54,45,2,6,1,0,0,4,0,0,1,20,0.133,0.152,0.156,0.308,7,0,0,8,0,0
+2010,Yomiuri Giants,wakiya001ryo,Ryota Wakiya*,28,132,459,414,65,113,14,8,7,43,28,5,35,80,0.273,0.333,0.396,0.729,164,5,3,6,1,4
+2010,Yomiuri Giants,yamagu001tet,Tetsuya Yamaguchi*,26,73,8,8,0,1,0,0,0,0,0,0,0,4,0.125,0.125,0.125,0.25,1,0,0,0,0,0
+2010,Yomiuri Giants,yano--001ken,Kenji Yano,29,42,88,74,8,23,4,1,2,13,0,2,10,11,0.311,0.393,0.473,0.866,35,1,0,4,0,0

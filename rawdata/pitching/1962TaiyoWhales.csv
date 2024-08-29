@@ -1,0 +1,17 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1962,Taiyo Whales,akiyam000nob,Noboru Akiyama,28,26,12,0.684,1.92,72,17,32,8,5,NA,290.2,213,73,62,16,79,7,199,7,0,1,1139,1.005,6.6,0.5,2.4,6.2,2.52
+1962,Taiyo Whales,gondo-000mas,Masatoshi Gondo*,28,8,6,0.571,2.58,68,18,17,2,0,NA,195.2,166,66,56,5,72,1,180,7,1,9,814,1.216,7.6,0.2,3.3,8.3,2.5
+1962,Taiyo Whales,grunwa001alf,Al Grunwald*,32,2,8,0.2,4.54,26,11,8,2,0,NA,83.1,69,50,42,7,50,1,43,0,1,5,349,1.428,7.5,0.8,5.4,4.6,0.86
+1962,Taiyo Whales,hayama000jir,Jiro Hayama,21,0,0,NA,8.31,2,0,0,0,0,NA,4.1,9,5,4,2,0,0,3,0,0,1,22,2.077,18.7,4.2,0,6.2,NA
+1962,Taiyo Whales,inagaw000mak,Makoto Inagawa,25,12,7,0.632,1.98,55,26,13,4,2,NA,191,126,49,42,13,77,0,150,5,0,4,762,1.063,5.9,0.6,3.6,7.1,1.95
+1962,Taiyo Whales,iwamot000yas,Yasuhide Iwamoto*,19,0,0,NA,4.5,1,0,1,0,0,NA,2,2,1,1,1,0,0,2,0,0,0,8,1,9,4.5,0,9,NA
+1962,Taiyo Whales,koda--001mas,Masaru Koda,23,0,0,NA,0,2,0,1,0,0,NA,1,4,2,0,0,0,0,0,0,0,0,7,4,36,0,0,0,NA
+1962,Taiyo Whales,morita000sak,Sakan Morita,27,0,0,NA,NA,1,0,0,0,0,NA,0,0,0,0,0,1,0,0,0,0,0,1,NA,NA,NA,NA,NA,0
+1962,Taiyo Whales,oishi-001mas,Masahiko Oishi,26,1,0,1,1.46,11,1,4,0,0,NA,12.1,10,3,2,0,6,1,6,1,0,0,50,1.297,7.3,0,4.4,4.4,1
+1962,Taiyo Whales,osaki-000tak,Takao Osaki,20,0,0,NA,9,6,2,0,0,0,NA,6,13,6,6,0,5,0,3,0,0,0,35,3,19.5,0,7.5,4.5,0.6
+1962,Taiyo Whales,sasaki000koi,Koichiro Sasaki,18,1,0,1,5.23,4,0,0,0,0,NA,10.1,9,6,6,1,1,0,6,1,0,0,42,0.968,7.8,0.9,0.9,5.2,6
+1962,Taiyo Whales,sasaki000kic,Yoshiro Sasaki,22,0,4,0,2.27,7,3,2,1,0,NA,31.2,23,8,8,4,5,0,18,0,0,0,118,0.884,6.5,1.1,1.4,5.1,3.6
+1962,Taiyo Whales,shimad000gen,Gentaro Shimada,22,6,13,0.316,3.8,47,23,9,2,0,NA,147,146,75,62,11,49,3,128,8,0,1,630,1.327,8.9,0.7,3,7.8,2.61
+1962,Taiyo Whales,shinod000soh,Sohei Shinoda*,20,1,1,0.5,3.83,26,2,12,0,0,NA,42.1,41,20,18,6,10,0,20,1,0,0,175,1.205,8.7,1.3,2.1,4.3,2
+1962,Taiyo Whales,suzuki007tak,Takashi Suzuki*,28,14,8,0.636,2.54,56,31,8,7,5,NA,191.1,151,69,54,14,45,1,157,9,0,0,769,1.024,7.1,0.7,2.1,7.4,3.49
+1962,Taiyo Whales,wako--000ter,Terumoto Wako,25,0,0,NA,10.38,5,0,1,0,0,NA,4.1,7,5,5,0,0,0,0,0,0,0,20,1.615,14.5,0,0,0,NA

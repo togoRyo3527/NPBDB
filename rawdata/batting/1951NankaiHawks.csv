@@ -1,0 +1,25 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1951,Nankai Hawks,etoh--000har,Haruyasu Eto,29,45,101,96,10,24,2,2,0,8,0,0,3,6,0.25,0.273,0.313,0.585,30,2,0,2,NA,NA
+1951,Nankai Hawks,hattor000tak,Takeo Hattori,18,31,53,50,0,5,0,0,0,1,0,0,1,13,0.1,0.118,0.1,0.218,5,0,0,2,NA,NA
+1951,Nankai Hawks,horii-001kaz,Kazuo Horii,27,104,439,408,50,110,19,3,8,65,20,12,27,29,0.27,0.317,0.39,0.706,159,8,1,3,NA,NA
+1951,Nankai Hawks,iida--000tok,Tokuji Iida,27,100,441,402,63,119,20,4,15,87,19,8,38,33,0.296,0.358,0.478,0.836,192,11,1,0,NA,NA
+1951,Nankai Hawks,kageya000kaz,Kazuo Kageyama,24,104,477,410,97,129,12,13,6,28,42,9,61,44,0.315,0.403,0.451,0.855,185,1,0,6,NA,NA
+1951,Nankai Hawks,kasaha000kaz,Kazuo Kasahara*,31,75,233,213,17,78,14,5,2,28,4,2,18,8,0.366,0.418,0.507,0.925,108,3,1,1,NA,NA
+1951,Nankai Hawks,kiduka000tad,Chusuke Kizuka,27,104,455,421,78,130,17,5,1,34,55,7,13,16,0.309,0.336,0.38,0.716,160,2,4,17,NA,NA
+1951,Nankai Hawks,kuroda000kaz,Kazuhiro Kuroda,26,98,362,348,32,90,16,6,5,44,5,1,9,26,0.259,0.279,0.382,0.662,133,8,1,4,NA,NA
+1951,Nankai Hawks,matsub000nob,Noboru Matsuba,29,55,92,86,9,20,3,1,0,12,8,2,6,6,0.233,0.283,0.291,0.573,25,3,0,0,NA,NA
+1951,Nankai Hawks,matsui001jun,Jun Matsui,26,51,118,113,9,30,4,1,0,7,2,0,4,12,0.266,0.291,0.319,0.609,36,7,0,1,NA,NA
+1951,Nankai Hawks,matsum001tad,Tadashige Matsumoto,27,17,11,11,0,4,1,0,0,2,0,0,0,1,0.364,0.364,0.455,0.818,5,0,0,0,NA,NA
+1951,Nankai Hawks,minoha000hir,Hiroshi Minohara,21,94,122,109,10,28,3,1,1,10,3,3,11,14,0.257,0.325,0.33,0.655,36,5,0,2,NA,NA
+1951,Nankai Hawks,muraka000kaz,Kazuharu Murakami,34,28,44,41,2,6,0,0,0,6,1,0,2,3,0.146,0.205,0.146,0.351,6,1,1,0,NA,NA
+1951,Nankai Hawks,nagasa000sho,Shoji Nagasawa,33,37,46,40,3,4,1,0,0,2,1,0,4,3,0.1,0.182,0.125,0.307,5,4,0,2,NA,NA
+1951,Nankai Hawks,nakaha002hir,Hiroshi Nakahara,27,12,14,14,3,3,1,0,0,1,0,0,0,0,0.214,0.214,0.286,0.5,4,1,0,0,NA,NA
+1951,Nankai Hawks,nakata000nob,Nobuo Nakatani,31,40,67,60,8,11,0,0,0,7,0,1,5,11,0.183,0.258,0.183,0.441,11,1,1,1,NA,NA
+1951,Nankai Hawks,okamot000isa,Isami Okamoto,20,75,79,74,10,15,5,0,1,11,7,2,3,9,0.203,0.234,0.311,0.545,23,4,0,2,NA,NA
+1951,Nankai Hawks,osaki-000ken,Kenichi Osaki,30,11,8,8,0,3,1,0,0,0,0,0,0,2,0.375,0.375,0.5,0.875,4,0,0,0,NA,NA
+1951,Nankai Hawks,shimab000ter,Teruo Shimabara*,24,55,105,98,9,24,4,2,0,7,2,0,6,6,0.245,0.295,0.327,0.622,32,0,1,0,NA,NA
+1951,Nankai Hawks,tanaka004tat,Tatsuo Tanaka,24,9,6,6,0,2,0,0,0,0,0,0,0,0,0.333,0.333,0.333,0.667,2,0,0,0,NA,NA
+1951,Nankai Hawks,tsuruo002kaz,Kazuto Tsuruoka,34,91,366,338,44,105,21,1,2,58,19,4,27,11,0.311,0.363,0.396,0.76,134,10,1,0,NA,NA
+1951,Nankai Hawks,tsutsu000kei,Keizo Tsutsui,28,76,258,235,30,53,7,1,4,13,3,0,20,27,0.226,0.292,0.315,0.607,74,2,2,1,NA,NA
+1951,Nankai Hawks,yasuda000mas,Masao Yasuda*,20,15,5,5,2,1,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,1,0,0,0,NA,NA
+1951,Nankai Hawks,yuki--000sus,Susumu Yuki,30,37,78,74,10,16,1,0,3,10,0,0,2,12,0.216,0.237,0.351,0.588,26,1,0,2,NA,NA

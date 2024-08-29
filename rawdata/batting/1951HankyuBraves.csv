@@ -1,0 +1,25 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1951,Hankyu Braves,abe---000hac,Hachiro Abe*,26,43,103,101,7,18,4,1,0,9,0,0,1,11,0.178,0.186,0.238,0.424,24,2,0,1,NA,NA
+1951,Hankyu Braves,akashi000koi,Koichi Akashi,24,67,167,150,14,37,2,1,0,8,2,6,8,17,0.247,0.289,0.273,0.563,41,1,1,8,NA,NA
+1951,Hankyu Braves,arai--000kaz,Kazuhito Arai,19,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1951,Hankyu Braves,fujii-000mic,Michio Fujii,28,90,332,304,39,79,12,4,3,26,23,8,22,16,0.26,0.316,0.355,0.671,108,3,3,3,NA,NA
+1951,Hankyu Braves,furuka000sei,Seizo Furukawa,29,93,342,308,42,74,12,1,5,24,23,14,23,32,0.24,0.302,0.334,0.636,103,5,4,7,NA,NA
+1951,Hankyu Braves,harada000koi,Koichi Harada,23,23,30,29,3,11,3,0,1,3,0,0,0,2,0.379,0.379,0.586,0.966,17,1,0,1,NA,NA
+1951,Hankyu Braves,higash000nat,Natsuki Higashidani*,20,94,288,254,26,69,12,4,3,21,5,4,26,23,0.272,0.351,0.386,0.737,98,9,5,3,NA,NA
+1951,Hankyu Braves,kawagu000kei,Keijiro Kawaguchi*,32,14,10,10,0,2,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,2,1,0,0,NA,NA
+1951,Hankyu Braves,kawai-000koz,Kozo Kawai*,24,96,410,383,52,105,7,5,2,30,44,9,23,18,0.274,0.317,0.334,0.651,128,5,1,3,NA,NA
+1951,Hankyu Braves,miyaza000kii,Kiichiro Miyazawa*,24,9,9,9,1,2,2,0,0,0,0,0,0,2,0.222,0.222,0.444,0.667,4,0,0,0,NA,NA
+1951,Hankyu Braves,nakata000jun,Junji Nakatani,33,76,308,270,40,79,25,1,12,52,13,7,33,20,0.293,0.378,0.526,0.904,142,4,4,1,NA,NA
+1951,Hankyu Braves,noguch000jir,Jiro Noguchi,31,77,183,176,19,39,2,0,1,18,3,0,7,4,0.222,0.251,0.25,0.501,44,6,0,0,NA,NA
+1951,Hankyu Braves,nonomu000hir,Hiroshi Nonomura,20,10,17,17,0,3,0,0,0,2,0,1,0,2,0.177,0.177,0.177,0.353,3,0,0,0,NA,NA
+1951,Hankyu Braves,ogawa-000hid,Hideo Ogawa,19,8,9,9,1,3,0,0,0,1,0,0,0,0,0.333,0.333,0.333,0.667,3,0,0,0,NA,NA
+1951,Hankyu Braves,shibat000eij,Eiji Shibata,20,33,61,60,3,10,1,0,0,2,0,0,1,10,0.167,0.18,0.183,0.364,11,1,0,0,NA,NA
+1951,Hankyu Braves,shindo000sad,Sadafumi Shindo*,26,27,24,21,5,3,0,0,0,2,3,1,2,6,0.143,0.25,0.143,0.393,3,0,1,0,NA,NA
+1951,Hankyu Braves,suzuki000sac,Sachio Suzuki,19,19,25,25,2,4,0,0,0,0,0,0,0,1,0.16,0.16,0.16,0.32,4,2,0,0,NA,NA
+1951,Hankyu Braves,tenpo-000yos,Yoshio Tenbo,27,35,73,71,7,15,3,1,0,12,2,0,1,12,0.211,0.222,0.282,0.504,20,2,0,1,NA,NA
+1951,Hankyu Braves,tokura000kat,Katsuki Tokura,36,91,340,311,37,68,13,4,10,55,8,5,29,24,0.219,0.285,0.383,0.668,119,1,0,0,NA,NA
+1951,Hankyu Braves,uchio-000isa,Isamu Uchio?,24,48,180,170,7,43,7,1,1,13,1,0,6,9,0.253,0.283,0.324,0.606,55,4,1,3,NA,NA
+1951,Hankyu Braves,ueda--002tak,Takehiko Ueda,24,79,233,226,22,49,5,1,4,23,3,1,5,24,0.217,0.234,0.301,0.535,68,7,0,2,NA,NA
+1951,Hankyu Braves,wanaka000mic,Michio Wanaka,24,21,34,33,2,9,1,1,0,4,0,0,1,4,0.273,0.294,0.364,0.658,12,0,0,0,NA,NA
+1951,Hankyu Braves,yabe--000shi,Shigeru Yabe,23,54,66,58,7,12,4,0,0,2,5,2,6,3,0.207,0.292,0.276,0.568,16,3,1,1,NA,NA
+1951,Hankyu Braves,yamash000tak,Takeshi Yamashita,19,96,318,281,31,62,8,5,3,25,0,1,32,56,0.221,0.303,0.317,0.619,89,7,1,4,NA,NA

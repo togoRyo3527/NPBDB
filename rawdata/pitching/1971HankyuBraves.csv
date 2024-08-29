@@ -1,0 +1,14 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1971,Hankyu Braves,adachi000mit,Mitsuhiro Adachi,31,19,8,0.704,2.49,43,32,8,18,4,NA,252.2,200,80,70,21,55,9,116,11,0,0,996,1.009,7.1,0.7,2,4.1,2.11
+1971,Hankyu Braves,hashim000tsu,Tsutomu Hashimoto,20,0,0,NA,1.8,4,0,2,0,0,NA,5,4,1,1,0,2,0,4,0,0,1,19,1.2,7.2,0,3.6,7.2,2
+1971,Hankyu Braves,imai--000yut,Yutaro Imai,21,0,0,NA,67.5,1,0,0,0,0,NA,0.2,5,5,5,0,1,0,0,0,0,0,8,9,67.5,0,13.5,0,0
+1971,Hankyu Braves,ishii-000shi,Shigeo Ishii,32,7,7,0.5,3.28,26,11,7,4,1,NA,90.2,91,41,33,8,28,4,43,6,0,0,388,1.313,9,0.8,2.8,4.3,1.54
+1971,Hankyu Braves,kajimo000tak,Takao Kajimoto*,36,6,8,0.429,3.44,33,15,5,4,1,NA,136,134,57,52,12,43,4,74,1,1,0,576,1.301,8.9,0.8,2.8,4.9,1.72
+1971,Hankyu Braves,kodama001yos,Yoshihiro Kodama,25,6,3,0.667,4.53,40,2,17,0,0,NA,91.1,90,51,46,13,32,5,44,4,0,0,387,1.336,8.9,1.3,3.2,4.3,1.38
+1971,Hankyu Braves,miwata000kat,Katsutoshi Miwata,25,1,0,1,1.93,2,0,2,0,0,NA,4.2,6,1,1,1,0,0,5,1,1,0,20,1.286,11.6,1.9,0,9.6,NA
+1971,Hankyu Braves,miyamo000yuk,Yukinobu Miyamoto,26,4,3,0.571,4.18,34,10,12,2,0,NA,103.1,102,54,48,15,38,4,58,2,1,1,442,1.355,8.9,1.3,3.3,5.1,1.53
+1971,Hankyu Braves,mizuta000tak,Takashi Mizutani,23,0,0,NA,2.45,4,0,2,0,0,NA,7.1,8,2,2,0,0,0,4,0,0,0,29,1.091,9.8,0,0,4.9,NA
+1971,Hankyu Braves,nagare000tos,Toshiharu Nagare,22,0,0,NA,3,5,1,3,0,0,NA,9,6,3,3,1,3,0,2,0,0,0,35,1,6,1,3,2,0.67
+1971,Hankyu Braves,toda--000yos,Yoshinori Toda,25,1,0,1,3.38,12,0,2,0,0,NA,16,15,6,6,3,6,0,12,1,0,1,68,1.313,8.4,1.7,3.4,6.8,2
+1971,Hankyu Braves,yamada000his,Hisashi Yamada,22,22,6,0.786,2.37,46,31,12,16,6,NA,270,195,80,71,37,64,6,189,6,0,0,1064,0.959,6.5,1.2,2.1,6.3,2.95
+1971,Hankyu Braves,yoneda000tet,Tetsuya Yoneda,33,14,4,0.778,3.73,31,28,2,12,2,NA,181,165,82,75,19,62,5,79,8,1,2,762,1.254,8.2,0.9,3.1,3.9,1.27

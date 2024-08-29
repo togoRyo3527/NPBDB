@@ -1,0 +1,26 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1987,Nankai Hawks,fujimo002hir,Hiroshi Fujimoto,23,26,48,41,2,10,6,0,0,3,0,0,6,8,0.244,0.34,0.39,0.731,16,0,0,1,0,0
+1987,Nankai Hawks,hammon001ste,Steve Hammond*,30,115,352,318,25,87,8,1,9,29,1,1,25,41,0.274,0.333,0.39,0.723,124,14,5,1,3,1
+1987,Nankai Hawks,hostet001dav,Dave Hostetler,31,124,446,391,42,98,12,1,17,68,1,4,44,91,0.251,0.332,0.417,0.749,163,17,6,0,5,7
+1987,Nankai Hawks,iwaki-000sat,Satoshi Iwaki,33,20,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+1987,Nankai Hawks,kadota000hir,Hiromitsu Kadota*,39,126,458,379,63,120,16,0,31,69,1,1,74,66,0.317,0.428,0.604,1.032,229,5,2,0,3,24
+1987,Nankai Hawks,kagawa000nob,Nobuyuki Kagawa,25,88,229,204,24,51,4,0,11,32,0,0,15,43,0.25,0.302,0.431,0.733,88,8,1,7,2,2
+1987,Nankai Hawks,kato--002hid,Hideji Kato*,39,110,293,262,24,68,8,0,9,42,1,0,27,37,0.26,0.331,0.393,0.724,103,8,2,0,2,2
+1987,Nankai Hawks,kishik000kat,Katsuya Kishigawa,22,7,4,3,1,1,0,0,1,1,1,0,1,2,0.333,0.5,1.333,1.833,4,0,0,0,0,0
+1987,Nankai Hawks,kono--000tak,Takayuki Kono,32,108,340,276,36,86,6,1,5,27,4,4,45,34,0.312,0.409,0.395,0.804,109,8,2,15,2,0
+1987,Nankai Hawks,migita000mas,Masahiko Migita*,22,37,17,15,3,1,0,0,0,0,0,2,2,6,0.067,0.177,0.067,0.243,1,0,0,0,0,0
+1987,Nankai Hawks,mori--002hir,Hiroyuki Mori,22,3,8,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0
+1987,Nankai Hawks,moriwa000hir,Hiroshi Moriwaki,26,91,198,172,22,35,1,0,3,11,3,2,12,36,0.204,0.262,0.262,0.524,45,4,2,11,1,0
+1987,Nankai Hawks,nakao-000aki,Akio Nakao,34,45,17,16,2,2,0,0,0,0,0,0,1,2,0.125,0.177,0.125,0.302,2,0,0,0,0,0
+1987,Nankai Hawks,ogawa-002hir,Hiroshi Ogawa,27,73,172,141,14,28,2,0,0,7,6,4,17,20,0.199,0.281,0.213,0.494,30,4,0,12,2,0
+1987,Nankai Hawks,sadaok000chi,Chiaki Sadaoka,34,35,41,34,1,5,0,0,0,3,0,0,4,13,0.147,0.237,0.147,0.384,5,0,0,3,0,0
+1987,Nankai Hawks,sakagu000chi,Chisen Sakaguchi,24,46,56,48,8,9,2,0,0,4,0,1,4,14,0.188,0.291,0.229,0.52,11,0,3,1,0,0
+1987,Nankai Hawks,sasaki001mak,Makoto Sasaki*,21,125,499,451,67,130,22,2,11,33,15,9,37,72,0.288,0.344,0.419,0.763,189,3,2,7,2,3
+1987,Nankai Hawks,takaya000hid,Hideki Takayanagi,30,81,180,156,18,36,7,0,7,31,0,0,16,33,0.231,0.298,0.41,0.708,64,6,1,2,5,2
+1987,Nankai Hawks,tonda-000kun,Kunimitsu Tonda,22,3,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1987,Nankai Hawks,yamada002tsu,Tsutomu Yamada,28,87,188,162,23,45,5,0,2,11,0,6,18,24,0.278,0.352,0.346,0.697,56,1,1,6,1,0
+1987,Nankai Hawks,yamagu001yuj,Yuji Yamaguchi#,21,20,1,0,7,0,0,0,0,0,3,4,1,0,NA,1,NA,NA,0,0,0,0,0,0
+1987,Nankai Hawks,yamamo002kaz,Kazunori Yamamoto*,29,104,414,357,44,90,16,0,7,38,7,2,35,53,0.252,0.334,0.356,0.69,127,10,10,10,2,2
+1987,Nankai Hawks,yamamu000yos,Yoshinori Yamamura,32,100,276,244,22,62,6,0,5,26,1,3,21,35,0.254,0.317,0.34,0.658,83,5,3,5,3,0
+1987,Nankai Hawks,yoshid002hir,Hiroyuki Yoshida,26,98,291,259,24,71,7,0,9,24,0,1,21,42,0.274,0.331,0.405,0.736,105,8,2,7,2,1
+1987,Nankai Hawks,yugami000hir,Hiroshi Yugamidani,21,99,340,291,30,69,6,3,5,25,14,5,19,53,0.237,0.286,0.33,0.616,96,5,1,29,0,0

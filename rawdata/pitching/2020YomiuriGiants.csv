@@ -1,0 +1,30 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+2020,Yomiuri Giants,crisos000chr,Cristopher Crisostomo*,26,4,4,0.5,3.1,11,NA,NA,0,0,0,58,53,20,20,5,19,2,45,2,1,0,243,1.241,8.2,0.8,2.9,7,2.37
+2020,Yomiuri Giants,delaro001rub,Rubby De La Rosa,31,2,0,1,2.56,35,NA,NA,0,0,17,31.2,23,9,9,3,16,0,28,3,0,1,132,1.232,6.5,0.9,4.5,8,1.75
+2020,Yomiuri Giants,diplan000nat,Nattino Diplan,26,0,0,NA,19.29,2,NA,NA,0,0,0,2.1,7,5,5,3,2,0,2,1,0,1,16,3.857,27,11.6,7.7,7.7,1
+2020,Yomiuri Giants,fujiok000tak,Takahiro Fujioka*,30,0,0,NA,3.12,12,NA,NA,0,0,0,8.2,7,3,3,1,6,1,6,1,0,1,39,1.5,7.3,1,6.2,6.2,1
+2020,Yomiuri Giants,furuka000yur,Yuri Furukawa,24,0,0,NA,11.57,5,NA,NA,0,0,0,4.2,12,6,6,1,1,1,4,0,0,1,26,2.786,23.1,1.9,1.9,7.7,4
+2020,Yomiuri Giants,hatake000sei,Seishu Hatake,26,4,4,0.5,2.88,12,NA,NA,1,1,0,65.2,47,22,21,5,23,0,49,4,0,1,265,1.066,6.4,0.7,3.2,6.7,2.13
+2020,Yomiuri Giants,horiok000hay,Hayato Horioka,21,0,0,NA,7.82,12,NA,NA,0,0,0,12.2,16,13,11,2,8,0,11,0,0,0,62,1.895,11.4,1.4,5.7,7.8,1.38
+2020,Yomiuri Giants,imamur000nob,Nobutaka Imamura*,26,5,2,0.714,3.16,12,NA,NA,0,0,0,62.2,53,23,22,8,21,0,55,2,0,0,260,1.181,7.6,1.1,3,7.9,2.62
+2020,Yomiuri Giants,kagiya000yoh,Yohei Kagiya,29,3,1,0.75,2.89,46,NA,NA,0,0,0,37.1,25,12,12,2,13,1,40,1,0,0,148,1.018,6,0.5,3.1,9.6,3.08
+2020,Yomiuri Giants,kuwaha003tak,Takuya Kuwahara,24,1,0,1,6.43,5,NA,NA,0,0,0,7,6,5,5,0,5,0,6,1,0,0,32,1.571,7.7,0,6.4,7.7,1.2
+2020,Yomiuri Giants,masuda002dai,Daiki Masuda,26,0,0,NA,0,1,NA,NA,0,0,0,0.2,0,0,0,0,1,0,0,0,0,0,3,1.5,0,0,13.5,0,0
+2020,Yomiuri Giants,miyagu000ryo,Ryosuke Miyaguni,28,0,0,NA,5.33,21,NA,NA,0,0,0,25.1,27,15,15,5,8,1,22,0,0,1,109,1.382,9.6,1.8,2.8,7.8,2.75
+2020,Yomiuri Giants,nakaga000kot,Kota Nakagawa*,26,2,1,0.667,1,37,NA,NA,0,0,6,36,24,4,4,1,10,3,26,1,0,0,139,0.944,6,0.3,2.5,6.5,2.6
+2020,Yomiuri Giants,naoe--000dai,Daisuke Naoe,20,0,0,NA,3,3,NA,NA,0,0,0,12,10,4,4,2,3,0,11,1,0,0,49,1.083,7.5,1.5,2.3,8.3,3.67
+2020,Yomiuri Giants,numata000sho,Shohei Numata,20,0,0,NA,10.38,5,NA,NA,0,0,0,4.1,6,5,5,1,4,0,3,0,0,1,23,2.308,12.5,2.1,8.3,6.2,0.75
+2020,Yomiuri Giants,oe----000ryu,Ryusei Ohe*,21,3,0,1,3.11,43,NA,NA,0,0,0,37.2,21,15,13,5,22,1,30,5,0,0,156,1.142,5,1.2,5.3,7.2,1.36
+2020,Yomiuri Giants,ohtake001kan,Kan Otake,37,1,2,0.333,2.59,29,NA,NA,0,0,0,24.1,20,9,7,3,9,0,16,1,0,0,100,1.192,7.4,1.1,3.3,5.9,1.78
+2020,Yomiuri Giants,sakura000tos,Toshiki Sakurai,26,2,4,0.333,4.95,24,NA,NA,0,0,0,63.2,68,37,35,15,21,1,43,5,0,0,281,1.398,9.6,2.1,3,6.1,2.05
+2020,Yomiuri Giants,sanche008ang,Ángel Sánchez,30,8,4,0.667,3.08,15,NA,NA,0,0,0,87.2,74,35,30,8,34,1,59,0,0,0,363,1.232,7.6,0.8,3.5,6.1,1.74
+2020,Yomiuri Giants,sawamu000hir,Hirokazu Sawamura,32,1,1,0.5,6.08,13,NA,NA,0,0,0,13.1,14,9,9,1,8,0,11,2,0,0,64,1.65,9.5,0.7,5.4,7.4,1.38
+2020,Yomiuri Giants,sugano001tom,Tomoyuki Sugano,30,14,2,0.875,1.97,20,NA,NA,3,3,0,137.1,97,33,30,8,25,0,131,7,0,2,532,0.888,6.4,0.5,1.6,8.6,5.24
+2020,Yomiuri Giants,taguch000kaz,Kazuto Taguchi*,24,5,7,0.417,4.63,26,NA,NA,0,0,1,89.1,91,48,46,10,26,2,58,5,0,2,379,1.31,9.2,1,2.6,5.8,2.23
+2020,Yomiuri Giants,takagi000kyo,Kyosuke Takagi*,30,0,1,0,3.65,17,NA,NA,0,0,1,12.1,11,5,5,1,2,0,12,0,0,2,49,1.054,8,0.7,1.5,8.8,6
+2020,Yomiuri Giants,takaha000yuk,Yuki Takahashi*,23,1,3,0.25,4.3,8,NA,NA,0,0,0,23,22,12,11,2,12,0,23,0,0,3,101,1.478,8.6,0.8,4.7,9,1.92
+2020,Yomiuri Giants,takana000yuh,Yuhei Takanashi*,27,1,1,0.5,1.93,44,NA,NA,0,0,2,37.1,17,10,8,2,13,0,37,6,1,1,141,0.804,4.1,0.5,3.1,8.9,2.85
+2020,Yomiuri Giants,tanaka000toy,Toyoki Tanaka,26,1,1,0.5,4.88,31,NA,NA,0,0,0,27.2,32,19,15,4,18,1,21,3,0,0,133,1.807,10.4,1.3,5.9,6.8,1.17
+2020,Yomiuri Giants,togo--000sho,Shosei Togo,20,9,6,0.6,2.76,19,NA,NA,0,0,0,107.2,87,33,33,12,42,0,106,6,0,1,446,1.198,7.3,1,3.5,8.9,2.52
+2020,Yomiuri Giants,vieira000thy,Thyago Vieira,27,0,1,0,3.28,27,NA,NA,0,0,0,24.2,27,9,9,3,17,1,29,2,0,1,118,1.784,9.9,1.1,6.2,10.6,1.71
+2020,Yomiuri Giants,yokoga000kai,Kai Yokogawa*,19,0,0,NA,1.59,2,NA,NA,0,0,0,5.2,4,1,1,1,1,0,2,0,0,0,20,0.882,6.4,1.6,1.6,3.2,2

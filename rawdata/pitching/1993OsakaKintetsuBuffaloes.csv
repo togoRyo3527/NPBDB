@@ -1,0 +1,17 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1993,Osaka Kintetsu Buffaloes,akahor001mot,Motoyuki Akahori,23,6,6,0.5,1.52,46,0,45,0,0,26,82.2,57,19,14,6,36,3,60,1,0,3,331,1.125,6.2,0.7,3.9,6.5,1.67
+1993,Osaka Kintetsu Buffaloes,awano-001hid,Hideyuki Awano*,28,1,3,0.25,6.93,22,4,8,0,0,0,50.2,69,43,39,11,30,3,38,0,0,0,244,1.954,12.3,2,5.3,6.8,1.27
+1993,Osaka Kintetsu Buffaloes,esaka-000mas,Masaaki Esaka*,25,8,3,0.727,2.75,21,13,1,4,1,0,104.2,108,37,32,11,32,0,72,0,0,0,440,1.338,9.3,0.9,2.8,6.2,2.25
+1993,Osaka Kintetsu Buffaloes,ikeue-001koi,Koichi Ikeue,26,0,0,NA,9,2,0,1,0,0,0,3,8,4,3,0,1,0,0,0,0,0,18,3,24,0,3,0,0
+1993,Osaka Kintetsu Buffaloes,iriki-001sat,Satoshi Iriki,26,5,5,0.5,3.35,26,10,5,1,1,0,80.2,68,36,30,5,33,2,70,6,0,0,340,1.252,7.6,0.6,3.7,7.8,2.12
+1993,Osaka Kintetsu Buffaloes,kiyoka000eij,Eiji Kiyokawa*,31,1,0,1,3.43,23,0,5,0,0,0,21,22,8,8,3,5,2,25,2,0,0,91,1.286,9.4,1.3,2.1,10.7,5
+1993,Osaka Kintetsu Buffaloes,koike-001hid,Hideo Koike*,24,3,4,0.429,3.95,27,2,10,0,0,2,68.1,51,32,30,9,45,1,67,0,0,6,295,1.405,6.7,1.2,5.9,8.8,1.49
+1993,Osaka Kintetsu Buffaloes,nomo--001hid,Hideo Nomo,24,17,12,0.586,3.7,32,32,0,14,2,0,243.1,201,106,100,22,148,1,276,7,1,13,1064,1.434,7.4,0.8,5.5,10.2,1.86
+1993,Osaka Kintetsu Buffaloes,ono---001kaz,Kazuyoshi Ono*,27,1,1,0.5,8.38,3,3,0,0,0,0,9.2,12,9,9,2,8,0,3,0,0,1,49,2.069,11.2,1.9,7.4,2.8,0.38
+1993,Osaka Kintetsu Buffaloes,sano--001shi,Shigeki Sano,25,2,3,0.4,2,43,0,17,0,0,3,76.2,67,17,17,8,27,4,44,2,0,1,305,1.226,7.9,0.9,3.2,5.2,1.63
+1993,Osaka Kintetsu Buffaloes,sasaki000osa,Osamu Sasaki,30,1,0,1,4.12,5,2,1,0,0,0,19.2,20,11,9,0,9,0,5,0,0,1,87,1.475,9.2,0,4.1,2.3,0.56
+1993,Osaka Kintetsu Buffaloes,takamu001hir,Hiroshi Takamura,23,5,11,0.313,4.96,23,22,0,5,0,0,132.1,137,78,73,18,52,1,128,4,0,6,581,1.428,9.3,1.2,3.5,8.7,2.46
+1993,Osaka Kintetsu Buffaloes,takaya000izu,Izumi Takayanagi,29,2,1,0.667,4.91,8,7,0,1,0,0,33,46,20,18,6,20,0,16,1,0,1,161,2,12.5,1.6,5.5,4.4,0.8
+1993,Osaka Kintetsu Buffaloes,yamada000mas,Masami Yamada,25,0,0,NA,4.5,1,0,1,0,0,0,2,2,1,1,0,0,0,2,0,0,0,7,1,9,0,0,9,NA
+1993,Osaka Kintetsu Buffaloes,yamasa001shi,Shintaro Yamasaki,27,9,5,0.643,3.76,22,22,0,3,1,0,131.2,140,61,55,15,49,0,55,1,0,4,569,1.435,9.6,1,3.3,3.8,1.12
+1993,Osaka Kintetsu Buffaloes,yoshii001mas,Masato Yoshii,28,5,5,0.5,2.67,22,13,6,2,1,0,104.2,100,38,31,7,25,1,66,2,1,2,423,1.194,8.6,0.6,2.1,5.7,2.64

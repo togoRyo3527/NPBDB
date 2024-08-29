@@ -1,0 +1,13 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1960,Nishitetsu Lions,danno-000fuj,Fujio Danno*,19,0,1,0,9.82,3,0,1,0,0,NA,3.2,6,4,4,0,1,0,2,0,0,0,17,1.909,14.7,0,2.5,4.9,2
+1960,Nishitetsu Lions,hata--000tak,Takayuki Hata*,22,11,15,0.423,2.98,51,32,11,9,1,NA,241.1,199,93,80,14,89,6,219,7,0,3,999,1.193,7.4,0.5,3.3,8.2,2.46
+1960,Nishitetsu Lions,inao--000kaz,Kazuhisa Inao,23,20,7,0.741,2.59,39,24,13,19,3,NA,243,211,80,70,15,51,4,179,4,0,0,973,1.078,7.8,0.6,1.9,6.6,3.51
+1960,Nishitetsu Lions,inoue-002yos,Yoshio Inoue*,18,0,1,0,3.16,22,4,10,0,0,NA,51.1,50,20,18,2,16,0,24,3,0,0,213,1.286,8.8,0.4,2.8,4.2,1.5
+1960,Nishitetsu Lions,iwanag000isa,Isao Iwanaga,19,0,1,0,7.3,10,1,4,0,0,NA,12.1,19,12,10,5,1,0,4,1,0,0,57,1.622,13.9,3.6,0.7,2.9,4
+1960,Nishitetsu Lions,kondo-001mit,Mitsuro Kondo*,22,7,6,0.538,4.26,43,7,13,0,0,NA,105.2,111,57,50,5,31,1,102,1,0,2,450,1.344,9.5,0.4,2.6,8.7,3.29
+1960,Nishitetsu Lions,muraya000yas,Yasunobu Murayama,22,0,0,NA,4.5,1,0,1,0,0,NA,2,2,1,1,0,1,0,1,0,0,0,9,1.5,9,0,4.5,4.5,1
+1960,Nishitetsu Lions,nakaji000jun,Junichi Nakajima,22,8,8,0.5,2.94,48,20,11,3,0,NA,156,145,58,51,16,36,0,80,2,0,2,639,1.16,8.4,0.9,2.1,4.6,2.22
+1960,Nishitetsu Lions,shimab000yuk,Yukio Shimabara,27,8,8,0.5,3.45,39,17,12,2,0,NA,130.1,116,58,50,8,36,2,79,0,0,2,531,1.166,8,0.6,2.5,5.5,2.19
+1960,Nishitetsu Lions,sugima000osa,Isao Sugimachi,18,0,1,0,4.97,6,2,1,0,0,NA,12.2,21,7,7,2,3,0,7,0,0,0,60,1.895,14.9,1.4,2.1,5,2.33
+1960,Nishitetsu Lions,tanaka000kih,Kihachiro Tanaka,22,3,5,0.375,2.46,23,12,7,4,0,NA,95,72,28,26,11,20,1,70,4,0,2,370,0.968,6.8,1,1.9,6.6,3.5
+1960,Nishitetsu Lions,wako--000tad,Tadao Wako,23,13,7,0.65,2.49,35,17,10,5,4,NA,159,125,49,44,9,34,4,122,3,0,0,621,1,7.1,0.5,1.9,6.9,3.59

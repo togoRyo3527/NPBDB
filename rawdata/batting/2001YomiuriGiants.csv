@@ -1,0 +1,40 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+2001,Yomiuri Giants,abe---001shi,Shinnosuke Abe*,22,127,428,386,40,87,18,0,13,44,3,0,31,79,0.225,0.293,0.373,0.667,144,9,7,2,2,7
+2001,Yomiuri Giants,chon--001min,Min Tae Chung,31,10,5,3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0
+2001,Yomiuri Giants,etoh--001aki,Akira Eto,31,134,568,485,86,138,21,1,30,87,9,7,73,72,0.285,0.381,0.518,0.898,251,11,4,3,3,0
+2001,Yomiuri Giants,fukui-001kei,Keiji Fukui,25,50,51,49,9,13,2,0,2,5,0,0,0,13,0.265,0.265,0.429,0.694,21,0,0,2,0,0
+2001,Yomiuri Giants,gotoh-001koj,Koji Goto*,32,66,80,66,9,18,2,0,1,4,0,0,10,13,0.273,0.372,0.349,0.72,23,0,1,2,1,0
+2001,Yomiuri Giants,hirama001kaz,Kazuhiro Hiramatsu*,27,12,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+2001,Yomiuri Giants,horita001ich,Ichiro Horita,27,35,12,9,6,0,0,0,0,0,0,0,2,7,0,0.25,0,0.25,0,0,1,0,0,0
+2001,Yomiuri Giants,iriki-001yus,Yusaku Iriki,28,29,63,57,1,2,0,0,0,0,0,0,1,34,0.035,0.052,0.035,0.087,2,0,0,5,0,0
+2001,Yomiuri Giants,jeong-000min,Min Chul Jeong,29,8,15,12,0,1,0,0,0,0,0,0,1,10,0.083,0.154,0.083,0.237,1,0,0,2,0,0
+2001,Yomiuri Giants,johbe-001tsu,Tsuyoshi Jobe,20,47,9,8,1,1,0,0,0,0,0,0,0,6,0.125,0.125,0.125,0.25,1,0,0,1,0,0
+2001,Yomiuri Giants,kawaha001jun,Junichi Kawahara,28,22,26,21,3,3,0,0,0,0,0,0,0,13,0.143,0.143,0.143,0.286,3,0,0,5,0,0
+2001,Yomiuri Giants,kawai-001mas,Masahiro Kawai,36,73,64,52,6,15,3,0,2,5,0,0,2,11,0.289,0.315,0.462,0.776,24,0,0,10,0,0
+2001,Yomiuri Giants,kawamo001yas,Yasuyuki Kawamoto*,33,25,1,0,0,0,0,0,0,0,0,0,0,0,NA,NA,NA,NA,0,0,0,1,0,0
+2001,Yomiuri Giants,kawana001mot,Mototsugu Kawanaka*,27,56,42,39,9,10,3,0,0,1,4,3,1,8,0.256,0.31,0.333,0.643,13,1,2,0,0,0
+2001,Yomiuri Giants,kimura001ryu,Ryuji Kimura,30,20,3,3,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0
+2001,Yomiuri Giants,kiyoha001kaz,Kazuhiro Kiyohara,33,134,551,467,67,139,29,0,29,121,0,1,65,140,0.298,0.396,0.546,0.942,255,20,14,1,4,2
+2001,Yomiuri Giants,kudoh-001kim,Kimiyasu Kudo*,38,5,6,6,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+2001,Yomiuri Giants,kuwata001mas,Masumi Kuwata,33,16,14,11,0,3,0,0,0,1,0,0,1,7,0.273,0.333,0.273,0.606,3,0,0,2,0,0
+2001,Yomiuri Giants,martin002dom,Domingo Martínez,35,81,147,135,13,32,6,0,10,27,1,0,10,37,0.237,0.286,0.504,0.789,68,6,0,0,2,2
+2001,Yomiuri Giants,matsui001hid,Hideki Matsui*,27,140,611,481,107,160,23,3,36,104,3,3,120,96,0.333,0.463,0.618,1.081,297,9,3,0,7,6
+2001,Yomiuri Giants,may---001dar,Darrell May*,29,26,60,57,0,7,0,0,0,1,0,0,2,31,0.123,0.153,0.123,0.275,7,0,0,1,0,0
+2001,Yomiuri Giants,misawa001koi,Koishi Misawa,27,2,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+2001,Yomiuri Giants,miura-001tak,Taka Miura,23,49,5,4,1,1,0,0,0,0,0,0,1,2,0.25,0.4,0.25,0.65,1,0,0,0,0,0
+2001,Yomiuri Giants,motoki001dai,Daisuke Motoki,29,123,441,391,51,114,16,3,9,39,3,0,37,51,0.292,0.354,0.417,0.771,163,13,2,9,2,3
+2001,Yomiuri Giants,murata001shi,Shinichi Murata,37,54,96,84,6,15,2,0,4,14,0,0,9,30,0.179,0.255,0.345,0.601,29,1,0,2,1,2
+2001,Yomiuri Giants,murata001yos,Yoshinori Murata,27,6,7,7,0,1,0,0,0,0,0,0,0,0,0.143,0.143,0.143,0.286,1,0,0,0,0,0
+2001,Yomiuri Giants,nioka-001tom,Tomohiro Nioka,25,86,265,240,35,56,9,1,5,23,10,4,13,44,0.233,0.278,0.342,0.62,82,1,2,10,0,0
+2001,Yomiuri Giants,nishi-001tos,Toshihisa Nishi,29,140,652,597,88,163,29,1,20,59,20,3,36,92,0.273,0.318,0.426,0.743,254,15,5,10,4,0
+2001,Yomiuri Giants,nishiy001kaz,Kazutaka Nishiyama,30,19,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+2001,Yomiuri Giants,okajim001hid,Hideki Okajima*,25,58,6,6,0,2,0,0,0,3,0,0,0,3,0.333,0.333,0.333,0.667,2,0,0,0,0,0
+2001,Yomiuri Giants,saitoh001mas,Masaki Saito,36,13,13,9,1,1,0,0,0,1,0,0,1,5,0.111,0.2,0.111,0.311,1,1,0,3,0,0
+2001,Yomiuri Giants,saitoh001tak,Takayuki Saito*,25,34,19,17,6,2,0,0,0,1,0,1,2,2,0.118,0.211,0.118,0.328,2,0,0,0,0,0
+2001,Yomiuri Giants,shimiz001tak,Takayuki Shimizu*,27,126,384,333,49,108,10,1,7,29,8,7,33,39,0.324,0.388,0.423,0.812,141,4,3,13,2,3
+2001,Yomiuri Giants,tabata001kaz,Kazuya Tabata,32,29,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Yomiuri Giants,takaha001his,Hisanori Takahashi*,26,32,44,39,0,0,0,0,0,1,0,0,0,16,0,0,0,0,0,1,0,5,0,0
+2001,Yomiuri Giants,takaha001yos,Yoshinobu Takahashi*,26,140,605,543,88,164,26,0,27,85,3,2,49,85,0.302,0.364,0.499,0.863,271,14,7,1,5,4
+2001,Yomiuri Giants,takano001shi,Shinobu Takano*,26,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2001,Yomiuri Giants,uehara001koj,Koji Uehara,26,25,56,46,3,7,1,0,0,3,0,0,3,20,0.152,0.204,0.174,0.378,8,0,0,7,0,0
+2001,Yomiuri Giants,yoshin001koi,Koichiro Yoshinaga*,32,25,42,37,3,11,1,0,1,5,0,0,5,10,0.297,0.381,0.405,0.786,15,2,0,0,0,0

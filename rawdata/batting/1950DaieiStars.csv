@@ -1,0 +1,25 @@
+Year,Team,PlayerID,Name,Age,G,PA,AB,R,H,2B,3B,HR,RBI,SB,CS,BB,SO,BA,OBP,SLG,OPS,TB,GDP,HBP,SH,SF,IBB
+1950,Daiei Stars,araoka000aki,Akira Araoka,19,3,1,1,0,1,0,0,0,0,0,0,0,0,1,1,1,2,1,0,0,0,NA,NA
+1950,Daiei Stars,hayash000gii,Giichi Hayashi,30,47,108,105,8,22,2,0,3,7,0,0,2,9,0.21,0.224,0.314,0.539,33,3,0,1,NA,NA
+1950,Daiei Stars,himeno000yos,Yoshiharu Himeno,26,35,63,57,5,2,0,0,0,3,0,0,5,17,0.035,0.113,0.035,0.148,2,0,0,1,NA,NA
+1950,Daiei Stars,igaue-000jun,Jungo Igaue,33,110,479,433,66,116,23,0,11,59,11,4,39,36,0.268,0.33,0.397,0.727,172,8,1,6,NA,NA
+1950,Daiei Stars,iijima000shi,Shigeya Iijima,31,111,484,423,78,136,20,2,27,77,12,2,52,44,0.322,0.407,0.57,0.977,241,19,9,0,NA,NA
+1950,Daiei Stars,ikeda-000zen,Zenzo Ikeda,26,17,39,37,4,10,1,0,0,5,0,0,1,7,0.27,0.29,0.297,0.587,11,1,0,1,NA,NA
+1950,Daiei Stars,isekaw000mas,Masumi Isekawa,29,99,367,341,44,101,16,1,13,57,4,1,20,18,0.296,0.337,0.463,0.8,158,11,1,5,NA,NA
+1950,Daiei Stars,itakur000mas,Masao Itakura,23,54,139,132,13,33,2,0,4,11,0,2,6,26,0.25,0.288,0.356,0.644,47,3,1,0,NA,NA
+1950,Daiei Stars,kanai-000mit,Mitsumori Kanai,19,16,9,8,2,0,0,0,0,0,1,0,1,2,0,0.111,0,0.111,0,1,0,0,NA,NA
+1950,Daiei Stars,kato--000sho,Shoji Kato,36,112,484,440,56,117,22,4,10,59,6,5,39,45,0.266,0.331,0.402,0.734,177,16,4,1,NA,NA
+1950,Daiei Stars,kawaka000mic,Michio Kawakami,18,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NA,NA
+1950,Daiei Stars,koba--000iwa,Iwao Koba,26,27,36,35,4,10,2,0,0,2,0,0,0,5,0.286,0.286,0.343,0.629,12,1,0,1,NA,NA
+1950,Daiei Stars,masuda000tak,Takashi Masuda,28,93,327,300,37,75,13,3,4,29,15,4,19,29,0.25,0.297,0.353,0.65,106,2,1,7,NA,NA
+1950,Daiei Stars,noda--000sei,Seiji Noda*,27,34,46,45,2,8,2,0,1,6,0,0,1,11,0.178,0.196,0.289,0.485,13,1,0,0,NA,NA
+1950,Daiei Stars,ogawa-000yos,Yoshiharu Ogawa,26,29,73,64,2,10,3,0,0,6,0,0,5,14,0.156,0.217,0.203,0.421,13,2,0,4,NA,NA
+1950,Daiei Stars,sakaza000sei,Nariharu Sakazawa,32,120,507,475,60,125,14,6,4,47,7,4,28,23,0.263,0.304,0.343,0.647,163,10,0,4,NA,NA
+1950,Daiei Stars,starfi000vic,Victor Starffin?,34,43,114,111,8,37,9,0,2,18,2,0,3,7,0.333,0.351,0.469,0.819,52,4,0,0,NA,NA
+1950,Daiei Stars,takama000tos,Toshio Takamatsu,30,15,20,16,2,6,3,0,0,3,0,0,3,4,0.375,0.474,0.563,1.036,9,0,0,1,NA,NA
+1950,Daiei Stars,takeuc000kaz,Kazuo Takeuchi*,18,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,NA,NA
+1950,Daiei Stars,takita000mas,Masaharu Takita*,23,117,480,433,64,108,25,3,8,47,14,2,44,50,0.249,0.32,0.376,0.697,163,8,1,2,NA,NA
+1950,Daiei Stars,watana001kaz,Kazue Watanabe*,25,76,202,194,11,46,6,0,2,16,0,0,7,38,0.237,0.264,0.299,0.563,58,1,0,1,NA,NA
+1950,Daiei Stars,yabumo000kaz,Kazuo Yabumoto,19,9,17,16,0,2,0,0,0,0,1,0,1,5,0.125,0.177,0.125,0.302,2,1,0,0,NA,NA
+1950,Daiei Stars,yamada000kiy,Kiyoshi Yamada,29,117,525,441,60,104,18,3,1,34,8,8,72,38,0.236,0.346,0.297,0.643,131,10,2,10,NA,NA
+1950,Daiei Stars,yamagu000tom,Tomio Yamaguchi,25,31,46,42,8,9,0,0,1,5,1,1,2,9,0.214,0.267,0.286,0.552,12,0,1,1,NA,NA

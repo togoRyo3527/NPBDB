@@ -1,0 +1,13 @@
+Year,Team,PlayerID,Name,Age,W,L,W-L%,ERA,G,GS,GF,CG,SHO,SV,IP,H,R,ER,HR,BB,IBB,SO,HBP,BK,WP,BF,WHIP,H9,HR9,BB9,SO9,SO/W
+1954,Nishitetsu Lions,araoka000aki,Akira Araoka,23,1,0,1,3.75,14,1,8,0,0,NA,24,23,11,10,3,12,NA,8,2,0,0,103,1.458,8.6,1.1,4.5,3,0.67
+1954,Nishitetsu Lions,kawamu000his,Hisafumi Kawamura,20,25,12,0.676,1.99,61,21,33,4,3,NA,276,183,71,61,4,88,NA,169,8,1,0,1079,0.982,6,0.1,2.9,5.5,1.92
+1954,Nishitetsu Lions,kawasa000tok,Tokuji Kawasaki,33,10,10,0.5,2.39,30,15,13,6,1,NA,158.1,136,51,42,6,47,NA,68,3,0,1,643,1.156,7.7,0.3,2.7,3.9,1.45
+1954,Nishitetsu Lions,kitaha000sat,Kei Kitahara*,18,4,3,0.571,3.26,27,21,1,0,0,NA,91,73,39,33,4,28,NA,76,0,0,1,367,1.11,7.2,0.4,2.8,7.5,2.71
+1954,Nishitetsu Lions,nagasa000mam,Mamoru Nagasaka,19,0,2,0,3.86,6,3,3,0,0,NA,11.2,9,5,5,0,3,NA,2,1,0,0,45,1.029,6.9,0,2.3,1.5,0.67
+1954,Nishitetsu Lions,nishim000sad,Sadao Nishimura,19,22,5,0.815,1.77,46,26,13,14,8,NA,275,167,65,54,10,72,NA,236,4,0,4,1043,0.869,5.5,0.3,2.4,7.7,3.28
+1954,Nishitetsu Lions,noguch000mas,Masaaki Noguchi,30,0,1,0,9,2,1,1,0,0,NA,3,3,3,3,0,0,NA,1,0,0,0,13,1,9,0,0,3,NA
+1954,Nishitetsu Lions,ota---000mas,Masao Ota,20,0,0,NA,5.59,6,2,2,0,0,NA,9.2,8,9,6,0,6,NA,3,1,0,0,45,1.448,7.4,0,5.6,2.8,0.5
+1954,Nishitetsu Lions,otsu--000mam,Mamoru Otsu,23,18,11,0.621,1.78,49,29,10,9,2,NA,257.1,197,62,51,7,69,NA,123,6,0,2,1018,1.034,6.9,0.2,2.4,4.3,1.78
+1954,Nishitetsu Lions,otsuka001yas,Yasunori Otsuka,20,0,1,0,2.45,6,1,2,0,0,NA,11,9,7,3,0,4,NA,7,0,0,0,47,1.182,7.4,0,3.3,5.7,1.75
+1954,Nishitetsu Lions,sakaga000ats,Atsushi Sakagami,19,7,1,0.875,2.23,44,12,13,1,1,NA,101,89,32,25,1,41,NA,31,1,0,0,420,1.287,7.9,0.1,3.7,2.8,0.76
+1954,Nishitetsu Lions,shimab000yuk,Yukio Shimabara,21,3,1,0.75,2.29,23,8,6,1,0,NA,63,43,24,16,3,26,NA,28,0,0,0,248,1.095,6.1,0.4,3.7,4,1.08
