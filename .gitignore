@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 rawdata/
 NPBDATA_READING.Rproj
