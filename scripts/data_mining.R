@@ -21,3 +21,22 @@ data %>%
   relocate(single, .before = double) %>% 
   write_csv("../../data/PlayerBatting_byyear.csv")
 setwd("../..")
+
+
+# pitching ----------------------------------------------------------------
+setwd("./rawdata/pitching/")
+csv_list <- list.files(pattern = "*.csv")
+data <- do.call(rbind, lapply(csv_list, function(x) read_csv(x)))
+data %>% 
+  mutate(IP = (IP - as.integer(IP))*10 + as.integer(IP)*3) %>% select(IP)
+  set_names(c(
+    "year","team","playerID","name","age","win","lose","WL","ERA","game",
+    "starter","closer","complete","shutout","save","outs","hit","R","ER","HR",
+    "BB","IBB","K","HBP","BK","WP","BF","WHIP","H9","HR9","BB9","SO9","KBB" 
+  )) %>% 
+  mutate_all(~replace(., is.na(.), -99999)) %>% 
+  mutate_all(~replace(., is.infinite(.), -99999)) %>% 
+  relocate(single, .before = double) %>% 
+  write_csv("../../data/PlayerBatting_byyear.csv")
+setwd("../..")
+
