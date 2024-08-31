@@ -19,7 +19,7 @@ data %>%
   mutate_all(~replace(., is.na(.), -99999)) %>% 
   mutate_all(~replace(., is.infinite(.), -99999)) %>% 
   relocate(single, .before = double) %>% 
-  write_csv("../../data/PlayerBatting_byyear.csv")
+  write_csv("../../data/PlayerBattingByYear.csv")
 setwd("../..")
 
 
@@ -37,6 +37,6 @@ data %>%
   mutate_all(~replace(., is.na(.), -99999)) %>% 
   mutate_all(~replace(., is.infinite(.), -99999)) %>% 
   relocate(single, .before = double) %>% 
-  write_csv("../../data/PlayerBatting_byyear.csv")
+  write_csv("../../data/PlayerPitchingByYear.csv")
 setwd("../..")
 

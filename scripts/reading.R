@@ -40,7 +40,7 @@ reading_player <- function(){
   for(league in allYearHTML){
     allYearHtml <- read_html(league)
     # 年度を指定する 1950 ~ 2023
-    for(yearID in 46:((today() %>% year()) - 1949)){ # 2
+    for(yearID in 2:((today() %>% year()) - 1949)){ # 2
       Year <- (today() %>% year()) - yearID + 1
       paste("Yrear:", Year) %>% print
       paste("yearID", yearID) %>% print
@@ -162,3 +162,156 @@ reading_player <- function(){
 
 reading_player()
 
+reading_league <- function(){
+  if(!dir.exists("./rawdata/league")){
+    dir.create("./rawdata/league")
+    dir.create("./rawdata/league/rank")
+    dir.create("./rawdata/league/batting")
+    dir.create("./rawdata/league/pitching")
+    dir.create("./rawdata/league/fielding")
+  }
+  
+  for(i in 1:2){
+    allYearHtml <- read_html(allYearHTML[i])
+    Leagues <- c("Pacific", "Central")
+    League <- Leagues[i]
+    # 年度を指定する 1950 ~ 2023
+    for(yearID in 2:((today() %>% year()) - 1949)){ # 2
+      Year <- (today() %>% year()) - yearID + 1
+      paste("Year:", Year) %>% print
+      paste("yearID: ", yearID) %>% print
+      url <- paste0(
+        "http://www.baseball-reference.com/",
+        allYearHtml %>% 
+          html_node(xpath = paste0(
+            '//*[@id="lg_history"]/tbody/tr[',yearID,']/th/a'
+            )) %>% 
+          html_attr("href")
+        )
+      txt <- read_html(url) %>% 
+        gsub("<!--", "", .) %>% gsub("-->", "", .)
+      html_season <- read_html(txt)
+
+# 順位表 ---------------------------------------------------------------------
+      fileName <- paste0(Year, League, "Rank.csv")
+      fileName %>% print()
+      html_season %>% 
+        html_node(xpath = '//*[@id="div_regular_season"]') %>% 
+        html_table() %>% 
+        set_names(c(
+          "team", "wins", "loses", "ties", "WL", "GB"
+        )) %>% 
+        rowid_to_column(var = "rank") %>% 
+        mutate(
+          year = Year,
+          league = League,
+          GB = if_else(GB == "--", "0", GB) %>% as.numeric()
+          ) %>% 
+        select(year, league, everything()) %>% 
+        write_csv(paste0("./rawdata/league/rank/", fileName))
+
+# チーム打撃 -------------------------------------------------------------------
+      data <- html_season %>% 
+        html_node(xpath = '///*[@id="div_league_batting"]') %>% 
+        html_table() %>% 
+        select(-Aff) %>% 
+        mutate(
+          year = Year,
+          league = League,
+          single = H - `2B` - `3B` - HR) %>% 
+        select(year, league, everything()) %>% 
+        set_names(c(
+          "year", "league", "team", "aveage", "RG","game", "PA", "AB", 
+          "run", "hit", "double", "triple", "HR", "RBI", "steal", "CS", 
+          "BB", "SO", "AVG", "OBP", "SLG", "OPS", "TB", "GDP", 
+          "HBP", "SH", "SF", "IBB", "single"
+        )) %>% 
+        mutate_all(~replace(., is.na(.), -99999)) %>% 
+        mutate_all(~replace(., is.infinite(.), -99999)) %>% 
+        relocate(single, .before = double)
+      fileName <- paste0(Year, League, "TeamBatting.csv")
+      fileName %>% print()
+      data %>% 
+        filter(team != "League Totals") %>% 
+        write_csv(paste0("./rawdata/league/batting/", fileName))
+      fileName <- paste0(Year, League, "LeagueBatting.csv")
+      fileName %>% print()
+      data %>% 
+        filter(team == "League Totals") %>% 
+        select(-team) %>% 
+        write_csv(paste0("./rawdata/league/batting/", fileName))
+
+# チーム投球 -------------------------------------------------------------------
+      data <- html_season %>% 
+        html_node(xpath = '//*[@id="div_league_pitching"]') %>% 
+        html_table() %>% 
+        select(-Aff) %>% 
+        mutate(
+          year = Year,
+          league = League,
+          IP = (IP - as.integer(IP))*10 + as.integer(IP)*3
+          ) %>% 
+        select(year, league, everything()) %>% 
+        set_names(c(
+          "year", "league", "team", "aveage", "RG", "win", "lose", "WL", 
+          "ERA","RA9", "game", "starter", "closer", "complete", "shutout", 
+          "save", "outs", "hit", "run", "ER", "HR", "BB", "IBB", "K", 
+          "HBP", "BK", "WP", "BF", "WHIP", "H9", "HR9", "BB9", "K9", "KBB" 
+        )) %>% 
+        mutate_all(~replace(., is.na(.), -99999)) %>% 
+        mutate_all(~replace(., is.infinite(.), -99999))
+      fileName <- paste0(Year, League, "TeamPitching.csv")
+      fileName %>% print()
+      data %>% 
+        filter(team != "League Totals") %>% 
+        write_csv(paste0("./rawdata/league/pitching/", fileName))
+      fileName <- paste0(Year, League, "LeaguePitching.csv")
+      fileName %>% print()
+      data %>% 
+        filter(team == "League Totals") %>% 
+        select(-team) %>% 
+        write_csv(paste0("./rawdata/league/pitching/", fileName))
+
+# チーム守備 -------------------------------------------------------------------
+      table <- html_season %>% 
+        html_node(xpath = '//*[@id="div_league_fielding"]')
+      if(is.na(table)) next
+      data <- table %>% 
+        html_table() %>% 
+        set_names(c(
+          "team", "Aff", "G", "CG", "PO",
+          "A", "E", "DP", "Fld", "PB",
+          "SB", "CS", "CS%" ,"lgCS%", "POsub",
+          "Attendance", "Managers"
+        )) %>% 
+        select(-Aff, -POsub, -Attendance) %>% 
+        mutate(
+          year = Year,
+          league = League, 
+        ) %>% 
+        separate(Managers, into = c("manager", "manager_sub"), sep = "/", fill = "right", extra = "merge") %>%
+        mutate(
+          manager_sub = ifelse(is.na(manager_sub), "---", manager_sub)
+        ) %>% 
+        select(year, league, team, manager, manager_sub, everything()) %>% 
+        mutate_all(~replace(., is.na(.), -99999)) %>% 
+        mutate_all(~replace(., is.infinite(.), -99999))
+      fileName <- paste0(Year, League, "TeamFielding.csv")
+      fileName %>% print()
+      data %>% 
+        filter(team != "League Totals") %>% 
+        write_csv(paste0("./rawdata/league/fielding/", fileName))
+      fileName <- paste0(Year, League, "LeagueFielding.csv")
+      fileName %>% print()
+      data %>% 
+        filter(team == "League Totals") %>% 
+        select(-team, -manager, -manager_sub) %>% 
+        write_csv(paste0("./rawdata/league/fielding/", fileName))
+      
+      # Wait for 
+      Sys.sleep(10) 
+    }
+  }
+}
+
+reading_league()
