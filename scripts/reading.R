@@ -309,7 +309,7 @@ reading_league <- function(){
         write_csv(paste0("./rawdata/league/fielding/", fileName))
       
       # Wait for 
-      Sys.sleep(10) 
+      Sys.sleep(15) 
     }
   }
 }
