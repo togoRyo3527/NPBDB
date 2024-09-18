@@ -1,0 +1,904 @@
+year,league,rank,team,wins,loses,ties,WL,GB
+1950,Central,1,Shochiku Robins,98,35,4,0.737,0
+1950,Central,2,Chunichi Dragons,89,44,4,0.669,9
+1950,Central,3,Yomiuri Giants,82,54,4,0.603,17.5
+1950,Central,4,Osaka Tigers,70,67,3,0.511,30
+1950,Central,5,Taiyo Whales,69,68,3,0.504,31
+1950,Central,6,Nishinippon Pirates,50,83,3,0.376,48
+1950,Central,7,Kokutetsu Swallows,42,94,2,0.309,57.5
+1950,Central,8,Hiroshima Carp,41,96,1,0.299,59
+1950,Pacific,1,Mainichi Orions,81,34,5,0.704,0
+1950,Pacific,2,Nankai Hawks,66,49,5,0.574,15
+1950,Pacific,3,Daiei Stars,62,54,4,0.534,19.5
+1950,Pacific,4,Hankyu Braves,54,64,2,0.458,28.5
+1950,Pacific,5,Nishitetsu Clippers,51,67,2,0.432,31.5
+1950,Pacific,6,Tokyu Flyers,51,69,0,0.425,32.5
+1950,Pacific,7,Kintetsu Pearls,44,72,4,0.379,37.5
+1951,Central,1,Yomiuri Giants,79,29,6,0.731,0
+1951,Central,2,Nagoya Dragons,62,48,3,0.564,18
+1951,Central,3,Osaka Tigers,61,52,3,0.54,20.5
+1951,Central,4,Shochiku Robins,53,57,5,0.482,27
+1951,Central,5,Kokutetsu Swallows,46,59,2,0.438,31.5
+1951,Central,6,Taiyo Whales,40,64,4,0.385,37
+1951,Central,7,Hiroshima Carp,32,64,3,0.333,41
+1951,Pacific,1,Nankai Hawks,72,24,8,0.75,0
+1951,Pacific,2,Nishitetsu Lions,53,42,10,0.558,18.5
+1951,Pacific,3,Mainichi Orions,54,51,5,0.514,22.5
+1951,Pacific,4,Daiei Stars,41,52,8,0.441,29.5
+1951,Pacific,5,Hankyu Braves,37,51,8,0.42,31
+1951,Pacific,6,Tokyu Flyers,38,56,8,0.404,33
+1951,Pacific,7,Kintetsu Pearls,37,56,5,0.398,33.5
+1952,Central,1,Yomiuri Giants,83,37,0,0.692,0
+1952,Central,2,Osaka Tigers,79,40,1,0.664,3.5
+1952,Central,3,Nagoya Dragons,75,43,2,0.636,7
+1952,Central,4,Taiyo Whales,58,62,0,0.483,25
+1952,Central,5,Kokutetsu Swallows,50,70,0,0.417,33
+1952,Central,6,Hiroshima Carp,37,80,3,0.316,44.5
+1952,Central,7,Shochiku Robins,34,84,2,0.288,48
+1952,Pacific,1,Nankai Hawks,76,44,1,0.633,0
+1952,Pacific,2,Mainichi Dragons,75,45,0,0.625,1
+1952,Pacific,3,Nishitetsu Lions,67,52,1,0.563,8.5
+1952,Pacific,4,Daiei Stars,55,65,1,0.458,21
+1952,Pacific,5,Hankyu Braves,49,58,1,0.458,20.5
+1952,Pacific,6,Tokyu Flyers,49,59,1,0.454,21
+1952,Pacific,7,Kintetsu Pearls,30,78,0,0.278,40
+1953,Central,1,Yomiuri Giants,87,37,1,0.702,0
+1953,Central,2,Osaka Tigers,74,56,0,0.569,16
+1953,Central,3,Chunichi Dragons,70,57,3,0.551,18.5
+1953,Central,4,Hiroshima Carp,53,75,2,0.414,36
+1953,Central,5,Taiyo-Shochiku Robins,52,77,1,0.403,37.5
+1953,Central,6,Kokutetsu Swallows,45,79,1,0.363,42
+1953,Pacific,1,Nankai Hawks,71,48,1,0.597,0
+1953,Pacific,2,Hankyu Braves,67,52,1,0.563,4
+1953,Pacific,3,Daiei Stars,63,53,4,0.543,6.5
+1953,Pacific,4,Nishitetsu Lions,57,61,2,0.483,13.5
+1953,Pacific,5,Mainichi Orions,56,62,2,0.475,14.5
+1953,Pacific,6,Tokyu Flyers,50,67,3,0.427,20
+1953,Pacific,7,Kintetsu Pearls,48,69,3,0.41,22
+1954,Central,1,Chunichi Dragons,86,40,4,0.683,0
+1954,Central,2,Yomiuri Giants,82,47,1,0.636,5.5
+1954,Central,3,Osaka Tigers,71,57,2,0.555,16
+1954,Central,4,Hiroshima Carp,56,69,5,0.448,29.5
+1954,Central,5,Kokutetsu Swallows,55,73,2,0.43,32
+1954,Central,6,Taiyo-Shochiku Robins,32,96,2,0.25,55
+1954,Pacific,1,Nishitetsu Lions,90,47,3,0.657,0
+1954,Pacific,2,Nankai Hawks,91,49,0,0.65,0.5
+1954,Pacific,3,Mainichi Orions,79,57,4,0.581,10.5
+1954,Pacific,4,Kintetsu Pearls,74,63,3,0.54,16
+1954,Pacific,5,Hankyu Braves,66,70,5,0.485,23.5
+1954,Pacific,6,Takahashi Unions,53,84,4,0.387,37
+1954,Pacific,7,Toei Flyers,52,86,3,0.377,38.5
+1954,Pacific,8,Daiei Stars,43,92,5,0.319,46
+1955,Central,1,Yomiuri Giants,92,37,1,0.713,0
+1955,Central,2,Chunichi Dragons,77,52,11,0.597,15
+1955,Central,3,Osaka Tigers,71,57,2,0.555,20.5
+1955,Central,4,Hiroshima Carp,58,70,2,0.453,33.5
+1955,Central,5,Kokutetsu Swallows,57,71,2,0.445,34.5
+1955,Central,6,Taiyo Whales,31,99,0,0.238,61.5
+1955,Pacific,1,Nankai Hawks,99,41,3,0.707,0
+1955,Pacific,2,Nishitetsu Lions,90,50,4,0.643,9
+1955,Pacific,3,Mainichi Orions,85,55,2,0.607,14
+1955,Pacific,4,Hankyu Braves,80,60,2,0.571,19
+1955,Pacific,5,Kintetsu Pearls,60,80,2,0.429,39
+1955,Pacific,6,Daiei Stars,53,87,1,0.379,46
+1955,Pacific,7,Toei Flyers,51,89,3,0.364,48
+1955,Pacific,8,Tombo Unions,42,98,11,0.3,57
+1956,Central,1,Yomiuri Giants,82,44,4,0.651,0
+1956,Central,2,Osaka Tigers,79,50,1,0.612,4.5
+1956,Central,3,Chunichi Dragons,74,56,0,0.569,10
+1956,Central,4,Kokutetsu Swallows,61,65,4,0.484,21
+1956,Central,5,Hiroshima Carp,45,82,3,0.354,37.5
+1956,Central,6,Taiyo Whales,43,87,0,0.331,41
+1956,Pacific,1,Nishitetsu Lions,96,51,7,0.653,0
+1956,Pacific,2,Nankai Hawks,96,52,6,0.649,0.5
+1956,Pacific,3,Hankyu Braves,88,64,2,0.579,10.5
+1956,Pacific,4,Mainichi Orions,84,66,4,0.56,13.5
+1956,Pacific,5,Kintetsu Pearls,68,82,4,0.453,29.5
+1956,Pacific,6,Toei Flyers,58,92,4,0.387,39.5
+1956,Pacific,7,Daiei Stars,57,94,3,0.377,41
+1956,Pacific,8,Takahashi Unions,52,98,4,0.347,45.5
+1957,Central,1,Yomiuri Giants,74,53,3,0.583,0
+1957,Central,2,Osaka Tigers,73,54,3,0.575,1
+1957,Central,3,Chunichi Dragons,70,57,3,0.551,4
+1957,Central,4,Kokutetsu Swallows,58,68,4,0.46,15.5
+1957,Central,5,Hiroshima Carp,54,75,1,0.419,21
+1957,Central,6,Taiyo Whales,52,74,4,0.413,21.5
+1957,Pacific,1,Nishitetsu Lions,83,44,5,0.654,0
+1957,Pacific,2,Nankai Hawks,78,53,1,0.595,7
+1957,Pacific,3,Mainichi Orions,75,52,5,0.591,8
+1957,Pacific,4,Hankyu Braves,71,55,6,0.563,11.5
+1957,Pacific,5,Toei Flyers,56,73,3,0.434,28
+1957,Pacific,6,Kintetsu Pearls,44,82,6,0.349,38.5
+1957,Pacific,7,Daiei Unions,41,89,2,0.315,43.5
+1958,Central,1,Yomiuri Giants,77,52,1,0.597,0
+1958,Central,2,Osaka Tigers,72,58,0,0.554,5.5
+1958,Central,3,Chunichi Dragons,66,59,5,0.528,9
+1958,Central,4,Kokutetsu Swallows,58,68,4,0.46,17.5
+1958,Central,5,Hiroshima Carp,54,68,8,0.443,19.5
+1958,Central,6,Taiyo Whales,51,73,6,0.411,23.5
+1958,Pacific,1,Nishitetsu Lions,78,47,5,0.624,0
+1958,Pacific,2,Nankai Hawks,77,48,5,0.616,1
+1958,Pacific,3,Hankyu Braves,73,51,6,0.589,4.5
+1958,Pacific,4,Daimai Orions,62,63,5,0.496,16
+1958,Pacific,5,Toei Flyers,57,70,3,0.449,22
+1958,Pacific,6,Kintetsu Pearls,29,97,4,0.23,49.5
+1959,Central,1,Yomiuri Giants,77,48,5,0.616,0
+1959,Central,2,Osaka Tigers,62,59,9,0.512,13
+1959,Central,3,Chunichi Dragons,64,61,5,0.512,13
+1959,Central,4,Kokutetsu Swallows,63,65,2,0.492,15.5
+1959,Central,5,Hiroshima Carp,59,64,7,0.48,17
+1959,Central,6,Taiyo Whales,49,77,4,0.389,28.5
+1959,Pacific,1,Nankai Hawks,88,42,4,0.677,0
+1959,Pacific,2,Daimai Orions,82,48,6,0.631,6
+1959,Pacific,3,Toei Flyers,67,63,5,0.515,21
+1959,Pacific,4,Nishitetsu Lions,66,64,14,0.508,22
+1959,Pacific,5,Hankyu Braves,48,82,4,0.369,40
+1959,Pacific,6,Osaka Kintetsu Buffaloes,39,91,3,0.3,49
+1960,Central,1,Taiyo Whales,70,56,4,0.556,0
+1960,Central,2,Yomiuri Giants,66,61,3,0.52,4.5
+1960,Central,3,Osaka Tigers,64,62,4,0.508,6
+1960,Central,4,Hiroshima Carp,62,61,7,0.504,6.5
+1960,Central,5,Chunichi Dragons,63,67,0,0.485,9
+1960,Central,6,Kokutetsu Swallows,54,72,4,0.429,16
+1960,Pacific,1,Daimai Orions,82,48,3,0.631,0
+1960,Pacific,2,Nankai Hawks,78,52,6,0.6,4
+1960,Pacific,3,Nishitetsu Lions,70,60,6,0.538,12
+1960,Pacific,4,Hankyu Braves,65,65,6,0.5,17
+1960,Pacific,5,Toei Flyers,52,78,2,0.4,30
+1960,Pacific,6,Osaka Kintetsu Buffaloes,43,87,1,0.331,39
+1961,Central,1,Yomiuri Giants,71,53,6,0.573,0
+1961,Central,2,Chunichi Dragons,72,56,2,0.563,1
+1961,Central,3,Kokutetsu Swallows,67,60,3,0.528,5.5
+1961,Central,4,Hanshin Tigers,60,67,3,0.472,12.5
+1961,Central,5,Hiroshima Carp,58,67,5,0.464,13.5
+1961,Central,6,Taiyo Whales,50,75,5,0.4,21.5
+1961,Pacific,1,Nankai Hawks,85,49,6,0.634,0
+1961,Pacific,2,Toei Flyers,83,52,5,0.615,2.5
+1961,Pacific,3,Nishitetsu Lions,81,56,3,0.591,5.5
+1961,Pacific,4,Daimai Orions,72,66,2,0.522,15
+1961,Pacific,5,Hankyu Braves,53,84,3,0.387,33.5
+1961,Pacific,6,Osaka Kintetsu Buffaloes,36,103,1,0.259,51.5
+1962,Central,1,Hanshin Tigers,75,55,3,0.577,0
+1962,Central,2,Taiyo Whales,71,59,4,0.546,4
+1962,Central,3,Chunichi Dragons,70,60,3,0.538,5
+1962,Central,4,Yomiuri Giants,67,63,4,0.515,8
+1962,Central,5,Hiroshima Carp,56,74,4,0.431,19
+1962,Central,6,Kokutetsu Swallows,51,79,4,0.392,24
+1962,Pacific,1,Toei Flyers,78,52,3,0.6,0
+1962,Pacific,2,Nankai Hawks,73,57,3,0.562,5
+1962,Pacific,3,Nishitetsu Lions,62,68,6,0.477,16
+1962,Pacific,4,Daimai Orions,60,70,2,0.462,18
+1962,Pacific,5,Hankyu Braves,60,70,1,0.462,18
+1962,Pacific,6,Osaka Kintetsu Buffaloes,57,73,1,0.438,21
+1963,Central,1,Yomiuri Giants,83,55,2,0.601,0
+1963,Central,2,Chunichi Dragons,80,57,3,0.584,2.5
+1963,Central,3,Hanshin Tigers,69,70,1,0.496,14.5
+1963,Central,4,Kokutetsu Swallows,65,73,2,0.471,18
+1963,Central,5,Taiyo Whales,59,79,2,0.428,24
+1963,Central,6,Hiroshima Carp,58,80,2,0.42,25
+1963,Pacific,1,Nishitetsu Lions,86,60,4,0.589,0
+1963,Pacific,2,Nankai Hawks,85,61,4,0.582,1
+1963,Pacific,3,Toei Flyers,76,71,3,0.517,10.5
+1963,Pacific,4,Osaka Kintetsu Buffaloes,74,73,3,0.503,12.5
+1963,Pacific,5,Daimai Orions,64,85,1,0.43,23.5
+1963,Pacific,6,Hankyu Braves,57,92,1,0.383,30.5
+1964,Central,1,Hanshin Tigers,80,56,4,0.588,0
+1964,Central,2,Taiyo Whales,80,58,2,0.58,1
+1964,Central,3,Yomiuri Giants,71,69,0,0.507,11
+1964,Central,4,Hiroshima Carp,64,73,3,0.467,16.5
+1964,Central,5,Kokutetsu Swallows,61,74,5,0.452,18.5
+1964,Central,6,Chunichi Dragons,57,83,0,0.407,25
+1964,Pacific,1,Nankai Hawks,84,63,3,0.571,0
+1964,Pacific,2,Hankyu Braves,79,65,6,0.549,3.5
+1964,Pacific,3,Toei Flyers,78,68,4,0.534,5.5
+1964,Pacific,4,Tokyo Orions,77,68,5,0.531,6
+1964,Pacific,5,Nishitetsu Lions,63,81,6,0.438,19.5
+1964,Pacific,6,Osaka Kintetsu Buffaloes,55,91,4,0.377,28.5
+1965,Central,1,Yomiuri Giants,91,47,2,0.659,0
+1965,Central,2,Chunichi Dragons,77,59,4,0.566,13
+1965,Central,3,Hanshin Tigers,71,66,3,0.518,19.5
+1965,Central,4,Taiyo Whales,68,70,2,0.493,23
+1965,Central,5,Hiroshima Carp,59,77,4,0.434,31
+1965,Central,6,Sankei Swallows,44,91,5,0.326,45.5
+1965,Pacific,1,Nankai Hawks,88,49,3,0.642,0
+1965,Pacific,2,Toei Flyers,76,61,3,0.555,12
+1965,Pacific,3,Nishitetsu Lions,72,64,4,0.529,15.5
+1965,Pacific,4,Hankyu Braves,67,71,2,0.486,21.5
+1965,Pacific,5,Tokyo Orions,62,74,4,0.456,25.5
+1965,Pacific,6,Osaka Kintetsu Buffaloes,46,92,2,0.333,42.5
+1966,Central,1,Yomiuri Giants,89,41,4,0.685,0
+1966,Central,2,Chunichi Dragons,76,54,2,0.585,13
+1966,Central,3,Hanshin Tigers,64,66,5,0.492,25
+1966,Central,4,Hiroshima Carp,57,73,6,0.438,32
+1966,Central,5,Sankei Atoms,52,78,5,0.4,37
+1966,Central,6,Taiyo Whales,52,78,0,0.4,37
+1966,Pacific,1,Nankai Hawks,79,51,3,0.608,0
+1966,Pacific,2,Nishitetsu Lions,75,55,8,0.577,4
+1966,Pacific,3,Toei Flyers,70,60,6,0.538,9
+1966,Pacific,4,Tokyo Orions,61,69,4,0.469,18
+1966,Pacific,5,Hankyu Braves,57,73,4,0.438,22
+1966,Pacific,6,Osaka Kintetsu Buffaloes,48,82,3,0.369,31
+1967,Central,1,Yomiuri Giants,84,46,4,0.646,0
+1967,Central,2,Chunichi Dragons,72,58,4,0.554,12
+1967,Central,3,Hanshin Tigers,70,60,6,0.538,14
+1967,Central,4,Taiyo Whales,59,71,5,0.454,25
+1967,Central,5,Sankei Atoms,58,72,5,0.446,26
+1967,Central,6,Hiroshima Carp,47,83,8,0.362,37
+1967,Pacific,1,Hankyu Braves,76,55,4,0.58,0
+1967,Pacific,2,Nishitetsu Lions,66,64,10,0.508,9.5
+1967,Pacific,3,Toei Flyers,65,65,4,0.5,10.5
+1967,Pacific,4,Nankai Hawks,64,66,3,0.492,11.5
+1967,Pacific,5,Tokyo Orions,61,69,7,0.469,14.5
+1967,Pacific,6,Osaka Kintetsu Buffaloes,59,71,2,0.454,16.5
+1968,Central,1,Yomiuri Giants,77,53,4,0.592,0
+1968,Central,2,Hanshin Tigers,72,58,3,0.554,5
+1968,Central,3,Hiroshima Toyo Carp,68,62,4,0.523,9
+1968,Central,4,Sankei Atoms,64,66,4,0.492,13
+1968,Central,5,Taiyo Whales,59,71,3,0.454,18
+1968,Central,6,Chunichi Dragons,50,80,4,0.385,27
+1968,Pacific,1,Hankyu Braves,80,50,4,0.615,0
+1968,Pacific,2,Nankai Hawks,79,51,6,0.608,1
+1968,Pacific,3,Tokyo Orions,67,63,9,0.515,13
+1968,Pacific,4,Osaka Kintetsu Buffaloes,57,73,5,0.438,23
+1968,Pacific,5,Nishitetsu Lions,56,74,3,0.431,24
+1968,Pacific,6,Toei Flyers,51,79,5,0.392,29
+1969,Central,1,Yomiuri Giants,73,51,6,0.589,0
+1969,Central,2,Hanshin Tigers,68,59,3,0.535,6.5
+1969,Central,3,Taiyo Whales,61,61,8,0.5,11
+1969,Central,4,Chunichi Dragons,59,65,6,0.476,14
+1969,Central,5,Sankei Atoms,58,69,3,0.457,16.5
+1969,Central,6,Hiroshima Toyo Carp,56,70,4,0.444,18
+1969,Pacific,1,Hankyu Braves,76,50,4,0.603,0
+1969,Pacific,2,Osaka Kintetsu Buffaloes,73,51,6,0.589,2
+1969,Pacific,3,Lotte Orions,69,54,7,0.561,5.5
+1969,Pacific,4,Toei Flyers,57,70,3,0.449,19.5
+1969,Pacific,5,Nishitetsu Lions,51,75,5,0.405,25
+1969,Pacific,6,Nankai Hawks,50,76,4,0.397,26
+1970,Central,1,Yomiuri Giants,79,47,4,0.627,0
+1970,Central,2,Hanshin Tigers,77,49,4,0.611,2
+1970,Central,3,Taiyo Whales,69,57,4,0.548,10
+1970,Central,4,Hiroshima Toyo Carp,62,60,8,0.508,15
+1970,Central,5,Chunichi Dragons,55,70,5,0.44,23.5
+1970,Central,6,Yakult Atoms,33,92,5,0.264,45.5
+1970,Pacific,1,Lotte Orions,80,47,3,0.63,0
+1970,Pacific,2,Nankai Hawks,69,57,4,0.548,10.5
+1970,Pacific,3,Osaka Kintetsu Buffaloes,65,59,6,0.524,13.5
+1970,Pacific,4,Hankyu Braves,64,64,2,0.5,16.5
+1970,Pacific,5,Toei Flyers,54,70,6,0.435,24.5
+1970,Pacific,6,Nishitetsu Lions,43,78,9,0.355,34
+1971,Central,1,Yomiuri Giants,70,52,8,0.574,0
+1971,Central,2,Chunichi Dragons,65,60,5,0.52,6.5
+1971,Central,3,Taiyo Whales,61,59,10,0.508,8
+1971,Central,4,Hiroshima Toyo Carp,63,61,6,0.508,8
+1971,Central,5,Hanshin Tigers,57,64,9,0.471,12.5
+1971,Central,6,Yakult Atoms,52,72,6,0.419,19
+1971,Pacific,1,Hankyu Braves,80,39,11,0.672,0
+1971,Pacific,2,Lotte Orions,80,46,4,0.635,3.5
+1971,Pacific,3,Osaka Kintetsu Buffaloes,65,60,5,0.52,18
+1971,Pacific,4,Nankai Hawks,61,65,4,0.484,22.5
+1971,Pacific,5,Toei Flyers,44,74,12,0.373,35.5
+1971,Pacific,6,Nishitetsu Lions,38,84,8,0.311,43.5
+1972,Central,1,Yomiuri Giants,74,52,4,0.587,0
+1972,Central,2,Hanshin Tigers,71,56,3,0.559,3.5
+1972,Central,3,Chunichi Dragons,67,59,4,0.532,7
+1972,Central,4,Yakult Atoms,60,67,3,0.472,14.5
+1972,Central,5,Taiyo Whales,57,69,4,0.452,17
+1972,Central,6,Hiroshima Toyo Carp,49,75,6,0.395,24
+1972,Pacific,1,Hankyu Braves,80,48,2,0.625,0
+1972,Pacific,2,Osaka Kintetsu Buffaloes,64,60,6,0.516,14
+1972,Pacific,3,Nankai Hawks,65,61,4,0.516,14
+1972,Pacific,4,Toei Flyers,63,61,6,0.508,15
+1972,Pacific,5,Lotte Orions,47,80,3,0.37,32.5
+1972,Pacific,6,Nishitetsu Lions,47,80,3,0.37,32.5
+1973,Central,1,Yomiuri Giants,66,60,4,0.524,0
+1973,Central,2,Hanshin Tigers,64,59,7,0.52,0.5
+1973,Central,3,Chunichi Dragons,64,61,5,0.512,1.5
+1973,Central,4,Yakult Atoms,62,65,3,0.488,4.5
+1973,Central,5,Taiyo Whales,60,64,6,0.484,5
+1973,Central,6,Hiroshima Toyo Carp,60,67,3,0.472,6.5
+1973,Pacific,1,Hankyu Braves,77,48,5,0.616,0
+1973,Pacific,2,Nankai Hawks,68,58,4,0.54,9.5
+1973,Pacific,3,Lotte Orions,70,49,11,0.588,4
+1973,Pacific,4,Taiheiyo Club Lions,59,64,7,0.48,17
+1973,Pacific,5,Nitaku Home Flyers,55,69,6,0.444,21.5
+1973,Pacific,6,Osaka Kintetsu Buffaloes,42,83,5,0.336,35
+1974,Central,1,Chunichi Dragons,70,49,11,0.588,0
+1974,Central,2,Yomiuri Giants,71,50,9,0.587,0
+1974,Central,3,Yakult Swallows,60,63,7,0.488,12
+1974,Central,4,Hanshin Tigers,57,64,9,0.471,14
+1974,Central,5,Taiyo Whales,55,69,6,0.444,17.5
+1974,Central,6,Hiroshima Toyo Carp,52,72,4,0.419,20.5
+1974,Pacific,1,Lotte Orions,69,50,11,0.58,0
+1974,Pacific,2,Hankyu Braves,69,51,10,0.575,0.5
+1974,Pacific,3,Nankai Hawks,59,55,16,0.518,7.5
+1974,Pacific,4,Taiheiyo Club Lions,59,64,7,0.48,12
+1974,Pacific,5,Osaka Kintetsu Buffaloes,56,66,8,0.459,14.5
+1974,Pacific,6,Nippon Ham Flyers,49,75,6,0.395,22.5
+1975,Central,1,Hiroshima Toyo Carp,72,47,11,0.605,0
+1975,Central,2,Chunichi Dragons,69,53,8,0.566,4.5
+1975,Central,3,Hanshin Tigers,68,55,7,0.553,6
+1975,Central,4,Yakult Swallows,57,64,9,0.471,16
+1975,Central,5,Taiyo Whales,51,69,10,0.425,21.5
+1975,Central,6,Yomiuri Giants,47,76,7,0.382,27
+1975,Pacific,1,Osaka Kintetsu Buffaloes,71,50,9,0.587,0
+1975,Pacific,2,Hankyu Braves,64,59,7,0.52,8
+1975,Pacific,3,Taiheiyo Club Lions,58,62,10,0.483,12.5
+1975,Pacific,4,Lotte Orions,59,65,6,0.476,13.5
+1975,Pacific,5,Nankai Hawks,57,65,8,0.467,14.5
+1975,Pacific,6,Nippon Ham Fighters,55,63,12,0.466,14.5
+1976,Central,1,Yomiuri Giants,76,45,9,0.628,0
+1976,Central,2,Hanshin Tigers,72,45,13,0.615,2
+1976,Central,3,Hiroshima Toyo Carp,61,58,11,0.513,14
+1976,Central,4,Chunichi Dragons,54,66,10,0.45,21.5
+1976,Central,5,Yakult Swallows,52,68,10,0.433,23.5
+1976,Central,6,Taiyo Whales,45,78,7,0.366,32
+1976,Pacific,1,Hankyu Braves,79,45,6,0.637,0
+1976,Pacific,2,Nankai Hawks,71,56,3,0.559,9.5
+1976,Pacific,3,Lotte Orions,63,56,11,0.529,13.5
+1976,Pacific,4,Osaka Kintetsu Buffaloes,57,66,7,0.463,21.5
+1976,Pacific,5,Nippon Ham Fighters,52,67,11,0.437,24.5
+1976,Pacific,6,Taiheiyo Club Lions,44,76,10,0.367,33
+1977,Central,1,Yomiuri Giants,80,46,4,0.635,0
+1977,Central,2,Yakult Swallows,62,58,10,0.517,15
+1977,Central,3,Chunichi Dragons,64,61,5,0.512,15.5
+1977,Central,4,Hanshin Tigers,55,63,12,0.466,21
+1977,Central,5,Hiroshima Toyo Carp,51,67,12,0.432,25
+1977,Central,6,Taiyo Whales,51,68,11,0.429,25.5
+1977,Pacific,1,Hankyu Buffaloes,69,51,10,0.575,0
+1977,Pacific,2,Nankai Hawks,63,55,12,0.534,5
+1977,Pacific,3,Lotte Orions,60,57,13,0.513,7.5
+1977,Pacific,4,Osaka Kintetsu Buffaloes,59,61,10,0.492,10
+1977,Pacific,5,Nippon Ham Fighters,58,61,11,0.487,10.5
+1977,Pacific,6,Crown Lighter Lions,49,73,8,0.402,21
+1978,Central,1,Yakult Swallows,68,46,16,0.596,0
+1978,Central,2,Yomiuri Giants,65,49,16,0.57,3
+1978,Central,3,Hiroshima Toyo Carp,62,50,18,0.554,5
+1978,Central,4,Yokohama Taiyo Whales,64,57,9,0.529,7.5
+1978,Central,5,Chunichi Dragons,53,71,6,0.427,20
+1978,Central,6,Hanshin Tigers,41,80,9,0.339,30.5
+1978,Pacific,1,Hankyu Braves,82,39,9,0.678,0
+1978,Pacific,2,Osaka Kintetsu Buffaloes,71,46,13,0.607,9
+1978,Pacific,3,Nippon Ham Fighters,55,63,12,0.466,25.5
+1978,Pacific,4,Lotte Orions,53,62,15,0.461,26
+1978,Pacific,5,Crown Lighter Lions,51,67,12,0.432,29.5
+1978,Pacific,6,Nankai Hawks,42,77,11,0.353,39
+1979,Central,1,Hiroshima Toyo Carp,67,50,13,0.573,0
+1979,Central,2,Yokohama Taiyo Whales,59,54,17,0.522,6
+1979,Central,3,Chunichi Dragons,59,57,14,0.509,7.5
+1979,Central,4,Hanshin Tigers,61,60,9,0.504,8
+1979,Central,5,Yomiuri Giants,58,62,10,0.483,10.5
+1979,Central,6,Yakult Swallows,48,69,13,0.41,19
+1979,Pacific,1,Hankyu Braves,75,44,11,0.63,0
+1979,Pacific,2,Osaka Kintetsu Buffaloes,74,45,11,0.622,1
+1979,Pacific,3,Nippon Ham Fighters,63,60,7,0.512,14
+1979,Pacific,4,Lotte Orions,55,63,12,0.466,19.5
+1979,Pacific,5,Nankai Hawks,46,73,11,0.387,29
+1979,Pacific,6,Seibu Lions,45,73,12,0.381,29.5
+1980,Central,1,Hiroshima Toyo Carp,73,44,13,0.624,0
+1980,Central,2,Yakult Swallows,68,52,10,0.567,6.5
+1980,Central,3,Yomiuri Giants,61,60,9,0.504,14
+1980,Central,4,Yokohama Taiyo Whales,59,62,9,0.488,16
+1980,Central,5,Hanshin Tigers,54,66,10,0.45,20.5
+1980,Central,6,Chunichi Dragons,45,76,9,0.372,30
+1980,Pacific,1,Osaka Kintetsu Buffaloes,68,54,8,0.557,0
+1980,Pacific,2,Lotte Orions,64,51,15,0.557,0.5
+1980,Pacific,3,Nippon Ham Fighters,66,53,11,0.555,0.5
+1980,Pacific,4,Seibu Lions,62,64,4,0.492,8
+1980,Pacific,5,Hankyu Braves,58,67,5,0.464,11.5
+1980,Pacific,6,Nankai Hawks,48,77,5,0.384,21.5
+1981,Central,1,Yomiuri Giants,73,48,9,0.603,0
+1981,Central,2,Hiroshima Toyo Carp,67,54,9,0.554,6
+1981,Central,3,Hanshin Tigers,67,58,5,0.536,8
+1981,Central,4,Yakult Swallows,56,58,16,0.491,13.5
+1981,Central,5,Chunichi Dragons,58,65,7,0.472,16
+1981,Central,6,Yokohama Taiyo Whales,42,80,8,0.344,31.5
+1981,Pacific,1,Nippon Ham Fighters,68,54,8,0.557,0
+1981,Pacific,2,Hankyu Braves,68,58,4,0.54,2
+1981,Pacific,3,Lotte Orions,63,57,10,0.525,4
+1981,Pacific,4,Seibu Lions,61,61,8,0.5,7
+1981,Pacific,5,Nankai Hawks,53,65,12,0.449,13
+1981,Pacific,6,Osaka Kintetsu Buffaloes,54,72,4,0.429,16
+1982,Central,1,Chunichi Dragons,64,47,19,0.577,0
+1982,Central,2,Yomiuri Giants,66,50,14,0.569,0.5
+1982,Central,3,Hanshin Tigers,65,57,8,0.533,4.5
+1982,Central,4,Hiroshima Toyo Carp,59,58,13,0.504,8
+1982,Central,5,Yokohama Taiyo Whales,53,65,12,0.449,14.5
+1982,Central,6,Yakult Swallows,45,75,10,0.375,23.5
+1982,Pacific,1,Nippon Ham Fighters,67,52,11,0.563,0
+1982,Pacific,2,Seibu Lions,68,58,4,0.54,2.5
+1982,Pacific,3,Osaka Kintetsu Buffaloes,63,57,10,0.525,4.5
+1982,Pacific,4,Hankyu Braves,62,60,8,0.508,6.5
+1982,Pacific,5,Lotte Orions,54,69,7,0.439,15
+1982,Pacific,6,Nankai Hawks,53,71,6,0.427,16.5
+1983,Central,1,Yomiuri Giants,72,50,8,0.59,0
+1983,Central,2,Hiroshima Toyo Carp,65,55,10,0.542,6
+1983,Central,3,Yokohama Taiyo Whales,61,61,8,0.5,11
+1983,Central,4,Hanshin Tigers,62,63,5,0.496,11.5
+1983,Central,5,Chunichi Dragons,54,69,7,0.439,18.5
+1983,Central,6,Yakult Swallows,53,69,8,0.434,19
+1983,Pacific,1,Seibu Lions,86,40,4,0.683,0
+1983,Pacific,2,Hankyu Braves,67,55,8,0.549,17
+1983,Pacific,3,Nippon Ham Fighters,64,59,7,0.52,20.5
+1983,Pacific,4,Osaka Kintetsu Buffaloes,52,65,13,0.444,29.5
+1983,Pacific,5,Nankai Hawks,52,69,9,0.43,31.5
+1983,Pacific,6,Lotte Orions,43,76,11,0.361,39.5
+1984,Central,1,Hiroshima Toyo Carp,75,45,10,0.625,0
+1984,Central,2,Chunichi Dragons,73,49,8,0.598,3
+1984,Central,3,Yomiuri Giants,67,54,9,0.554,8.5
+1984,Central,4,Hanshin Tigers,53,69,8,0.434,23
+1984,Central,5,Yakult Swallows,51,71,8,0.418,25
+1984,Central,6,Yokohama Taiyo Whales,46,77,7,0.374,30.5
+1984,Pacific,1,Hankyu Braves,75,45,10,0.625,0
+1984,Pacific,2,Lotte Orions,64,51,15,0.557,8.5
+1984,Pacific,3,Seibu Lions,62,61,7,0.504,14.5
+1984,Pacific,4,Osaka Kintetsu Buffaloes,58,61,11,0.487,16.5
+1984,Pacific,5,Nankai Hawks,53,65,12,0.449,21
+1984,Pacific,6,Nippon Ham Fighters,44,73,13,0.376,29.5
+1985,Central,1,Hanshin Tigers,74,49,7,0.602,0
+1985,Central,2,Hiroshima Toyo Carp,68,57,5,0.544,7
+1985,Central,3,Yomiuri Giants,61,60,9,0.504,12
+1985,Central,4,Yokohama Taiyo Whales,57,61,12,0.483,14.5
+1985,Central,5,Chunichi Dragons,56,61,13,0.479,15
+1985,Central,6,Yakult Swallows,46,74,10,0.383,26.5
+1985,Pacific,1,Seibu Lions,79,45,6,0.637,0
+1985,Pacific,2,Lotte Orions,64,60,6,0.516,15
+1985,Pacific,3,Osaka Kintetsu Buffaloes,63,60,7,0.512,15.5
+1985,Pacific,4,Hankyu Braves,64,61,5,0.512,15.5
+1985,Pacific,5,Nippon Ham Fighters,53,65,12,0.449,23
+1985,Pacific,6,Nankai Hawks,44,76,10,0.367,33
+1986,Central,1,Hiroshima Toyo Carp,73,46,11,0.613,0
+1986,Central,2,Yomiuri Giants,75,48,7,0.61,0
+1986,Central,3,Hanshin Tigers,60,60,10,0.5,13.5
+1986,Central,4,Yokohama Taiyo Whales,56,69,5,0.448,20
+1986,Central,5,Chunichi Dragons,54,67,9,0.446,20
+1986,Central,6,Yakult Swallows,49,77,4,0.389,27.5
+1986,Pacific,1,Seibu Lions,68,49,13,0.581,0
+1986,Pacific,2,Osaka Kintetsu Buffaloes,66,52,12,0.559,2.5
+1986,Pacific,3,Hankyu Braves,63,57,10,0.525,6.5
+1986,Pacific,4,Lotte Orions,57,64,9,0.471,13
+1986,Pacific,5,Nippon Ham Fighters,57,65,8,0.467,13.5
+1986,Pacific,6,Nankai Hawks,49,73,8,0.402,21.5
+1987,Central,1,Yomiuri Giants,76,43,11,0.639,0
+1987,Central,2,Chunichi Dragons,68,51,11,0.571,8
+1987,Central,3,Hiroshima Toyo Carp,65,55,10,0.542,11.5
+1987,Central,4,Yakult Swallows,58,64,8,0.475,19.5
+1987,Central,5,Yokohama Taiyo Whales,56,68,6,0.452,22.5
+1987,Central,6,Hanshin Tigers,41,83,6,0.331,37.5
+1987,Pacific,1,Seibu Lions,71,45,14,0.612,0
+1987,Pacific,2,Hankyu Braves,64,56,10,0.533,9
+1987,Pacific,3,Nippon Ham Fighters,63,60,7,0.512,11.5
+1987,Pacific,4,Nankai Hawks,57,63,10,0.475,16
+1987,Pacific,5,Lotte Orions,51,65,14,0.44,20
+1987,Pacific,6,Osaka Kintetsu Buffaloes,52,69,9,0.43,21.5
+1988,Central,1,Chunichi Dragons,79,46,5,0.632,0
+1988,Central,2,Yomiuri Giants,68,59,3,0.535,12
+1988,Central,3,Hiroshima Toyo Carp,65,62,3,0.512,15
+1988,Central,4,Yokohama Taiyo Whales,59,67,4,0.468,20.5
+1988,Central,5,Yakult Swallows,58,69,3,0.457,22
+1988,Central,6,Hanshin Tigers,51,77,2,0.398,29.5
+1988,Pacific,1,Seibu Lions,73,51,6,0.589,0
+1988,Pacific,2,Osaka Kintetsu Buffaloes,74,52,4,0.587,0
+1988,Pacific,3,Nippon Ham Fighters,62,65,3,0.488,12.5
+1988,Pacific,4,Hankyu Braves,60,68,2,0.469,15
+1988,Pacific,5,Nankai Hawks,58,71,1,0.45,17.5
+1988,Pacific,6,Lotte Orions,54,74,2,0.422,21
+1989,Central,1,Yomiuri Giants,84,44,2,0.656,0
+1989,Central,2,Hiroshima Toyo Carp,73,51,6,0.589,9
+1989,Central,3,Chunichi Dragons,68,59,3,0.535,15.5
+1989,Central,4,Yakult Swallows,55,72,3,0.433,28.5
+1989,Central,5,Hanshin Tigers,54,75,1,0.419,30.5
+1989,Central,6,Yokohama Taiyo Whales,47,80,3,0.37,36.5
+1989,Pacific,1,Osaka Kintetsu Buffaloes,71,54,5,0.568,0
+1989,Pacific,2,Orix Braves,72,55,3,0.567,0
+1989,Pacific,3,Seibu Lions,69,53,8,0.566,0.5
+1989,Pacific,4,Fukuoka Daiei Hawks,59,64,7,0.48,11
+1989,Pacific,5,Nippon Ham Fighters,54,73,3,0.425,18
+1989,Pacific,6,Lotte Orions,48,74,8,0.393,21.5
+1990,Central,1,Yomiuri Giants,88,42,0,0.677,0
+1990,Central,2,Hiroshima Toyo Carp,66,64,2,0.508,22
+1990,Central,3,Yokohama Taiyo Whales,64,66,3,0.492,24
+1990,Central,4,Chunichi Dragons,62,68,1,0.477,26
+1990,Central,5,Yakult Swallows,58,72,0,0.446,30
+1990,Central,6,Hanshin Tigers,52,78,3,0.4,36
+1990,Pacific,1,Seibu Lions,81,45,4,0.643,0
+1990,Pacific,2,Orix Braves,69,57,4,0.548,12
+1990,Pacific,3,Osaka Kintetsu Buffaloes,67,60,3,0.528,14.5
+1990,Pacific,4,Nippon Ham Fighters,66,63,1,0.512,16.5
+1990,Pacific,5,Lotte Orions,57,71,2,0.445,25
+1990,Pacific,6,Fukuoka Daiei Hawks,41,85,4,0.325,40
+1991,Central,1,Hiroshima Toyo Carp,74,56,2,0.569,0
+1991,Central,2,Chunichi Dragons,71,59,1,0.546,3
+1991,Central,3,Yakult Swallows,67,63,2,0.515,7
+1991,Central,4,Yomiuri Giants,66,64,0,0.508,8
+1991,Central,5,Yokohama Taiyo Whales,64,66,1,0.492,10
+1991,Central,6,Hanshin Tigers,48,82,0,0.369,26
+1991,Pacific,1,Seibu Lions,81,43,6,0.653,0
+1991,Pacific,2,Osaka Kintetsu Buffaloes,77,48,5,0.616,4.5
+1991,Pacific,3,Orix Blue Wave,64,63,3,0.504,18.5
+1991,Pacific,4,Nippon Ham Fighters,53,72,5,0.424,28.5
+1991,Pacific,5,Fukuoka Daiei Hawks,53,73,4,0.421,29
+1991,Pacific,6,Lotte Orions,48,77,5,0.384,33.5
+1992,Central,1,Yakult Swallows,69,61,1,0.531,0
+1992,Central,2,Hanshin Tigers,67,63,2,0.515,2
+1992,Central,3,Yomiuri Giants,67,63,0,0.515,2
+1992,Central,4,Hiroshima Toyo Carp,66,64,0,0.508,3
+1992,Central,5,Yokohama Taiyo Whales,61,69,1,0.469,8
+1992,Central,6,Chunichi Dragons,60,70,0,0.462,9
+1992,Pacific,1,Seibu Lions,80,47,3,0.63,0
+1992,Pacific,2,Osaka Kintetsu Buffaloes,74,50,6,0.597,4.5
+1992,Pacific,3,Orix Blue Wave,61,64,5,0.488,18
+1992,Pacific,4,Fukuoka Daiei Hawks,57,72,1,0.442,24
+1992,Pacific,5,Nippon Ham Fighters,54,73,3,0.425,26
+1992,Pacific,6,Chiba Lotte Marines,54,74,3,0.422,26.5
+1993,Central,1,Yakult Swallows,80,59,2,0.576,0
+1993,Central,2,Chunichi Dragons,73,57,2,0.562,2.5
+1993,Central,3,Yomiuri Giants,64,66,1,0.492,11.5
+1993,Central,4,Hanshin Tigers,63,67,2,0.485,12.5
+1993,Central,5,Yokohama Bay Stars,57,73,0,0.438,18.5
+1993,Central,6,Hiroshima Toyo Carp,53,77,1,0.408,22.5
+1993,Pacific,1,Seibu Lions,74,53,3,0.583,0
+1993,Pacific,2,Nippon Ham Fighters,71,52,7,0.577,1
+1993,Pacific,3,Orix Blue Wave,70,56,4,0.556,3.5
+1993,Pacific,4,Osaka Kintetsu Buffaloes,66,59,5,0.528,7
+1993,Pacific,5,Chiba Lotte Marines,51,77,2,0.398,23.5
+1993,Pacific,6,Fukuoka Daiei Hawks,45,80,5,0.36,28
+1994,Central,1,Yomiuri Giants,70,60,0,0.538,0
+1994,Central,2,Chunichi Dragons,69,61,0,0.531,1
+1994,Central,3,Hiroshima Toyo Carp,66,64,0,0.508,4
+1994,Central,4,Hanshin Tigers,62,68,0,0.477,8
+1994,Central,5,Yakult Swallows,62,68,0,0.477,8
+1994,Central,6,Yokohama Bay Stars,61,69,0,0.469,9
+1994,Pacific,1,Seibu Lions,76,52,2,0.594,0
+1994,Pacific,2,Orix Blue Wave,68,59,3,0.535,7.5
+1994,Pacific,3,Osaka Kintetsu Buffaloes,68,59,3,0.535,7.5
+1994,Pacific,4,Fukuoka Daiei Hawks,69,60,1,0.535,7.5
+1994,Pacific,5,Chiba Lotte Marines,55,73,2,0.43,21
+1994,Pacific,6,Nippon Ham Fighters,46,79,5,0.368,28.5
+1995,Central,1,Yakult Swallows,82,48,0,0.631,0
+1995,Central,2,Hiroshima Toyo Carp,74,56,1,0.569,8
+1995,Central,3,Yomiuri Giants,72,57,1,0.558,9.5
+1995,Central,4,Yokohama Bay Stars,66,64,0,0.508,16
+1995,Central,5,Chunichi Dragons,50,80,0,0.385,32
+1995,Central,6,Hanshin Tigers,46,84,0,0.354,36
+1995,Pacific,1,Orix Blue Wave,82,47,1,0.636,0
+1995,Pacific,2,Chiba Lotte Marines,69,58,3,0.543,12
+1995,Pacific,3,Seibu Lions,67,57,6,0.54,12.5
+1995,Pacific,4,Nippon Ham Fighters,59,68,3,0.465,22
+1995,Pacific,5,Fukuoka Daiei Hawks,54,72,4,0.429,26.5
+1995,Pacific,6,Osaka Kintetsu Buffaloes,49,78,3,0.386,32
+1996,Central,1,Yomiuri Giants,77,53,0,0.592,0
+1996,Central,2,Chunichi Dragons,72,58,0,0.554,5
+1996,Central,3,Hiroshima Carp,71,59,0,0.546,6
+1996,Central,4,Yakult Swallows,61,69,0,0.469,16
+1996,Central,5,Yokohama Bay Stars,55,75,0,0.423,22
+1996,Central,6,Hanshin Tigers,54,76,0,0.415,23
+1996,Pacific,1,Orix Blue Wave,74,50,6,0.597,0
+1996,Pacific,2,Nippon Ham Fighters,68,58,4,0.54,7
+1996,Pacific,3,Seibu Lions,62,64,4,0.492,13
+1996,Pacific,4,Osaka Kintetsu Buffaloes,62,67,1,0.481,14.5
+1996,Pacific,5,Chiba Lotte Marines,60,67,3,0.472,15.5
+1996,Pacific,6,Fukuoka Daiei Hawks,54,74,2,0.422,22
+1997,Central,1,Yakult Swallows,83,52,2,0.615,0
+1997,Central,2,Yokohama Bay Stars,72,63,0,0.533,11
+1997,Central,3,Hiroshima Toyo Carp,66,69,0,0.489,17
+1997,Central,4,Yomiuri Giants,63,72,0,0.467,20
+1997,Central,5,Hanshin Tigers,62,73,1,0.459,21
+1997,Central,6,Chunichi Dragons,59,76,1,0.437,24
+1997,Pacific,1,Seibu Lions,76,56,3,0.576,0
+1997,Pacific,2,Orix Blue Wave,71,61,3,0.538,5
+1997,Pacific,3,Osaka Kintetsu Buffaloes,68,63,4,0.519,7.5
+1997,Pacific,4,Fukuoka Daiei Hawks,63,71,1,0.47,14
+1997,Pacific,5,Nippon Ham Fighters,63,71,1,0.47,14
+1997,Pacific,6,Chiba Lotte Marines,57,76,2,0.429,19.5
+1998,Central,1,Hanshin Tigers,52,83,0,0.385,0
+1998,Central,2,Yokohama Bay Stars,79,56,1,0.585,-27
+1998,Central,3,Chunichi Dragons,75,60,1,0.556,-23
+1998,Central,4,Yomiuri Giants,73,62,0,0.541,-21
+1998,Central,5,Yakult Swallows,66,69,0,0.489,-14
+1998,Central,6,Hiroshima Carp,50,75,0,0.4,-3
+1998,Pacific,1,Seibu Lions,70,61,4,0.534,0
+1998,Pacific,2,Nippon Ham Fighters,67,65,3,0.508,3.5
+1998,Pacific,3,Fukuoka Daiei Hawks,67,67,1,0.5,4.5
+1998,Pacific,4,Orix Blue Wave,66,66,3,0.5,4.5
+1998,Pacific,5,Osaka Kintetsu Buffaloes,66,67,2,0.496,5
+1998,Pacific,6,Chiba Lotte Marines,61,71,3,0.462,9.5
+1999,Central,1,Chunichi Dragons,81,54,0,0.6,0
+1999,Central,2,Yomiuri Giants,75,60,0,0.556,6
+1999,Central,3,Yokohama Bay Stars,71,64,0,0.526,10
+1999,Central,4,Yakult Swallows,66,69,0,0.489,15
+1999,Central,5,Hiroshima Toyo Carp,57,78,0,0.422,24
+1999,Central,6,Hanshin Tigers,55,80,0,0.407,26
+1999,Pacific,1,Fukuoka Daiei Hawks,78,54,3,0.591,0
+1999,Pacific,2,Seibu Lions,75,59,1,0.56,4
+1999,Pacific,3,Orix Blue Wave,68,65,2,0.511,10.5
+1999,Pacific,4,Chiba Lotte Marines,63,70,2,0.474,15.5
+1999,Pacific,5,Nippon Ham Fighters,60,73,2,0.451,18.5
+1999,Pacific,6,Osaka Kintetsu Buffaloes,54,77,4,0.412,23.5
+2000,Central,1,Yomiuri Giants,78,57,0,0.578,0
+2000,Central,2,Chunichi Dragons,70,65,0,0.519,8
+2000,Central,3,Yokohama Bay Stars,69,66,1,0.511,9
+2000,Central,4,Yakult Swallows,66,69,1,0.489,12
+2000,Central,5,Hiroshima Toyo Carp,65,70,1,0.481,13
+2000,Central,6,Hanshin Tigers,57,78,1,0.422,21
+2000,Pacific,1,Fukuoka Daiei Hawks,73,60,2,0.549,0
+2000,Pacific,2,Seibu Lions,69,61,5,0.531,2.5
+2000,Pacific,3,Nippon Ham Fighters,69,65,1,0.515,4.5
+2000,Pacific,4,Orix Blue Wave,64,67,4,0.489,8
+2000,Pacific,5,Chiba Lotte Marines,62,67,6,0.481,9
+2000,Pacific,6,Osaka Kintetsu Buffaloes,58,75,2,0.436,15
+2001,Central,1,Yakult Swallows,76,58,6,0.567,0
+2001,Central,2,Yomiuri Giants,75,63,2,0.543,3
+2001,Central,3,Yokohama Bay Stars,69,67,4,0.507,8
+2001,Central,4,Hiroshima Carp,68,64,7,0.515,7
+2001,Central,5,Chunichi Dragons,62,74,4,0.456,15
+2001,Central,6,Hanshin Tigers,57,80,3,0.416,20.5
+2001,Pacific,1,Osaka Kintetsu Buffaloes,78,60,2,0.565,0
+2001,Pacific,2,Fukuoka Daiei Hawks,76,63,1,0.547,2.5
+2001,Pacific,3,Seibu Lions,73,67,0,0.521,6
+2001,Pacific,4,Orix Blue Wave,70,66,4,0.515,7
+2001,Pacific,5,Chiba Lotte Marines,64,74,2,0.464,14
+2001,Pacific,6,Nippon Ham Fighters,53,84,3,0.387,24.5
+2002,Central,1,Yomiuri Giants,86,52,2,0.623,0
+2002,Central,2,Yakult Swallows,74,62,4,0.544,11
+2002,Central,3,Chunichi Dragons,69,66,5,0.511,15.5
+2002,Central,4,Hanshin Tigers,66,70,4,0.485,19
+2002,Central,5,Hiroshima Carp,64,72,4,0.471,21
+2002,Central,6,Yokohama Bay Stars,49,86,5,0.363,35.5
+2002,Pacific,1,Seibu Lions,90,49,1,0.647,0
+2002,Pacific,2,Fukuoka Daiei Hawks,73,65,2,0.529,16.5
+2002,Pacific,3,Osaka Kintetsu Buffaloes,73,65,2,0.529,16.5
+2002,Pacific,4,Chiba Lotte Marines,67,72,1,0.482,23
+2002,Pacific,5,Nippon Ham Fighters,61,76,3,0.445,28
+2002,Pacific,6,Orix Blue Wave,50,87,3,0.365,39
+2003,Central,1,Hanshin Tigers,87,51,2,0.63,0
+2003,Central,2,Chunichi Dragons,73,66,1,0.525,14.5
+2003,Central,3,Yakult Swallows,71,66,3,0.518,15.5
+2003,Central,4,Yomiuri Giants,71,66,3,0.518,15.5
+2003,Central,5,Hiroshima Carp,67,71,2,0.486,20
+2003,Central,6,Yokohama Bay Stars,45,94,1,0.324,42.5
+2003,Pacific,1,Fukuoka Daiei Hawks,82,55,3,0.599,0
+2003,Pacific,2,Seibu Lions,77,61,2,0.558,5.5
+2003,Pacific,3,Osaka Kintetsu Buffaloes,74,64,2,0.536,8.5
+2003,Pacific,4,Chiba Lotte Marines,68,69,3,0.496,14
+2003,Pacific,5,Nippon Ham Fighters,62,74,4,0.456,19.5
+2003,Pacific,6,Orix Blue Wave,48,88,4,0.353,33.5
+2004,Central,1,Chunichi Dragons,79,56,3,0.585,0
+2004,Central,2,Yakult Swallows,72,64,2,0.529,7.5
+2004,Central,3,Yomiuri Giants,71,64,3,0.526,8
+2004,Central,4,Hanshin Tigers,66,70,2,0.485,13.5
+2004,Central,5,Hiroshima Carp,60,77,1,0.438,20
+2004,Central,6,Yokohama Bay Stars,59,76,3,0.437,20
+2004,Pacific,1,Fukuoka Daiei Hawks,77,52,4,0.597,0
+2004,Pacific,2,Seibu Lions,74,58,1,0.561,4.5
+2004,Pacific,3,Nippon Ham Fighters,66,65,2,0.504,12
+2004,Pacific,4,Chiba Lotte Marines,65,65,3,0.5,12.5
+2004,Pacific,5,Osaka Kintetsu Buffaloes,61,70,2,0.466,17
+2004,Pacific,6,Orix Blue Wave,49,72,2,0.405,24
+2005,Central,1,Hanshin Tigers,87,54,5,0.617,0
+2005,Central,2,Chunichi Dragons,79,66,1,0.545,10
+2005,Central,3,Yokohama Bay Stars,69,70,7,0.496,17
+2005,Central,4,Yakult Swallows,71,73,2,0.493,17.5
+2005,Central,5,Yomiuri Giants,62,80,4,0.437,25.5
+2005,Central,6,Hiroshima Carp,58,84,4,0.408,29.5
+2005,Pacific,1,Fukuoka Daiei Hawks,89,45,2,0.664,0
+2005,Pacific,2,Chiba Lotte Marines,84,49,3,0.632,4.5
+2005,Pacific,3,Seibu Lions,67,69,0,0.493,23
+2005,Pacific,4,Orix Buffaloes,62,70,4,0.47,26
+2005,Pacific,5,Nippon Ham Fighters,62,71,3,0.466,26.5
+2005,Pacific,6,Tohoku Rakuten Golden Eagles,38,97,1,0.281,51.5
+2006,Central,1,Chunichi Dragons,87,54,5,0.617,0
+2006,Central,2,Hanshin Tigers,84,58,4,0.592,3.5
+2006,Central,3,Yakult Swallows,70,73,3,0.49,18
+2006,Central,4,Yomiuri Giants,65,79,2,0.451,23.5
+2006,Central,5,Hiroshima Carp,62,79,5,0.44,25
+2006,Central,6,Yokohama Bay Stars,58,84,4,0.408,29.5
+2006,Pacific,1,Nippon Ham Fighters,82,54,0,0.603,0
+2006,Pacific,2,Seibu Lions,80,54,2,0.597,1
+2006,Pacific,3,Fukuoka Softbank Hawks,75,56,5,0.573,4.5
+2006,Pacific,4,Chiba Lotte Marines,65,70,1,0.481,16.5
+2006,Pacific,5,Orix Buffaloes,52,81,3,0.391,28.5
+2006,Pacific,6,Tohoku Rakuten Golden Eagles,47,85,4,0.356,33
+2007,Central,1,Yomiuri Giants,80,63,1,0.559,0
+2007,Central,2,Chunichi Dragons,78,64,2,0.549,1.5
+2007,Central,3,Hanshin Tigers,74,66,4,0.529,4.5
+2007,Central,4,Yokohama Bay Stars,71,72,1,0.497,9
+2007,Central,5,Hiroshima Carp,60,82,2,0.423,19.5
+2007,Central,6,Yakult Swallows,60,84,0,0.417,20.5
+2007,Pacific,1,Nippon Ham Fighters,79,60,5,0.568,0
+2007,Pacific,2,Chiba Lotte Marines,76,61,7,0.555,2
+2007,Pacific,3,Fukuoka Softbank Hawks,73,66,5,0.525,6
+2007,Pacific,4,Tohoku Rakuten Golden Eagles,67,75,2,0.472,13.5
+2007,Pacific,5,Seibu Lions,66,76,2,0.465,14.5
+2007,Pacific,6,Orix Buffaloes,62,77,5,0.446,17
+2008,Central,1,Yomiuri Giants,84,57,3,0.596,0
+2008,Central,2,Hanshin Tigers,82,59,3,0.582,2
+2008,Central,3,Chunichi Dragons,71,68,5,0.511,12
+2008,Central,4,Hiroshima Carp,69,70,5,0.496,14
+2008,Central,5,Yakult Swallows,66,74,4,0.471,17.5
+2008,Central,6,Yokohama Bay Stars,48,94,2,0.338,36.5
+2008,Pacific,1,Saitama Seibu Lions,76,64,4,0.543,0
+2008,Pacific,2,Orix Buffaloes,75,68,1,0.524,2.5
+2008,Pacific,3,Nippon Ham Fighters,73,69,2,0.514,4
+2008,Pacific,4,Chiba Lotte Marines,73,70,1,0.51,4.5
+2008,Pacific,5,Tohoku Rakuten Golden Eagles,65,76,3,0.461,11.5
+2008,Pacific,6,Fukuoka Softbank Hawks,64,77,3,0.454,12.5
+2009,Central,1,Yomiuri Giants,89,46,9,0.659,0
+2009,Central,2,Chunichi Dragons,81,62,1,0.566,12
+2009,Central,3,Yakult Swallows,71,72,1,0.497,22
+2009,Central,4,Hanshin Tigers,67,73,4,0.479,24.5
+2009,Central,5,Hiroshima Carp,65,75,4,0.464,26.5
+2009,Central,6,Yokohama Bay Stars,51,93,0,0.354,42.5
+2009,Pacific,1,Hokkaido Nippon Ham Fighters,82,60,2,0.577,0
+2009,Pacific,2,Tohoku Rakuten Golden Eagles,77,66,1,0.538,5.5
+2009,Pacific,3,Fukuoka Softbank Hawks,74,65,5,0.532,6.5
+2009,Pacific,4,Saitama Seibu Lions,70,70,4,0.5,11
+2009,Pacific,5,Chiba Lotte Marines,62,77,5,0.446,18.5
+2009,Pacific,6,Orix Buffaloes,56,86,2,0.394,26
+2010,Central,1,Chunichi Dragons,79,62,3,0.56,0
+2010,Central,2,Hanshin Tigers,78,63,3,0.553,1
+2010,Central,3,Yomiuri Giants,79,64,1,0.552,1
+2010,Central,4,Yakult Swallows,72,68,4,0.514,6.5
+2010,Central,5,Hiroshima Carp,58,84,2,0.408,21.5
+2010,Central,6,Yokohama Bay Stars,48,95,1,0.336,32
+2010,Pacific,1,Fukuoka Softbank Hawks,76,63,5,0.547,0
+2010,Pacific,2,Saitama Seibu Lions,78,65,1,0.545,0
+2010,Pacific,3,Chiba Lotte Marines,75,67,2,0.528,2.5
+2010,Pacific,4,Hokkaido Nippon Ham Fighters,74,67,3,0.525,3
+2010,Pacific,5,Orix Buffaloes,69,71,4,0.493,7.5
+2010,Pacific,6,Tohoku Rakuten Golden Eagles,62,79,3,0.44,15
+2011,Central,1,Chunichi Dragons,75,59,10,0.56,0
+2011,Central,2,Yakult Swallows,70,59,15,0.543,2.5
+2011,Central,3,Yomiuri Giants,71,62,11,0.534,3.5
+2011,Central,4,Hanshin Tigers,68,70,6,0.493,9
+2011,Central,5,Hiroshima Carp,60,76,8,0.441,16
+2011,Central,6,Yokohama Bay Stars,47,86,11,0.353,27.5
+2011,Pacific,1,Fukuoka Softbank Hawks,88,46,10,0.657,0
+2011,Pacific,2,Hokkaido Nippon Ham Fighters,72,65,7,0.526,17.5
+2011,Pacific,3,Saitama Seibu Lions,68,67,9,0.504,20.5
+2011,Pacific,4,Orix Buffaloes,69,68,7,0.504,20.5
+2011,Pacific,5,Tohoku Rakuten Golden Eagles,66,71,7,0.482,23.5
+2011,Pacific,6,Chiba Lotte Marines,54,79,11,0.406,33.5
+2012,Central,1,Yomiuri Giants,86,43,15,0.667,0
+2012,Central,2,Chunichi Dragons,75,53,16,0.586,10.5
+2012,Central,3,Yakult Swallows,68,65,11,0.511,20
+2012,Central,4,Hiroshima Carp,61,71,12,0.462,26.5
+2012,Central,5,Hanshin Tigers,55,75,14,0.423,31.5
+2012,Central,6,Yokohama Bay Stars,46,85,13,0.351,41
+2012,Pacific,1,Hokkaido Nippon Ham Fighters,74,59,11,0.556,0
+2012,Pacific,2,Saitama Seibu Lions,72,63,9,0.533,3
+2012,Pacific,3,Fukuoka Softbank Hawks,67,65,12,0.508,6.5
+2012,Pacific,4,Tohoku Rakuten Golden Eagles,67,67,10,0.5,7.5
+2012,Pacific,5,Chiba Lotte Marines,62,67,15,0.481,10
+2012,Pacific,6,Orix Buffaloes,57,77,10,0.425,17.5
+2013,Central,1,Yomiuri Giants,84,53,7,0.613,0
+2013,Central,2,Hanshin Tigers,73,67,4,0.521,12.5
+2013,Central,3,Hiroshima Carp,69,72,3,0.489,17
+2013,Central,4,Chunichi Dragons,64,77,3,0.454,22
+2013,Central,5,Yokohama Bay Stars,64,79,1,0.448,23
+2013,Central,6,Yakult Swallows,57,83,4,0.407,28.5
+2013,Pacific,1,Tohoku Rakuten Golden Eagles,82,59,3,0.582,0
+2013,Pacific,2,Saitama Seibu Lions,74,66,4,0.529,7.5
+2013,Pacific,3,Chiba Lotte Marines,74,68,2,0.521,8.5
+2013,Pacific,4,Fukuoka Softbank Hawks,73,69,2,0.514,9.5
+2013,Pacific,5,Orix Buffaloes,66,73,5,0.475,15
+2013,Pacific,6,Hokkaido Nippon Ham Fighters,64,78,2,0.451,18.5
+2014,Central,1,Yomiuri Giants,82,61,1,0.573,0
+2014,Central,2,Hanshin Tigers,75,68,1,0.524,7
+2014,Central,3,Hiroshima Carp,74,68,2,0.521,7.5
+2014,Central,4,Chunichi Dragons,67,73,4,0.479,13.5
+2014,Central,5,Yokohama Bay Stars,67,75,2,0.472,14.5
+2014,Central,6,Yakult Swallows,60,81,3,0.426,21
+2014,Pacific,1,Fukuoka Softbank Hawks,78,60,6,0.565,0
+2014,Pacific,2,Orix Buffaloes,80,62,2,0.563,0
+2014,Pacific,3,Hokkaido Nippon Ham Fighters,73,68,3,0.518,6.5
+2014,Pacific,4,Chiba Lotte Marines,66,76,2,0.465,14
+2014,Pacific,5,Saitama Seibu Lions,63,77,4,0.45,16
+2014,Pacific,6,Tohoku Rakuten Golden Eagles,64,80,0,0.444,17
+2015,Central,1,Yakult Swallows,76,65,2,0.539,0
+2015,Central,2,Yomiuri Giants,75,67,1,0.528,1.5
+2015,Central,3,Hanshin Tigers,70,71,2,0.496,6
+2015,Central,4,Hiroshima Carp,69,71,3,0.493,6.5
+2015,Central,5,Chunichi Dragons,62,77,4,0.446,13
+2015,Central,6,Yokohama Bay Stars,62,80,1,0.437,14.5
+2015,Pacific,1,Fukuoka Softbank Hawks,90,49,4,0.647,0
+2015,Pacific,2,Hokkaido Nippon Ham Fighters,79,62,2,0.56,12
+2015,Pacific,3,Chiba Lotte Marines,73,69,1,0.514,18.5
+2015,Pacific,4,Saitama Seibu Lions,69,69,5,0.5,20.5
+2015,Pacific,5,Orix Buffaloes,61,80,2,0.433,30
+2015,Pacific,6,Tohoku Rakuten Golden Eagles,57,83,3,0.407,33.5
+2016,Central,1,Hiroshima Carp,89,52,2,0.631,0
+2016,Central,2,Yomiuri Giants,71,69,3,0.507,17.5
+2016,Central,3,Yokohama Bay Stars,69,71,3,0.493,19.5
+2016,Central,4,Hanshin Tigers,64,76,3,0.457,24.5
+2016,Central,5,Yakult Swallows,64,78,1,0.451,25.5
+2016,Central,6,Chunichi Dragons,58,82,3,0.414,30.5
+2016,Pacific,1,Hokkaido Nippon Ham Fighters,87,53,3,0.621,0
+2016,Pacific,2,Fukuoka Softbank Hawks,83,54,6,0.606,2.5
+2016,Pacific,3,Chiba Lotte Marines,72,68,3,0.514,15
+2016,Pacific,4,Saitama Seibu Lions,64,76,3,0.457,23
+2016,Pacific,5,Tohoku Rakuten Golden Eagles,62,78,3,0.443,25
+2016,Pacific,6,Orix Buffaloes,57,83,3,0.407,30
+2017,Central,1,Hiroshima Carp,88,51,4,0.633,0
+2017,Central,2,Hanshin Tigers,78,61,4,0.561,10
+2017,Central,3,Yokohama Bay Stars,73,65,5,0.529,14.5
+2017,Central,4,Yomiuri Giants,72,68,3,0.514,16.5
+2017,Central,5,Chunichi Dragons,59,79,5,0.428,28.5
+2017,Central,6,Yakult Swallows,45,96,2,0.319,44
+2017,Pacific,1,Fukuoka Softbank Hawks,94,49,0,0.657,0
+2017,Pacific,2,Saitama Seibu Lions,79,61,3,0.564,13.5
+2017,Pacific,3,Tohoku Rakuten Golden Eagles,77,63,3,0.55,15.5
+2017,Pacific,4,Orix Buffaloes,63,79,1,0.444,30.5
+2017,Pacific,5,Hokkaido Nippon Ham Fighters,60,83,0,0.42,34
+2017,Pacific,6,Chiba Lotte Marines,54,87,2,0.383,39
+2018,Central,1,Hiroshima Carp,82,59,2,0.582,0
+2018,Central,2,Yakult Swallows,75,66,2,0.532,7
+2018,Central,3,Yomiuri Giants,67,71,5,0.486,13.5
+2018,Central,4,Yokohama Bay Stars,67,74,2,0.475,15
+2018,Central,5,Chunichi Dragons,63,78,2,0.447,19
+2018,Central,6,Hanshin Tigers,62,79,2,0.44,20
+2018,Pacific,1,Saitama Seibu Lions,88,53,2,0.624,0
+2018,Pacific,2,Fukuoka Softbank Hawks,82,60,1,0.577,6.5
+2018,Pacific,3,Hokkaido Nippon Ham Fighters,74,66,3,0.529,13.5
+2018,Pacific,4,Orix Buffaloes,65,73,5,0.471,21.5
+2018,Pacific,5,Chiba Lotte Marines,59,81,3,0.421,28.5
+2018,Pacific,6,Tohoku Rakuten Golden Eagles,58,82,3,0.414,29.5
+2019,Central,1,Yomiuri Giants,77,64,2,0.546,0
+2019,Central,2,Yokohama Bay Stars,71,69,3,0.507,5.5
+2019,Central,3,Hanshin Tigers,69,68,6,0.504,6
+2019,Central,4,Hiroshima Carp,70,70,3,0.5,6.5
+2019,Central,5,Chunichi Dragons,68,73,2,0.482,9
+2019,Central,6,Yakult Swallows,59,82,2,0.418,18
+2019,Pacific,1,Saitama Seibu Lions,80,62,1,0.563,0
+2019,Pacific,2,Fukuoka Softbank Hawks,76,62,5,0.551,2
+2019,Pacific,3,Tohoku Rakuten Golden Eagles,71,68,4,0.511,7.5
+2019,Pacific,4,Chiba Lotte Marines,69,70,4,0.496,9.5
+2019,Pacific,5,Hokkaido Nippon Ham Fighters,65,73,5,0.471,13
+2019,Pacific,6,Orix Buffaloes,61,75,7,0.449,16
+2020,Central,1,Yomiuri Giants,67,45,8,0.598,0
+2020,Central,2,Hanshin Tigers,60,53,7,0.531,7.5
+2020,Central,3,Chunichi Dragons,60,55,5,0.522,8.5
+2020,Central,4,Yokohama Bay Stars,56,58,6,0.491,12
+2020,Central,5,Hiroshima Carp,52,56,12,0.481,13
+2020,Central,6,Yakult Swallows,41,69,10,0.373,25
+2020,Pacific,1,Fukuoka Softbank Hawks,73,42,5,0.635,0
+2020,Pacific,2,Chiba Lotte Marines,60,57,3,0.513,14
+2020,Pacific,3,Saitama Seibu Lions,58,58,4,0.5,15.5
+2020,Pacific,4,Tohoku Rakuten Golden Eagles,55,57,8,0.491,16.5
+2020,Pacific,5,Hokkaido Nippon Ham Fighters,53,62,5,0.461,20
+2020,Pacific,6,Orix Buffaloes,45,68,7,0.398,27
+2021,Central,1,Yakult Swallows,73,52,18,0.584,0
+2021,Central,2,Hanshin Tigers,77,56,10,0.579,0
+2021,Central,3,Yomiuri Giants,61,62,20,0.496,11
+2021,Central,4,Hiroshima Carp,63,68,12,0.481,13
+2021,Central,5,Chunichi Dragons,55,71,17,0.437,18.5
+2021,Central,6,Yokohama Bay Stars,54,73,16,0.425,20
+2021,Pacific,1,Orix Buffaloes,70,55,18,0.56,0
+2021,Pacific,2,Chiba Lotte Marines,67,57,19,0.54,2.5
+2021,Pacific,3,Tohoku Rakuten Golden Eagles,66,62,15,0.516,5.5
+2021,Pacific,4,Fukuoka Softbank Hawks,60,62,21,0.492,8.5
+2021,Pacific,5,Hokkaido Nippon Ham Fighters,55,68,20,0.447,14
+2021,Pacific,6,Saitama Seibu Lions,55,70,18,0.44,15
+2022,Central,1,Yakult Swallows,80,59,4,0.576,0
+2022,Central,2,Yokohama Bay Stars,73,68,2,0.518,8
+2022,Central,3,Hanshin Tigers,68,71,4,0.489,12
+2022,Central,4,Yomiuri Giants,68,72,3,0.486,12.5
+2022,Central,5,Hiroshima Carp,66,74,3,0.471,14.5
+2022,Central,6,Chunichi Dragons,66,75,2,0.468,15
+2022,Pacific,1,Fukuoka Softbank Hawks,76,65,2,0.539,0
+2022,Pacific,2,Orix Buffaloes,76,65,2,0.539,0
+2022,Pacific,3,Saitama Seibu Lions,72,68,3,0.514,3.5
+2022,Pacific,4,Tohoku Rakuten Golden Eagles,69,71,3,0.493,6.5
+2022,Pacific,5,Chiba Lotte Marines,69,73,1,0.486,7.5
+2022,Pacific,6,Hokkaido Nippon Ham Fighters,59,81,3,0.421,16.5
+2023,Central,1,Hanshin Tigers,85,53,5,0.616,0
+2023,Central,2,Hiroshima Carp,74,65,4,0.532,11.5
+2023,Central,3,Yokohama Bay Stars,74,66,3,0.529,12
+2023,Central,4,Yomiuri Giants,71,70,2,0.504,15.5
+2023,Central,5,Yakult Swallows,57,83,3,0.407,29
+2023,Central,6,Chunichi Dragons,56,82,5,0.406,29
+2023,Pacific,1,Orix Buffaloes,86,53,4,0.619,0
+2023,Pacific,2,Chiba Lotte Marines,70,68,5,0.507,15.5
+2023,Pacific,3,Fukuoka Softbank Hawks,71,69,3,0.507,15.5
+2023,Pacific,4,Tohoku Rakuten Golden Eagles,70,71,2,0.496,17
+2023,Pacific,5,Saitama Seibu Lions,65,77,1,0.458,22.5
+2023,Pacific,6,Hokkaido Nippon Ham Fighters,60,82,1,0.423,27.5

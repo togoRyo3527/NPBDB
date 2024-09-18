@@ -54,3 +54,57 @@ data %>%
   mutate_all(~replace(., is.infinite(.), -99999)) %>% 
   write_csv("../../data/PlayerFieldingByYear.csv")
 setwd("../..")
+
+
+# league rank -------------------------------------------------------------
+setwd("./rawdata/league/rank/")
+csv_list <- list.files(pattern = "*Rank.csv")
+readrank <- function(x){
+  df <- read_csv(x)
+  if(ncol(df) == 6) return(df)
+  return(df %>% mutate(ties = 0) %>% arrange(ties, .after = loses))
+}
+data <- do.call(
+  rbind, 
+  lapply(
+    csv_list, 
+    function(x){
+      df <- read_csv(x)
+      if(ncol(df) == 8){
+        df <- df %>% mutate(ties = 0) %>% relocate(ties, .after = loses)
+      }
+      return(df)
+    }
+))
+data %>% write_csv("../../../data/LeagueRank.csv")
+setwd("../../..")
+
+
+# batting by team ---------------------------------------------------------
+setwd("./rawdata/league/batting/")
+csv_list <- list.files(pattern = "*TeamBatting.csv")
+data <- do.call(rbind, lapply(csv_list, function(x) read_csv(x)))
+data %>% write_csv("../../../data/TeamBattingByYear.csv")
+setwd("../../..")
+
+# batting by league -------------------------------------------------------
+setwd("./rawdata/league/batting/")
+csv_list <- list.files(pattern = "*LeagueBatting.csv")
+data <- do.call(rbind, lapply(csv_list, function(x) read_csv(x)))
+data %>% write_csv("../../../data/LeagueBattingByYear.csv")
+setwd("../../..")
+
+# pitching by team --------------------------------------------------------
+setwd("./rawdata/league/pitching/")
+csv_list <- list.files(pattern = "*TeamPitching.csv")
+data <- do.call(rbind, lapply(csv_list, function(x) read_csv(x)))
+data %>% write_csv("../../../data/TeamPitchingByYear.csv")
+setwd("../../..")
+
+# pitching by league -----------------------------------------------------
+setwd("./rawdata/league/pitching/")
+csv_list <- list.files(pattern = "*LeaguePitching.csv")
+data <- do.call(rbind, lapply(csv_list, function(x) read_csv(x)))
+data %>% write_csv("../../../data/LeaguePitchingByYear.csv")
+setwd("../../..")
+

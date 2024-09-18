@@ -172,6 +172,7 @@ reading_league <- function(){
   }
   
   for(i in 1:2){
+    i <-  2
     allYearHtml <- read_html(allYearHTML[i])
     Leagues <- c("Pacific", "Central")
     League <- Leagues[i]
@@ -190,26 +191,41 @@ reading_league <- function(){
         )
       txt <- read_html(url) %>% 
         gsub("<!--", "", .) %>% gsub("-->", "", .)
+      Sys.sleep(3)
       html_season <- read_html(txt)
 
 # 順位表 ---------------------------------------------------------------------
       fileName <- paste0(Year, League, "Rank.csv")
       fileName %>% print()
-      html_season %>% 
+      table <- html_season %>% 
         html_node(xpath = '//*[@id="div_regular_season"]') %>% 
-        html_table() %>% 
-        set_names(c(
-          "team", "wins", "loses", "ties", "WL", "GB"
-        )) %>% 
-        rowid_to_column(var = "rank") %>% 
-        mutate(
-          year = Year,
-          league = League,
-          GB = if_else(GB == "--", "0", GB) %>% as.numeric()
+        html_table()
+      if(ncol(table) == 6){
+        table %>% 
+          set_names(c("team", "wins", "loses", "ties", "WL", "GB")) %>% 
+          rowid_to_column(var = "rank") %>% 
+          mutate(
+            year = Year,
+            league = League,
+            GB = if_else(GB == "--", "0", GB) %>% as.numeric()
           ) %>% 
-        select(year, league, everything()) %>% 
-        write_csv(paste0("./rawdata/league/rank/", fileName))
-
+          select(year, league, everything()) %>% 
+          write_csv(paste0("./rawdata/league/rank/", fileName))
+      } else if(ncol(table) == 5){
+        table %>% 
+          mutate(ties = 0) %>% 
+          arrange(ties, .after = loses) %>% 
+          set_names(c("team", "wins", "loses", "ties", "WL", "GB")) %>% 
+          rowid_to_column(var = "rank") %>% 
+          mutate(
+            year = Year,
+            league = League,
+            GB = if_else(GB == "--", "0", GB) %>% as.numeric()
+          ) %>% 
+          select(year, league, everything()) %>% 
+          write_csv(paste0("./rawdata/league/rank/", fileName))
+      }
+      
 # チーム打撃 -------------------------------------------------------------------
       data <- html_season %>% 
         html_node(xpath = '///*[@id="div_league_batting"]') %>% 
@@ -309,7 +325,7 @@ reading_league <- function(){
         write_csv(paste0("./rawdata/league/fielding/", fileName))
       
       # Wait for 
-      Sys.sleep(15) 
+      Sys.sleep(60) 
     }
   }
 }
